@@ -1,6 +1,8 @@
 # NarcoCalc
 
-![Alt-Text](/uploads/1edbd290dea908e46ca69878139919f3/android-chrome-192x108.png)
+# ![Alt-Text](/uploads/1edbd290dea908e46ca69878139919f3/android-chrome-192x108.png)
+
+![image info](public/img/icons/android-chrome-192x192.png)
 
 [comment]: # "Bild: Modified: gemeinfrei - PublicDomainPictures/ Pixabay / CC0"
 [comment]: # "Modified from: https://pixabay.com/illustrations/pulse-trace-healthcare-medicine-163708/"
