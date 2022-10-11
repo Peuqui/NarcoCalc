@@ -1,5 +1,5 @@
 pages: # the job must be named pages
-  image: node:10.0
+  image: node:12.0
   stage: deploy
   script:
     - yarn install
