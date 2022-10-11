@@ -1,7 +1,5 @@
 # NarcoCalc
 
-# ![Alt-Text](/uploads/1edbd290dea908e46ca69878139919f3/android-chrome-192x108.png)
-
 ![image info](public/img/icons/android-chrome-192x192.png)
 
 [comment]: # "Bild: Modified: gemeinfrei - PublicDomainPictures/ Pixabay / CC0"
@@ -48,7 +46,7 @@ published under the MIT License
 
 ### Sponsor-Logo
 
-![Alt-Text](/uploads/44e16d1f655202fdbbf2582d8f922fb3/BrowserStack-Logo.png)
+![image info](public/img/BrowserStack.png)
 
 ### License of the NarcoCalc logo
 
