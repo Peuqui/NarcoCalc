@@ -1,0 +1,116 @@
+:root {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	background: #3c8d25; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to bottom,
+		#3c8d25,
+		#044900
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to bottom,
+		#3c8d25,
+		#044900
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body {
+	margin: 0;
+	font-family: "Raleway", "Lato", "Helvetica Neue", "Arial", "sans-serif";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 16px;
+	color: $Schrift;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/** --------- Generelle Einstellungen ------- */
+
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+/** ------ Grid-System -----( Sichtbarkeit )--------------------- */
+
+/* .border, .border * {
+    border: 1px solid #91c4ff;
+}
+
+[class*="col-"] {
+    background-color: #bfddff;
+}
+
+p {
+    background-color: #91c4ff;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+} */
+
+/** ------ Grid-System -------------------------- */
+
+.container {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+[class*="col-"] {
+	float: left;
+	min-height: 1px;
+	padding: 0.8rem;
+}
+
+.col-2 {
+	width: 33.333%;
+}
+
+.col-3 {
+	width: 50%;
+}
+
+.col-6 {
+	width: 100%;
+}
+
+/** wichtige Breakpoints 
+ * 
+ * (320 px iPhone Hochformat)
+ * 480 px iPhone Querformat
+ * 768 px iPad Hochformat
+ * 1024 px iPad Querformat
+ * (1200 px Laptop)
+ * (>1200 px große Endgeräte)
+ *
+**/
+
+@media (max-width: 935px) {
+	.col-2 {
+		width: 50%;
+	}
+	.col-3 {
+		width: 100%;
+	}
+}
+
+@media (max-width: 620px) {
+	.col-2 {
+		width: 100%;
+	}
+	.col-3 {
+		width: 100%;
+	}
+}
