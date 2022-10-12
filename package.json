@@ -19,7 +19,7 @@
 		"vue-flag-icon": "^1.0.6",
 		"vue-i18n": "^8.11.2",
 		"vue-loader": "^15.7.0",
-		"vue-numeric-input": "^1.0.5",
+		"vue-numeric-input": "^2.0.0",
 		"vue-router": "^3.0.1"
 	},
 	"devDependencies": {
