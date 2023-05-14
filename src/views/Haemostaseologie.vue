@@ -1,120 +1,122 @@
 <i18n>
 {
    "de": {
-    "PersDaten"       : "Personen-Daten",
-    "male"            : "männlich",
-    "female"          : "weiblich",
-    "height"          : "Körpergröße",
-    "weight"          : "Gewicht",
-    "preopHB"         : "präop. HB",
-    "calc"            : "Berechnungen",
-    "bodydata"        : "Körperdaten",
-    "beatmung"        : "Tidalvolumen",
-    "mtevv"           : "MTEVV",
-    "mtbv"            : "MTBV",
-    "haemotas"        : "Hämostaseologie",
-    "akt"             : "akt.",
-    "hkt"             : "HKT",
-    "kof"             : "KOF",
-    "blutVol"         : "Blutvolumen",
-    "preop"           : "präop.",
-    "intraop"         : "intraop.",
-    "evVerlust"       : "EV-Verlust",
-    "blutVerlust"     : "Blutverlust",
-    "fluidBilanz"     : "Flüssigkeitsbilanz",
-    "eventeriert"     : "event.",
-    "gesamt"          : "gesamt",
-    "volEffekt"       : "Volumeneffekt",
-    "volBilanz"       : "Volumenbilanz",
-    "bga"             : "Blutgasanalysen",
-    "volTher"         : "Volumentherapie",
-    "opZeit"          : "OP-Zeit, gesamt",
-    "opZeitEvent"     : "OP-Zeit, eventeriert",
-    "stk"             : "Stk",
-    "ek"              : "EK",
-    "matHK"           : "HKT (MAT)",
-    "tk"              : "TK",
-    "kristalloide"    : "Kristalloide",
-    "diurese"         : "Diurese",
-    "3_stufen"        : "3-Stufen-Konzept",
-    "stufe"           : "Stufe",
-    "erford_Krist"    : "erforderliche Krist.",
-    "inkl_Urin_Persp" : "inkl. Urin & Persp.",
-    "bv"              : "BV",
-    "hinaus"          : "hinaus",
-    "kolloidEinsatz"  : "Kolloideinsatz",
-    "gr_fast_BV"      : "große und schnelle Blutverluste",
-    "normWerte"       : "Normwerte",
-    "eryVolumen"      : "Erythrocytenvolumen",
-    "mann"            : "Mann",
-    "frau"            : "Frau",
-    "volPlasma"       : "Plasmavolumen",
-    "volEK"           : "Volumen eines EK",
-    "evEK"            : "Erythrocytenvolumen (EV) in 1 EK",
-    "volFFP"          : "Volumen eines FFP",
-    "beiMaxEvent"     : "bei max. Event.",
-    "volEffekte"      : "Volumeneffekte",
-    "mat"             : "Masch. Autotransfusion",
-    "vol"             : "Volumen",
-    "kristalloid"     : "Kristalloid"
+    "PersDaten"         : "Personen-Daten",
+    "male"              : "männlich",
+    "female"            : "weiblich",
+    "height"            : "Körpergröße",
+    "weight"            : "Gewicht",
+    "preopHB"           : "präop. HB",
+    "calc"              : "Berechnungen",
+    "bodydata"          : "Körperdaten",
+    "beatmung"          : "Tidalvolumen",
+    "mtevv"             : "MTEVV",
+    "mtbv"              : "MTBV",
+    "haemotas"          : "Hämostaseologie",
+    "akt"               : "akt.",
+    "hkt"               : "HKT",
+    "kof"               : "KOF",
+    "blutVol"           : "Blutvolumen",
+    "preop"             : "präop.",
+    "intraop"           : "intraop.",
+    "evVerlust"         : "EV-Verlust",
+    "blutVerlust"       : "Blutverlust",
+    "blutVerlustProzent": "Blutverlust in %",
+    "fluidBilanz"       : "Flüssigkeitsbilanz",
+    "eventeriert"       : "event.",
+    "gesamt"            : "gesamt",
+    "volEffekt"         : "Volumeneffekt",
+    "volBilanz"         : "Volumenbilanz",
+    "bga"               : "Blutgasanalysen",
+    "volTher"           : "Volumentherapie",
+    "opZeit"            : "OP-Zeit, gesamt",
+    "opZeitEvent"       : "OP-Zeit, eventeriert",
+    "stk"               : "Stk",
+    "ek"                : "EK",
+    "matHK"             : "HKT (MAT)",
+    "tk"                : "TK",
+    "kristalloide"      : "Kristalloide",
+    "diurese"           : "Diurese",
+    "3_stufen"          : "3-Stufen-Konzept",
+    "stufe"             : "Stufe",
+    "erford_Krist"      : "erforderliche Krist.",
+    "inkl_Urin_Persp"   : "inkl. Urin & Persp.",
+    "bv"                : "BV",
+    "hinaus"            : "hinaus",
+    "kolloidEinsatz"    : "Kolloideinsatz",
+    "gr_fast_BV"        : "große und schnelle Blutverluste",
+    "normWerte"         : "Normwerte",
+    "eryVolumen"        : "Erythrocytenvolumen",
+    "mann"              : "Mann",
+    "frau"              : "Frau",
+    "volPlasma"         : "Plasmavolumen",
+    "volEK"             : "Volumen eines EK",
+    "evEK"              : "Erythrocytenvolumen (EV) in 1 EK",
+    "volFFP"            : "Volumen eines FFP",
+    "beiMaxEvent"       : "bei max. Event.",
+    "volEffekte"        : "Volumeneffekte",
+    "mat"               : "Masch. Autotransfusion",
+    "vol"               : "Volumen",
+    "kristalloid"       : "Kristalloid"
     
       },
   "en": {
     "PersDaten": "Patient Data",
-    "male"            : "male",
-    "female"          : "female",
-    "height"          : "Body Size",
-    "weight"          : "Bodyweight",
-    "preopHB"         : "preop. HB",
-    "calc"            : "Calculation",
-    "bodydata"        : "Body Data",
-    "beatmung"        : "Tidal Volume",
-    "mtevv"           : "MTEVL",
-    "mtbv"            : "MTBL",
-    "haemotas"        : "Haemostaseology",
-    "akt"             : "act.",
-    "hkt"             : "HCT",
-    "kof"             : "BSA",
-    "blutVol"         : "Blood Volume",
-    "preop"           : "preop.",
-    "evVerlust"       : "EV Loss",
-    "blutVerlust"     : "Blood Loss",
-    "fluidBilanz"     : "Fluid Balance",
-    "eventeriert"     : "evisc.",
-    "gesamt"          : "total",
-    "volEffekt"       : "Volume Effect",
-    "volBilanz"       : "Volume Balance",
-    "bga"             : "Blood Gas Analysis",
-    "volTher"         : "Volume Therapy",
-    "opZeit"          : "OR-Time",
-    "opZeitEvent"     : "OR-Time, eviscerated",
-    "stk"             : "pc.",
-    "ek"              : "RCC",
-    "matHK"           : "HCT (MAT)",
-    "tk"              : "TC",
-    "kristalloide"    : "Crystalloids",
-    "diurese"         : "Diuresis",
-    "3_stufen"        : "3-Stage-Concept",
-    "stufe"           : "Stage",
-    "erford_Krist"    : "required Cryst.",
-    "inkl_Urin_Persp" : "incl. Urine & Persp.",
-    "bv"              : "BL",
-    "hinaus"          : "beyond",
-    "kolloidEinsatz"  : "Colloid Use",
-    "gr_fast_BV"      : "big and fast Blood Loss",
-    "normWerte"       : "Normal values",
-    "eryVolumen"      : "Erythrocyte Volume",
-    "mann"            : "Men",
-    "frau"            : "Women",
-    "volPlasma"       : "Plasma Volume",
-    "volEK"           : "Volume of 1 RCC",
-    "evEK"            : "EV in 1 RCC", 
-    "volFFP"          : "Volume 1 FFP",
-    "beiMaxEvent"     : "at max. Evisc.",
-    "volEffekte"      : "Volume Effects",
-    "mat"             : "Mach. Autotransfusion",
-    "vol"             : "Volume",
-    "kristalloid"     : "Crystalloid"
+    "male"              : "male",
+    "female"            : "female",
+    "height"            : "Body Size",
+    "weight"            : "Bodyweight",
+    "preopHB"           : "preop. HB",
+    "calc"              : "Calculation",
+    "bodydata"          : "Body Data",
+    "beatmung"          : "Tidal Volume",
+    "mtevv"             : "MTEVL",
+    "mtbv"              : "MTBL",
+    "haemotas"          : "Haemostaseology",
+    "akt"               : "act.",
+    "hkt"               : "HCT",
+    "kof"               : "BSA",
+    "blutVol"           : "Blood Volume",
+    "preop"             : "preop.",
+    "evVerlust"         : "EV Loss",
+    "blutVerlust"       : "Blood Loss",
+    "blutVerlustProzent": "Blood Loss in %",
+    "fluidBilanz"       : "Fluid Balance",
+    "eventeriert"       : "evisc.",
+    "gesamt"            : "total",
+    "volEffekt"         : "Volume Effect",
+    "volBilanz"         : "Volume Balance",
+    "bga"               : "Blood Gas Analysis",
+    "volTher"           : "Volume Therapy",
+    "opZeit"            : "OR-Time",
+    "opZeitEvent"       : "OR-Time, eviscerated",
+    "stk"               : "pc.",
+    "ek"                : "RCC",
+    "matHK"             : "HCT (MAT)",
+    "tk"                : "TC",
+    "kristalloide"      : "Crystalloids",
+    "diurese"           : "Diuresis",
+    "3_stufen"          : "3-Stage-Concept",
+    "stufe"             : "Stage",
+    "erford_Krist"      : "required Cryst.",
+    "inkl_Urin_Persp"   : "incl. Urine & Persp.",
+    "bv"                : "BL",
+    "hinaus"            : "beyond",
+    "kolloidEinsatz"    : "Colloid Use",
+    "gr_fast_BV"        : "big and fast Blood Loss",
+    "normWerte"         : "Normal values",
+    "eryVolumen"        : "Erythrocyte Volume",
+    "mann"              : "Men",
+    "frau"              : "Women",
+    "volPlasma"         : "Plasma Volume",
+    "volEK"             : "Volume of 1 RCC",
+    "evEK"              : "EV in 1 RCC", 
+    "volFFP"            : "Volume 1 FFP",
+    "beiMaxEvent"       : "at max. Evisc.",
+    "volEffekte"        : "Volume Effects",
+    "mat"               : "Mach. Autotransfusion",
+    "vol"               : "Volume",
+    "kristalloid"       : "Crystalloid"
   }
 }
 </i18n>
@@ -126,15 +128,21 @@
       <div class="col-2">
         <div class="rahmen">
           <fieldset>
-            <legend>{{ $t('PersDaten') }}</legend>
+            <legend>{{ $t("PersDaten") }}</legend>
             <table width="100%">
               <tr>
                 <td>
-                  <label class="sex" for="maennlich">{{ $t('male') }}</label>
-                  <input type="radio" v-model="sex" value="m" id="maennlich" name="sex" />
+                  <label class="sex" for="maennlich">{{ $t("male") }}</label>
+                  <input
+                    type="radio"
+                    v-model="sex"
+                    value="m"
+                    id="maennlich"
+                    name="sex"
+                  />
                 </td>
                 <td>
-                  <label class="sex" for="weiblich">{{ $t('female') }}</label>
+                  <label class="sex" for="weiblich">{{ $t("female") }}</label>
                   <input type="radio" v-model="sex" value="w" name="sex" />
                 </td>
               </tr>
@@ -159,7 +167,7 @@
                 </td>
               </tr>
               <tr>
-                <td>{{ $t('preop') }} {{ $t('hkt') }}</td>
+                <td>{{ $t("preop") }} {{ $t("hkt") }}</td>
                 <td>
                   :
                   <span class="input">{{ praeopHK }}</span>
@@ -168,7 +176,7 @@
               </tr>
               <tr>
                 <td class="warn">
-                  {{ $t('mtevv') }}
+                  {{ $t("mtevv") }}
                   <sup>1)</sup>
                 </td>
                 <td>
@@ -179,7 +187,7 @@
               </tr>
               <tr>
                 <td class="warn">
-                  {{ $t('mtbv') }}
+                  {{ $t("mtbv") }}
                   <sup>2)</sup>
                 </td>
                 <td>
@@ -195,13 +203,13 @@
 
           <!--- Berechnungen ------->
           <fieldset>
-            <legend>{{ $t('calc') }}</legend>
+            <legend>{{ $t("calc") }}</legend>
             <fieldset>
-              <legend>{{ $t('haemotas') }}</legend>
+              <legend>{{ $t("haemotas") }}</legend>
               <table width="100%">
                 <tr>
                   <td>
-                    <span class="input">{{ $t('akt') }} HB</span>
+                    <span class="input">{{ $t("akt") }} HB</span>
                   </td>
                   <td>
                     :
@@ -211,7 +219,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <span class="input">{{ $t('akt') }} {{ $t('hkt') }}</span>
+                    <span class="input">{{ $t("akt") }} {{ $t("hkt") }}</span>
                   </td>
                   <td>
                     :
@@ -222,7 +230,7 @@
 
                 <tr>
                   <td>
-                    <span class="input">&#x2205; {{ $t('hkt') }}</span>
+                    <span class="input">&#x2205; {{ $t("hkt") }}</span>
                   </td>
                   <td>
                     :
@@ -231,7 +239,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>{{ $t('kof') }}</td>
+                  <td>{{ $t("kof") }}</td>
                   <td>
                     :
                     <span class="input">{{ KOF }}</span>
@@ -243,7 +251,7 @@
                 </tr>
 
                 <tr>
-                  <td>{{ $t('blutVol') }}</td>
+                  <td>{{ $t("blutVol") }}</td>
                   <td>
                     :
                     <span class="input">{{ BV }}</span>
@@ -253,7 +261,7 @@
 
                 <tr>
                   <td>
-                    {{ $t('preop') }} EV
+                    {{ $t("preop") }} EV
                     <sup>3)</sup>
                   </td>
                   <td>
@@ -284,7 +292,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>{{ $t('evVerlust') }}</td>
+                  <td>{{ $t("evVerlust") }}</td>
                   <td>
                     :
                     <span class="input">{{ eryVerlust }}</span>
@@ -292,11 +300,19 @@
                   </td>
                 </tr>
                 <tr>
-                  <td class="warn">{{ $t('blutVerlust') }}</td>
+                  <td class="warn">{{ $t("blutVerlust") }}</td>
                   <td>
                     :
                     <span class="input warn">{{ blutVerlust }}</span>
                     <span class="units warn">ml</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="warn">{{ $t("blutVerlustProzent") }}</td>
+                  <td>
+                    :
+                    <span class="input warn">{{ blutVerlustProzent }}</span>
+                    <span class="units warn">%</span>
                   </td>
                 </tr>
               </table>
@@ -305,7 +321,7 @@
             <br />
             <!--- Flüssigkeitsbilanzen ------->
             <fieldset>
-              <legend>{{ $t('fluidBilanz') }}</legend>
+              <legend>{{ $t("fluidBilanz") }}</legend>
               <table width="100%">
                 <tr>
                   <td>Perspiratio, norm</td>
@@ -316,7 +332,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>Perspiratio, {{ $t('eventeriert') }}</td>
+                  <td>Perspiratio, {{ $t("eventeriert") }}</td>
                   <td>
                     :
                     <span class="input">{{ eventPerspiratio }}</span>
@@ -324,7 +340,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>Perspiratio, {{ $t('gesamt') }}</td>
+                  <td>Perspiratio, {{ $t("gesamt") }}</td>
                   <td>
                     :
                     <span class="input">{{ gesamtPerspiratio }}</span>
@@ -332,7 +348,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td>{{ $t('volEffekt') }}</td>
+                  <td>{{ $t("volEffekt") }}</td>
                   <td>
                     :
                     <span class="input">{{ volEffekt }}</span>
@@ -340,7 +356,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td class="warn ohneBorder">{{ $t('volBilanz') }}</td>
+                  <td class="warn ohneBorder">{{ $t("volBilanz") }}</td>
                   <td class="ohneBorder">
                     :
                     <span class="input warn">{{ volBilanz }}</span>
@@ -357,7 +373,7 @@
       <div class="col-2">
         <div class="rahmen">
           <fieldset>
-            <legend>intraop. {{ $t('bga') }}</legend>
+            <legend>intraop. {{ $t("bga") }}</legend>
             <table width="100%">
               <tr v-for="inp in arrHB" :key="inp.id">
                 <td>
@@ -384,7 +400,7 @@
 
           <!--- Volumentherapie ------->
           <fieldset>
-            <legend>{{ $t('volTher') }}</legend>
+            <legend>{{ $t("volTher") }}</legend>
             <table width="100%">
               <tr v-for="inp in arrVol" :key="inp.id">
                 <td>
@@ -414,19 +430,20 @@
         <div class="rahmen">
           <fieldset>
             <legend>
-              {{ $t('3_stufen') }}
+              {{ $t("3_stufen") }}
               <span class="kleiner">("take this with a grain of salt")</span>
             </legend>
             <fieldset>
               <legend>
-                1. {{ $t('stufe') }}:
-                <span
-                  class="kleiner"
-                >&#x003C; 20% {{ $t('bv') }} &#x2192; 4-5x {{ $t('kristalloide') }}</span>
+                1. {{ $t("stufe") }}:
+                <span class="kleiner"
+                  >&#x003C; 20% {{ $t("bv") }} &#x2192; 4-5x
+                  {{ $t("kristalloide") }}</span
+                >
               </legend>
               <table width="100%">
                 <tr>
-                  <td>20% {{ $t('blutVerlust') }}</td>
+                  <td>20% {{ $t("blutVerlust") }}</td>
                   <td>
                     :
                     <span class="input">{{ zwanzigProzentVerlust }}</span>
@@ -435,8 +452,8 @@
                 </tr>
                 <tr>
                   <td class="ohneBorder">
-                    {{ $t('erford_Krist') }}
-                    <span class="kleiner">{{ $t('inkl_Urin_Persp') }}</span>
+                    {{ $t("erford_Krist") }}
+                    <span class="kleiner">{{ $t("inkl_Urin_Persp") }}</span>
                   </td>
                   <td class="ohneBorder">
                     :
@@ -449,14 +466,17 @@
             <br />
             <fieldset>
               <legend>
-                2. {{ $t('stufe') }}:
-                <span
-                  class="kleiner"
-                >&#x003E; 20% {{ $t('bv') }} &#x2192; 1:1 {{ $t('kolloidEinsatz') }}</span>
+                2. {{ $t("stufe") }}:
+                <span class="kleiner"
+                  >&#x003E; 20% {{ $t("bv") }} &#x2192; 1:1
+                  {{ $t("kolloidEinsatz") }}</span
+                >
               </legend>
               <table width="100%">
                 <tr>
-                  <td class="ohneBorder">&#x003E; 20% {{ $t('blutVerlust') }} {{ $t('hinaus') }}</td>
+                  <td class="ohneBorder">
+                    &#x003E; 20% {{ $t("blutVerlust") }} {{ $t("hinaus") }}
+                  </td>
                   <td class="ohneBorder">
                     :
                     <span class="input">{{ prozPlusBlutVerlust }}</span>
@@ -468,15 +488,19 @@
             <br />
             <fieldset>
               <legend>
-                3. {{ $t('stufe') }}:
-                <span class="kleiner">{{ $t('gr_fast_BV') }}</span>
+                3. {{ $t("stufe") }}:
+                <span class="kleiner">{{ $t("gr_fast_BV") }}</span>
               </legend>
               <table width="100%">
                 <tr>
-                  <td class="ohneBorder">&#x2192; {{ $t('ek') }}, FFP, {{ $t('tk') }}</td>
+                  <td class="ohneBorder">
+                    &#x2192; {{ $t("ek") }}, FFP, {{ $t("tk") }}
+                  </td>
                 </tr>
                 <tr>
-                  <td class="ohneBorder">&#x2192; Fibrinogen, PPSP, Tranexam, Desmopressin</td>
+                  <td class="ohneBorder">
+                    &#x2192; Fibrinogen, PPSP, Tranexam, Desmopressin
+                  </td>
                 </tr>
               </table>
             </fieldset>
@@ -486,65 +510,69 @@
           <!--- Normwerte ------->
           <fieldset>
             <legend>
-              {{ $t('normWerte') }}
+              {{ $t("normWerte") }}
               <span class="kleiner">
                 (&#x2259; ml/m
                 <sup>2</sup>
-                {{ $t('kof') }} )
+                {{ $t("kof") }} )
               </span>
             </legend>
             <table width="100%">
               <tr>
-                <td class="ohneBorder">{{ $t('eryVolumen') }} (EV) {{ $t('mann') }}</td>
+                <td class="ohneBorder">
+                  {{ $t("eryVolumen") }} (EV) {{ $t("mann") }}
+                </td>
                 <td class="ohneBorder">
                   : 1100
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td>{{ $t('eryVolumen') }} (EV) {{ $t('frau') }}</td>
+                <td>{{ $t("eryVolumen") }} (EV) {{ $t("frau") }}</td>
                 <td>
                   : 850
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('volPlasma') }} {{ $t('mann') }}</td>
+                <td class="ohneBorder">
+                  {{ $t("volPlasma") }} {{ $t("mann") }}
+                </td>
                 <td class="ohneBorder">
                   : 1578
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td>{{ $t('volPlasma') }} {{ $t('frau') }}</td>
+                <td>{{ $t("volPlasma") }} {{ $t("frau") }}</td>
                 <td>
                   : 1395
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('blutVol') }} {{ $t('mann') }}</td>
+                <td class="ohneBorder">{{ $t("blutVol") }} {{ $t("mann") }}</td>
                 <td class="ohneBorder">
                   : {{ BVMann }}
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td>{{ $t('blutVol') }} {{ $t('frau') }}</td>
+                <td>{{ $t("blutVol") }} {{ $t("frau") }}</td>
                 <td>
                   : {{ BVFrau }}
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('volEK') }}</td>
+                <td class="ohneBorder">{{ $t("volEK") }}</td>
                 <td class="ohneBorder">
                   : {{ VolEffektEK }}
                   <span class="units">ml</span>
                 </td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('evEK') }}</td>
+                <td class="ohneBorder">{{ $t("evEK") }}</td>
                 <td class="ohneBorder">
                   : {{ EryVolEK }}
                   <span class="units">ml</span>
@@ -552,7 +580,7 @@
               </tr>
 
               <tr>
-                <td>{{ $t('volFFP') }}</td>
+                <td>{{ $t("volFFP") }}</td>
                 <td>
                   : 300
                   <span class="units">ml</span>
@@ -567,7 +595,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('beiMaxEvent') }}</td>
+                <td class="ohneBorder">{{ $t("beiMaxEvent") }}</td>
                 <td class="ohneBorder">
                   : 1
                   <span class="units">ml/kg/h</span>
@@ -578,7 +606,7 @@
           <br />
           <table width="100%">
             <fieldset>
-              <legend>{{ $t('volEffekte') }}</legend>
+              <legend>{{ $t("volEffekte") }}</legend>
               <tr>
                 <td class="ohneBorder">Gelafundin</td>
                 <td class="ohneBorder">: 100%</td>
@@ -588,16 +616,15 @@
                 <td class="ohneBorder">: 100%</td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('kristalloide') }}</td>
+                <td class="ohneBorder">{{ $t("kristalloide") }}</td>
                 <td class="ohneBorder">: 20%</td>
               </tr>
               <tr>
-                <td class="ohneBorder">{{ $t('mat') }} (MAT)</td>
+                <td class="ohneBorder">{{ $t("mat") }} (MAT)</td>
                 <td class="ohneBorder" id="formel3">
                   :
-                  <i>{{ $t('vol') }}</i> =
-                  <i>EV</i> +
-                  <i>{{ $t('kristalloid') }}</i>
+                  <i>{{ $t("vol") }}</i> = <i>EV</i> +
+                  <i>{{ $t("kristalloid") }}</i>
                   <span id="formel3">
                     <sup>5)</sup>
                   </span>
@@ -621,7 +648,7 @@ export default {
   name: "Haemostaseologie",
   components: {
     VueNumericInput,
-    appFooter: Footer
+    appFooter: Footer,
   },
 
   data() {
@@ -646,7 +673,7 @@ export default {
           max: 250,
           step: 1,
           fokus: true,
-          unit: "cm"
+          unit: "cm",
         },
         {
           name: "Gewicht",
@@ -654,7 +681,7 @@ export default {
           max: 250,
           step: 0.5,
           fokus: false,
-          unit: "kg"
+          unit: "kg",
         },
         {
           name: "Präop. HB",
@@ -662,7 +689,7 @@ export default {
           max: 250,
           step: 0.1,
           fokus: false,
-          unit: "g/dl"
+          unit: "g/dl",
         },
         {
           name: "min. tol. HB",
@@ -670,8 +697,8 @@ export default {
           max: 20,
           step: 0.1,
           fokus: false,
-          unit: "g/dl"
-        }
+          unit: "g/dl",
+        },
       ],
 
       arrHB: [
@@ -684,7 +711,7 @@ export default {
         { name: "HB 7", wert: 0 },
         { name: "HB 8", wert: 0 },
         { name: "HB 9", wert: 0 },
-        { name: "HB 10", wert: 0 }
+        { name: "HB 10", wert: 0 },
       ],
 
       arrVol: [
@@ -694,7 +721,7 @@ export default {
           wert: 0,
           max: 1200,
           step: 10,
-          unit: "min"
+          unit: "min",
         }, // Index: 1
         { name: "EK", wert: 0, max: 100, step: 1, unit: "Stk" }, // Index: 2
         { name: "MAT", wert: 0, max: 10000, step: 100, unit: "ml" }, // Index: 3
@@ -703,21 +730,21 @@ export default {
         { name: "Kristalloide", wert: 0, max: 10000, step: 100, unit: "ml" }, // Index: 6
         { name: "Gelafundin", wert: 0, max: 10000, step: 100, unit: "ml" }, // Index: 7
         { name: "Haes", wert: 0, max: 10000, step: 100, unit: "ml" }, // Index: 8
-        { name: "Diurese", wert: 0, max: 10000, step: 10, unit: "ml" } // Index: 9
-      ]
+        { name: "Diurese", wert: 0, max: 10000, step: 10, unit: "ml" }, // Index: 9
+      ],
     };
   },
 
   computed: {
     /** Berechnungen */
-    KOF: function() {
+    KOF: function () {
       var resKOF = Math.sqrt(
         (this.arrPersData[0].wert * this.arrPersData[1].wert) / 3600
       );
       resKOF = Math.round(resKOF * 100) / 100;
       return ("" + resKOF).replace(".", ",");
     },
-    BV: function() {
+    BV: function () {
       var bv1 = this.BVMann;
       if (this.sex == "w") {
         bv1 = this.BVFrau;
@@ -726,53 +753,53 @@ export default {
       bv1 = Math.round(bv1);
       return ("" + bv1).replace(".", ",");
     },
-    praeopHK: function() {
+    praeopHK: function () {
       var hk = Math.round(this.arrPersData[2].wert * 3.2 * 10) / 10;
       return ("" + hk).replace(".", ",");
     },
 
-    praeopEV: function() {
+    praeopEV: function () {
       var ev =
         this.BV.replace(",", ".") * (this.praeopHK.replace(",", ".") / 100);
       ev = Math.round(ev);
       return ("" + ev).replace(".", ",");
     },
 
-    MTBV: function() {
+    MTBV: function () {
       var minHK = Math.round(this.arrPersData[3].wert * 3.2 * 10) / 10;
       var mtbv = this.BV * Math.log(this.praeopHK.replace(",", ".") / minHK);
       mtbv = Math.round(mtbv);
       return ("" + mtbv).replace(".", ",");
     },
 
-    maxTolEVV: function() {
+    maxTolEVV: function () {
       var minHK = Math.round(this.arrPersData[3].wert * 3.2 * 10) / 10;
       var tolEVV = this.BV.replace(",", ".") * (minHK / 100);
       tolEVV = Math.round(this.praeopEV.replace(",", ".") - tolEVV);
       return ("" + tolEVV).replace(".", ",");
     },
 
-    intraopEV: function() {
+    intraopEV: function () {
       var ev =
         this.BV.replace(",", ".") * (this.aktHK().replace(",", ".") / 100);
       ev = Math.round(ev);
       return ("" + ev).replace(".", ",");
     },
-    deltaEV: function() {
+    deltaEV: function () {
       var dEV =
         this.praeopEV.replace(",", ".") - this.intraopEV.replace(",", ".");
       return ("" + dEV).replace(".", ",");
     },
 
-    matEV: function() {
+    matEV: function () {
       return this.arrVol[3].wert * (this.arrVol[4].wert / 100);
     },
 
-    matKristalloidMenge: function() {
+    matKristalloidMenge: function () {
       return this.arrVol[3].wert - this.matEV;
     },
 
-    eryVerlust: function() {
+    eryVerlust: function () {
       var ev = Math.round(
         this.deltaEV.replace(",", ".") * 1 +
           this.arrVol[2].wert * this.EryVolEK +
@@ -781,7 +808,7 @@ export default {
       return ("" + ev).replace(".", ",");
     },
 
-    blutVerlust: function() {
+    blutVerlust: function () {
       if (this.mittl_HK > 0) {
         var bv = this.eryVerlust.replace(",", ".") / (this.mittl_HK / 100);
         bv = Math.round(bv);
@@ -790,7 +817,16 @@ export default {
       return 0;
     },
 
-    kristallErsatz: function() {
+    blutVerlustProzent: function () {
+      if (this.mittl_HK > 0) {
+        let bvp = (this.blutVerlust * 100.0) / this.BV.replace(",", ".");
+        bvp = Math.round(bvp);
+        return bvp;
+      }
+      return 0;
+    },
+
+    kristallErsatz: function () {
       return Math.round(
         this.zwanzigProzentVerlust * 5 +
           this.arrVol[9].wert +
@@ -798,11 +834,11 @@ export default {
       );
     },
 
-    zwanzigProzentVerlust: function() {
+    zwanzigProzentVerlust: function () {
       return Math.round(this.BV.replace(",", ".") * 0.2);
     },
 
-    prozPlusBlutVerlust: function() {
+    prozPlusBlutVerlust: function () {
       var temp = Math.round(this.blutVerlust - this.zwanzigProzentVerlust);
       if (temp > 0) {
         return temp;
@@ -811,15 +847,15 @@ export default {
       }
     },
 
-    eventPerspiratio: function() {
+    eventPerspiratio: function () {
       return Math.round((this.arrPersData[1].wert * this.arrVol[1].wert) / 60);
     },
 
-    gesamtPerspiratio: function() {
+    gesamtPerspiratio: function () {
       return Math.round(this.normPerspiratio() + this.eventPerspiratio);
     },
 
-    volEffekt: function() {
+    volEffekt: function () {
       var vol =
         this.arrVol[2].wert * this.VolEffektEK +
         this.matEV +
@@ -833,17 +869,17 @@ export default {
       return Math.round(vol);
     },
 
-    volBilanz: function() {
+    volBilanz: function () {
       this.local_v_for_Schleifen();
       return this.volEffekt - this.blutVerlust;
-    }
+    },
   },
   /* 
   watch: {},
  */
   methods: {
     /** Lokalisierung der v-for-Schleifen */
-    local_v_for_Schleifen: function() {
+    local_v_for_Schleifen: function () {
       this.arrPersData[0].name = this.$i18n.t("height");
       this.arrPersData[1].name = this.$i18n.t("weight");
       this.arrPersData[2].name = this.$i18n.t("preopHB");
@@ -911,8 +947,8 @@ export default {
           (this.arrVol[0].wert - this.arrVol[1].wert)) /
           60
       );
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -970,4 +1006,3 @@ td {
   }
 }
 </style>
-
