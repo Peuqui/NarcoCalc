@@ -25,6 +25,10 @@ nvm use 12.0.0
 ### Compiles and hot-reloads for development
 
 yarn run serve
+<br />
+oder
+<br />
+npm serve
 
 ### Compiles and minifies for production
 
