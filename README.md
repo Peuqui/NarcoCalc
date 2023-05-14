@@ -17,6 +17,8 @@ No responsibility is assumed!
 ## Project setup
 
 yarn install
+(npm install -n 12.0.0)
+nvm use 12.0.0
 
 ### Compiles and hot-reloads for development
 
