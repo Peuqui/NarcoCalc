@@ -1,4 +1,4 @@
-  <i18n>
+<i18n>
 {
    "de": {
     "sub1"      : "Maximal tolerabler Erythrocytenvolumen-Verlust",
@@ -40,42 +40,42 @@
           <div>
             <div>
               <sup>1)</sup>
-              {{ $t('sub1') }}
+              {{ $t("sub1") }}
             </div>
             <div id="formel2">
               <i>EV</i>
-              <sub>{{ $t('formel1a') }}</sub> =
+              <sub>{{ $t("formel1a") }}</sub> =
               <i>EV</i>
-              <sub>{{ $t('formel1b') }}</sub> -
+              <sub>{{ $t("formel1b") }}</sub> -
               <i>EV</i>
               <sub>min.tol.</sub>
             </div>
             <sup>2)</sup>
-            {{ $t('sub2') }}
-            <div id="formel">{{ $t('sub2a') }}</div>
+            {{ $t("sub2") }}
+            <div id="formel">{{ $t("sub2a") }}</div>
             <div id="formel2">
               <i>Vol</i>
-              <sub>max</sub> =
-              <i>{{ $t('formel2a') }}</i> * ln (
-              <i>{{ $t('formel2b') }}</i>
+              <sub>max</sub> = <i>{{ $t("formel2a") }}</i> * ln (
+              <i>{{ $t("formel2b") }}</i>
               <sub>0</sub> /
-              <i>{{ $t('formel2b') }}</i>
+              <i>{{ $t("formel2b") }}</i>
               <sub>min</sub> )
             </div>
             <div id="formel">
-              {{ $t('sub2b') }}: Böttger, Sebastian. (2008):
-              <br>
+              {{ $t("sub2b") }}: Böttger, Sebastian. (2008):
+              <br />
               <i>
                 Untersuchungen zum Transfusionsbedarf bei
-                kieferorthopädisch-chirurgischen Eingriffen unter Berücksichtigung
-                individueller Patientenparameter.
+                kieferorthopädisch-chirurgischen Eingriffen unter
+                Berücksichtigung individueller Patientenparameter.
               </i>
               <nav id="footer-nav">
                 <a
                   href="http://geb.uni-giessen.de/geb/volltexte/2008/5470/"
                   target="_blank"
                   rel="noopener"
-                >GEB - Giessener Elektronische Bibliothek</a>
+                  >GEB - Giessener Elektronische Bibliothek</a
+                >
               </nav>
             </div>
           </div>
@@ -86,14 +86,15 @@
           </div>
           <div>
             <sup>4)</sup>
-            {{ $t('sub4') }} (EV)
+            {{ $t("sub4") }} (EV)
           </div>
         </div>
         <div class="col-3">
           <div>
-            {{ $t('colRight1') }}
-            <br>M.Rehm · N.Hulde · T.Kammerer · A.S.Meidert · K.Hofmann-Kiefer (2017):
-            <br>
+            {{ $t("colRight1") }}
+            <br />M.Rehm · N.Hulde · T.Kammerer · A.S.Meidert · K.Hofmann-Kiefer
+            (2017):
+            <br />
             <i>
               Stand der Wissenschaft in der Flüssigkeits- und Volumentherapie.
               Ein anwenderfreundliches Stufenkonzept.
@@ -103,11 +104,12 @@
                 href="https://www.springermedizin.de/volumenersatz-und-schock/stand-der-wissenschaft-in-der-fluessigkeits-und-volumentherapie/12074094?fulltextView=true"
                 target="_blank"
                 rel="noopener"
-              >Anaesthesist 2017·66:153–167</a>
+                >Anaesthesist 2017·66:153–167</a
+              >
             </nav>
           </div>
 
-          <hr>
+          <hr />
 
           <div v-html="$t('colRight2')"></div>
         </div>
@@ -118,7 +120,7 @@
 
 <script>
 export default {
-  name: "Footer"
+  name: "Footer",
 };
 </script>
 
