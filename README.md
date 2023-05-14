@@ -26,7 +26,7 @@ nvm use 12.0.0
 
 yarn run serve
 <br />
-oder
+or
 <br />
 npm serve
 
