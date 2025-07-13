@@ -17,5 +17,8 @@ module.exports = {
 			.loader("@kazupon/vue-i18n-loader")
 			.end();
 	},
-	publicPath: process.env.NODE_ENV === "production" ? "/narcocalc/" : "/"
+	// Automatische Erkennung ob GitHub Pages oder lokale Entwicklung
+	publicPath: process.env.NODE_ENV === "production" 
+		? (process.env.GITHUB_REPOSITORY ? `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/` : "/narcocalc/")
+		: "/"
 };
