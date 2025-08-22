@@ -46,12 +46,19 @@ MTBV = BV × ln(praeopHK / minHK)
 ```
 **Dies ist die einzige Formel mit natürlichem Logarithmus!**
 
-### 2.2 Probleme der aktuellen Implementierung
+### 2.2 Status der Implementierung (Version 2.0.0 - Januar 2025)
 
-1. **Lineare Berechnung**: Die meisten Formeln nehmen einen linearen Zusammenhang zwischen Hämatokrit und Blutverlust an
-2. **Mittlerer Hämatokrit**: Verwendet arithmetisches Mittel statt gewichtetes Mittel über Zeit
-3. **Keine Berücksichtigung der Hämodilution**: Volumensubstitution wird nicht in die HK-Berechnung einbezogen
-4. **Statische Betrachtung**: Keine dynamische Anpassung während der OP
+**✅ ERFOLGREICH IMPLEMENTIERT:**
+1. **Logarithmische Berechnung**: Hauptformel verwendet jetzt BV × ln(HKpräop / HKaktuell)
+2. **Vergleichsansicht**: Beide Methoden (logarithmisch und linear) werden angezeigt
+3. **EK/MAT-Korrektur**: Substituierte Erythrozyten werden korrekt berücksichtigt
+4. **Fallback-Mechanismus**: Bei ungültigen Werten wird auf lineare Methode zurückgegriffen
+
+**Vorteile der neuen Implementierung:**
+- Physiologisch akkurater bei großen Blutverlusten
+- Berücksichtigt exponentiellen Verdünnungseffekt
+- Realistischere (niedrigere) Werte bei ausgeprägter Infusionstherapie
+- Lineare Methode bleibt zum Vergleich verfügbar
 
 ## 3. Analyse der Evidenz
 
