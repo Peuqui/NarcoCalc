@@ -96,17 +96,9 @@
             <sup>4)</sup>
             {{ $t("sub4") }} (EV)
           </div>
-          <div>
-            <sup>5)</sup>
-            {{ $t("sub6") }}
-            <div id="formel2">
-              <i>{{ $t("formel6a") }}</i> = <i>BV</i> × ln(
-              <i>HKT</i><sub>{{ $t("formel6b") }}</sub> / 
-              <i>HKT</i><sub>{{ $t("formel6c") }}</sub>) + EK/MAT-Korrektur
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
+          
+          <hr />
+          
           <div>
             {{ $t("colRight1") }}
             <br />M.Rehm · N.Hulde · T.Kammerer · A.S.Meidert · K.Hofmann-Kiefer
@@ -125,9 +117,8 @@
               >
             </nav>
           </div>
-
-          <hr />
-
+        </div>
+        <div class="col-3">
           <div v-html="$t('colRight2')"></div>
         </div>
       </div>

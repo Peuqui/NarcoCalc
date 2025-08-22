@@ -302,7 +302,6 @@
                 <tr>
                   <td class="warn">
                     {{ $t("blutVerlust") }} (logarithmisch)
-                    <sup>5)</sup>
                   </td>
                   <td>
                     :
