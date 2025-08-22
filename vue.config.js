@@ -6,7 +6,10 @@ module.exports = {
 	},
 	// options...
 	devServer: {
-		https: true
+		https: false,
+		host: '0.0.0.0',
+		disableHostCheck: true,
+		port: 8080
 	},
 	chainWebpack: config => {
 		config.module
