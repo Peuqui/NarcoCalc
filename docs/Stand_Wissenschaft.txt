@@ -1,0 +1,2359 @@
+Leitthema
+ Anaesthesist2017 · 66:153–167
+ DOI10.1007/s00101-017-0272-x
+ Online publiziert:17. Februar 2017
+ ©Springer MedizinVerlagBerlin 2017
+ Prolog
+ Das Wasser ist ein freundliches Element
+ für den, der damit bekannt ist und es zu
+ behandeln weiß.
+ Johann Wolfgang von Goethe
+ Eine adäquate Infusionstherapie stellt
+ eine Herausforderung für die moderne
+ operative Medizin, Notfall- und Inten
+sivmedizin dar. Seit Jahrzehnten werden
+ zu diesem Zweck Volumenersatzlösun
+gen angewendet. Sie dienen– wie im
+ Name schon verankert– dem Volumen
+ersatz. Dies ist ihre ursprüngliche und
+ damit auch wesentliche Indikation. Wie
+ alle Medikamente haben auchVolumen
+ersatzmittel dosisabhängige Nebenwir
+kungen, sodass deren Einsatz nur bei
+ entsprechender Indikation erfolgen soll
+te. Durch einige multizentrische Studien
+ der letzten Jahre ist eine intensive und
+ teils emotionale Diskussion um Nutzen
+ und Risiken der bisherigen, pathophy
+siologisch fundierten Therapiekonzepte
+ entstanden.
+ Welches Ziel aber soll bei einer ad
+äquaten Volumentherapie erreicht wer
+den?
+ Das Blutvolumen bleibt beim gesun
+den Menschen über den Tag hinweg in
+ sehr engem Rahmenkonstant. Zielmuss
+ sein, möglichst die Normovolämie des
+ Patienten aufrechtzuerhalten (.Abb.1).
+ Denn sie ist die Voraussetzung schlecht
+ErweiterteundaktualisierteVersiondesBeitrags
+ von Hulde N und Rehm M (2016) Grundlagen
+ der Infusionstherapie. In: Refresher Course
+AktuellesWissenfürAnästhesisten,Nr.42.Aktiv
+ Druck&Verlag,Ebelsbach,S73–81
+ M.Rehm·N.Hulde·T.Kammerer·A.S.Meidert·K.Hofmann-Kiefer
+ Klinik für Anaesthesiologie, Klinikumder Universität München, München, Deutschland
+ Stand der Wissenschaft in der
+ Flüssigkeits- und
+ Volumentherapie
+ Ein anwenderfreundliches Stufenkonzept
+ tisc
+ hin, dass z. B. das Herzzeitvolumen und
+ die Sauerstoffversorgung immer ausrei
+chendsindbzw.unterBelastungjederzeit
+ ansteigenkönnen.Traditionellwurdeein
+ liberales Flüssigkeitsregime propagiert:
+ „In doubt give volume!“ Verschiedene
+ Publikationen legen jedoch nahe, dass
+ ein „restriktives“ Volumenmanagement
+ Vorteilegegenübereinem„liberalen“Vo
+lumenmanagement aufweist. Besonders
+ eindrucksvoll ist dieser Effekt bei großen
+ abdominalchirurgischen Operationen
+ beschrieben. So konnte die Inzidenz
+ potenziell lebensbedrohlicher Kompli
+kationen wie Lungenödemen, Anas
+tomoseninsuffizienzen, Wundheilungs
+störungen und Gerinnungsproblemen
+ durch Flüssigkeitsrestriktion gesenkt
+ werden, auch war die Darmmotilität
+ postoperativ signifikant gesteigert [1–6].
+ Wichtig indiesemZusammenhang ist
+ aber, dass die Begriffe „restriktiv“ oder
+ „liberal“ nicht standardisiert sind und
+ leider uneinheitlich verwendet werden.
+ Deshalb wurde bzgl. der Volumenthera
+pie zunehmend der Begriff „restriktiv“
+ durch den Terminus „bedarfsgerecht“
+ ersetzt.
+ Primäre Zielgröße der perioperativen
+ Infusionstherapie ist der funktionelle
+ Extrazellulärraum, der von der intakten
+ vaskulärenBarrierefunktionellin2Kom
+partimente unterteilt wird [2]. Intention
+ einer adäquaten Volumentherapie ist die
+ Aufrechterhaltung der normovolämen,
+ extrazellulären Homöostase zwischen
+ Intra- und Extravasalraum (.Abb. 1).
+ In der perioperativen Phase erscheint es
+ sinnvoll zwischen Flüssigkeitsverlusten
+ (Extravasalraum) ohne kolloidosmo
+h wirksame Moleküle (wie Urin
+ und Perspiratio) und Volumenverlusten
+ (Intravasalraum), also Flüssigkeit mit
+ onkotisch wirksamen Makromolekülen
+ (Blutverluste oder Plasmaverluste aus
+ dem Intravasalraum), zu unterscheiden.
+ Diese unterschiedlichen Entitäten wer
+den durch einen differenzierten Einsatz
+ von Infusionslösungen– Kristalloiden
+ und Kolloiden– therapiert [8]. Wie
+ dies gelingen kann, wird im Folgenden
+ durch eine grundlegende Darstellung
+ der therapeutischen Möglichkeiten, ih
+rer Wertigkeit vor dem Hintergrund
+ der Nutzen und Risiken und anhand
+ eines praktischen Falls, welcher jeden
+ Tag vorkommen kann, aufgezeigt. Das
+ Konzept der verlustadaptierten Flüssig
+keits- und Volumentherapie geht dabei
+ grundsätzlich von der präoperativen
+ Normovolämie der Patienten aus. Diese
+ ist bei internistisch gesunden Patienten,
+ trotz Nüchternheit, i.d.R. auch vorhan
+den [9]. Wie eingangs dargestellt, bleibt
+ das Blutvolumen beim gesunden Men
+schen unter Normalbedingungen phy
+siologischerweiseüberdengesamtenTag
+ hinweg sehr konstant, es schwankt nur
+ umwenige Deziliter. Keineswegs nur das
+ Trinken ist hier ein Regulativ, sondern
+ das ständige Filtrieren und Rückresor
+bieren von Flüssigkeit aus und vom In
+terstitium. Auf die dezidierte Darlegung
+ der perioperativen Veränderungen der
+ Hämodynamik durch Volumenmangel
+ oder-zufuhr wird imFolgenden bewusst
+ verzichtet, da diese den Rahmen dieses
+ Artikelssprengenwürde.Allerdingswird
+ in einem anschaulichen Fallbeispiel, das
+ jeden Tag im OP vorkommen kann, die
+ Der Anaesthesist3 · 2017 153
+Leitthema
+ Abb.18 ZusammenhangzwischenFlüssigkeitshaushaltundperioperativemOutcome.(Mod.nach
+ Glassfordetal.[7])
+ Auswirkung der Hypovolämie auf die
+ Hämodynamik und die Organperfusion
+ exemplarisch aufgezeigt.
+ Das Fundament: Auseinan
+dersetzung mit Effizienz,
+ Effektivität und Evidenz
+ Die Voraussetzung für die erfolgreiche
+ Anwendung einer medizinischen Thera
+pie ist die sorgfältige Beurteilung von
+ Effizienz, Effektivität undEvidenzderje
+weiligen Maßnahme.UmdemLesereine
+ möglichst gute eigene Beurteilung der
+ vorhandenen Datenlage zur Infusions
+therapie bis hin zum Verständnis einer
+ tragfähigen Infusionsstrategie zuermög
+lichen, werden nachfolgend die Begrif
+fe Effizienz, Effektivität und Evidenz in
+ ihrer genuinen Bedeutung erklärt: Effizi
+enz ist der imVerhältnis zur Vollständig
+keit und Genauigkeit eingebrachte Auf
+wand, mit der ein bestimmtes Ziel er
+reicht werden kann. Effektivität hingegen
+ beschreibt den Grad der Zielerreichung
+ (Wirksamkeit und Qualität). Umbeide
+ Begriffe leichter verstehen zu können,
+ folgt ein praktisches Bespiel:Nach sport
+licher Betätigung und entsprechendem
+ Schwitzen lässt sich ein Flüssigkeitsdefi
+zit von500mldurchTrinken vonWasser
+ effizient und effektiv therapieren. Preis
+unterschiede außer Acht lassend wäre es
+ genauso effizient in diesem Fall 500ml
+ Prosecco oder gar Whiskey zu trinken.
+ Obwohlalle3„Therapieregime“hinsicht
+lich der alleinigen Behandlungdes Flüssig
+keitsdefizits als völlig gleich effizient und
+ effektivangesehenwerdenkönnen,istdas
+ Trinken von Prosecco oder Whiskey mit
+ zusätzlichen „Nebenwirkungen“ behaf
+tet. Die Effektivität einer Therapieistalso
+ immer weiter zu fassen als das alleinige
+ Erreichen des Therapieziels. Effizienz ist
+ wichtig. Werden aber die falschen Dinge
+ effizientgetan,soistdieseineVerschwen
+dungvonRessourcenundeinRisikofür
+ denPatienten. Strategie (Effektivität) geht
+ also auch in der Infusionstherapie vor Ef
+f
+ izienz. Hier schließt sich nun der Kreis:
+ Es stellt sich immer auch die Frage nach
+ der Sicherheit einer Therapie und damit
+ der Evidenz dafür, dass der Nutzen das
+ Risiko überwiegt. Evidenz– und das ist
+ sehr wichtig– leitet sich vom englischen
+ „evidence“ ab, was Beweis/Beleg bedeu
+tet. „Evidenz in der Medizin“ beschreibt
+ also die empirisch erbrachte Nachweis
+barkeit desNutzens einerdiagnostischen
+ odertherapeutischenAktion.Mandarfes
+ nicht mit der Bedeutung des deutschen
+ Wortes „Evidenz“ verwechseln, was so
+ vielwie„Offensichtlichkeit,diekeinesBe
+weises bedarf“ bedeutet. Die „deutsche“
+ Evidenz beschreibt lediglich die kogniti
+veNachvollziehbarkeiteinesZusammen
+hangs und ist von der „evidenzbasierten
+ Medizin“ klar abzugrenzen.
+ Hierzu ein einfaches Beispiel: Man
+ testet 2 potenziell nephrotoxische Infu
+sionslösungen, indem man sie in 2 Stu
+dienarmen miteinander vergleicht. Es
+ f
+ inden sich nun keinerlei Unterschiede
+ in der Nierenfunktion undderNierener
+satztherapie, also nichts Offensichtliches
+ (keine „deutsche“ Evidenz), das auf eine
+ nierenschädigende Wirkung der Sub
+stanzen hindeutet. Damit ist aber die
+ Sicherheit einer der Lösungen (keine
+ schädlichen Nebenwirkungen bzgl. der
+ Nierenfunktion) natürlich nicht bewie
+sen. Um„evidence“herzustellen müssen
+ einevalideKontrollgruppe,angemessene
+ Funktionstests, Beobachtungszeiträume
+ und Fallzahlen („Power“) Anwendung
+ f
+ inden. Dies stellt natürlich eine sehr
+ große Herausforderung dar und nicht
+ jede Fragestellung wird– insbesonde
+re vor dem Hintergrund der knappen
+ Ressourcen– mithilfe der evidenzba
+sierten Medizin beantwortet werden
+ können. Die Cochrane Collaboration
+ hat sich die Darstellung evidenzbasierter
+ Medizin zur Aufgabe gemacht und ar
+beitet an der Erstellung, Aktualisierung
+ und Verbreitung systematischer Über
+sichtsarbeiten. Die Arbeiten basieren auf
+ der „Cochrane Database of Systematic
+ Reviews“, die als Teil der Cochrane Li
+brary vierteljährlich erneuert wird. Die
+ Cochrane Collaboration definierte die
+ unter .Tab. 1 dargestellten Cochrane
+Evidenztypen. Systematische Reviews
+ auf der Datenlage von kontrollierten,
+ randomisierten Studien mit ausreichen
+der Größe undPowerbilden danachden
+ höchsten Evidenzgrad. Die Meinungen
+ und Empfehlungen angesehener Autori
+täten oder von Expertengremien stellen
+ dabei den niedrigsten Evidenzgrad dar
+ undkönnendieErkenntnisse ausgroßen
+ randomisierten, kontrollierten Studien
+ (RCTs) weder ersetzen noch widerlegen
+ [10]. InLeitlinienfließenhäufigEmpfeh
+lungen von niedrigem Evidenztyp ein,
+ was auch mit Interessenskonflikten von
+ Experten zusammenhängen kann. Diese
+ müssen zwar offenlegt werden, dies je
+doch egalisiert die Interessenskonflikte
+ nicht:
+ Standards für die Bewertung und das
+ Management von Interessenkonflikten in
+ 154 DerAnaesthesist3·2017
+Leitlinienfehlenundsolltendringendent
+wickeltwerden[11].
+ So ist auchbei Leitliniennicht auszu
+schließen, dass sie teilweisedurchdie
+ Bewertungen oder garWünsche von
+ Pharmafirmenbeeinflusstwerden.
+ Esgibtzwei fundamentaleGrundre
+gelnbeiderAnwendungdersog. „evi
+denzbasiertenMedizin“:
+ 1. „Absenceofevidenceisnotevi
+denceofabsence!“Freiübersetzt:
+ WennkeineEvidenzfüreineThera
+pievorhandenist,darfdasVorgehen
+ deshalbnichtbeliebigsein.Hierzu
+ einaktuellesBeispielderLeber
+transplantationundAlkoholkonsum,
+ welchesauchmitFlüssigkeitzutun
+ hat:VordemHintergrundeiner
+ nichtvorhandenenEvidenz,welche
+ denNutzeneinerAlkoholabstinenz
+ klarbelegt,wirddieAlkoholka
+renzvorderTransplantationaktuell
+ inFragegestellt. „Diegeforderte
+ 6-monatigeAlkoholabstinenzschließt
+ Patientenvoneinerpotenzielllebens
+rettendenTherapieaus.Angesichts
+ dergroßenTragweitedieserRege
+lungsindbesondereAnforderungen
+ andieVerlässlichkeitderzugrunde
+ liegendenEvidenzzustellen:Die
+ Datenlagemüssteeindeutigzeigen,
+ dassdieÜberlebenszeitenrückfälliger
+ PatientendurchdenerneutenAlko
+holkonsumdeutlichverkürztsind“
+ [12].Hierwirddieevidenzbasierte
+ Medizinmissverstanden:Esistallge
+meinanerkannt,dassAlkohol(sogar
+ ingeringenDosen)hepatotoxische
+ Effektehabenkann.Dieklinische
+ Erfahrunglehrt,dassbeieinernicht
+ unerheblichenZahlvonPatienten
+ aufgrundeinerrapidenVerbesserung
+ derOrganfunktioneineLebertrans
+plantationgarnichtmehrnotwendig
+ ist,wennsieanlässlichdermögli
+chenListungzurTransplantation
+ aufAlkoholverzichten.Fernerist
+ unzweifelhaft,dassauchnachTrans
+plantationAlkoholhepatotoxische
+ Effektehat;einetransplantierteLe
+beristnicht„alkoholresistent“.Nur
+ weilkeine„Evidenz“vorhandenist,
+ sprichkeineausreichendgroßen
+ kontrolliertenStudiendieseZusam
+menhängebeidiesemspeziellen
+ Zusammenfassung·Abstract
+ Anaesthesist2017·66:153–167 DOI10.1007/s00101-017-0272-x
+ ©SpringerMedizinVerlagBerlin2017
+ M.Rehm·N.Hulde·T.Kammerer·A.S.Meidert·K.Hofmann-Kiefer
+ StandderWissenschaftinderFlüssigkeits-undVolumentherapie.
+ EinanwenderfreundlichesStufenkonzept
+ Zusammenfassung
+ EineadäquateintraoperativeInfusionsthe
+rapieistwesentlichfürdasperioperative
+ OutcomeeinesPatienten.SowohlHypo
+alsauchHypervolämiekönnenzueiner
+ erhöhtenRateperioperativerKomplikationen
+ führenundsomitzueinemschlechteren
+ Behandlungsergebnis.Dahersolltedie
+ perioperativeFlüssigkeitstherapiebedarfs
+gerechtundzielorientiertdurchgeführt
+ werden.DasHauptzielistdiepräoperative
+ Normovolämiedurcheinerationale
+ Infusionstherapieaufrechtzuerhalten.
+ PerioperativeFlüssigkeitsverlustesollten
+ dabeivonVolumenverlustendurchchirur
+gischeBlutungenoderProteinverlustenins
+ Interstitiumdifferenziertwerden.Flüssigkeits
+verlusteviaUrinexkretionoderPerspiratio
+ insensibilis(0,5–1,0ml/kg/h)sollten1:1mit
+ balancierten,isoonkotischen,kristalloiden
+ Infusionslösungenausgeglichenwerden.
+ Volumentherapie,Stufe1: Intraoperative
+ VolumenverlustebiszueinemBlutverlust
+ von20%desGesamtblutvolumenswerden
+ mitbalanciertenKristalloidenimVerhältnis
+ 4–5:1ausgeglichen.Stufe2:Darüberhinaus
+gehendeBlutverlustesindimVerhältnis1:1
+ mitisoonkotischenKolloiden(bevorzugt
+ balanciert)zubehandeln.IndieserHinsicht
+ undunterBeachtungderKontraindikationen
+ wieSepsis,Verbrennungen,kritische
+ Erkrankung(i.d.R.PatientenaufIntensivsta
+tion),eingeschränkteNierenfunktionoder
+ Nierenersatztherapie,intrakranielleBlutung
+ oderschwereGerinnungsstörungenkönnen
+ perioperativauchkünstlicheKolloide,wiez.B.
+ HES,zumVolumenersatzverwendetwerden.
+ Stufe3:WenndieIndikationzurGabevon
+ Fremdblutbesteht,erfolgteindifferenzierter
+ EinsatzvonBlutundBlutprodukten.
+ Schlüsselwörter
+ Infusionen·Kolloid·Hydroxyethylstärke·
+ Kristalloid·PerioperativeVolumenbilanz
+ Stateoftheartinfluidandvolumetherapy.Auser-friendlystaged
+ concept
+ Abstract
+ Adequatefluidtherapyishighlyimportantfor
+ theperioperativeoutcomeofourpatients.
+ Both,hypovolemiaandhypervolemia
+ canleadtoanincreaseinperioperative
+ complicationsandcanimpairtheoutcome.
+ Therefore,perioperativeinfusiontherapy
+ shouldbetarget-oriented.Themaintarget
+ istomaintainthepatient’spreoperative
+ normovolemiabyusingasophisticated,
+ rationalinfusionstrategy.
+ Perioperativefluidlossesshouldbe
+ discriminatedfromvolumelosses(surgical
+ bloodlossorinterstitialvolumelosses
+ containingprotein).Fluidlossesasurine
+ orperspiratioinsensibilis(0.5–1.0ml/kg/h)
+ shouldbereplacedbybalancedcrystalloids
+ inaratioof1:1.Volumetherapystep1:
+ Bloodlossuptoamaximumvalueof20%
+ ofthepatient’sbloodvolumeshouldbe
+ replacedbybalancedcrystalloidsinaratio
+ of4(-5):1.Volumetherapystep2:Higher
+ bloodlossesshouldbetreatedbyusingiso
+oncotic,preferentialbalancedcolloidsin
+ aratioof1:1.Forthispurposehydroxyethyl
+ starchcanalsobeusedperioperativelyif
+ thereisnorespectivecontraindication,such
+ assepsis,burninjuries,criticallyillpatients,
+ renal impairmentorrenalreplacement
+ therapy,andseverecoagulopathy.Volume
+ therapystep3:Ifthereisanindicationfor
+ redcellconcentratesorcoagulationfactors,
+ adifferentiatedapplicationofbloodand
+ bloodproductsshouldbeperformed.
+ Keywords
+ Infusions·Colloid·Hydroxyethylstarch·
+ Crystalloid·Perioperativevolumebalance
+ Patientenkollektiveindeutigbelegen,
+ darfmannichtdieallgemeingültige
+ Pathophysiologiebzw.„common
+ knowledge“ignorieren.Diesgiltauch
+ fürdieInfusionstherapie.Beispiel
+ Gelatine:Hiergibtesnichtausrei
+chendgroße,kontrollierteStudien
+ mitentsprechendlangenLaufzeiten,
+ umzubeweisen,dassGelatinenicht
+ sicherist(s.auchuntenEvidenz
+ inderVolumentherapie:Gelatine).
+ DasFehlendieserDatenbelegtaber
+ DerAnaesthesist3·2017 155
+Leitthema
+ Tab. 1 EvidenztypennachCochrane
+ Stufe Evidenztyp
+ Ia
+ Wenigstensein systematischerReview auf der Basismethodisch hochwertigerkontrollier
+ter, randomisierterStudien (RCTs)
+ Ib
+ IIa
+ IIb
+ III
+ IV
+ Wenigstensein ausreichendgroßer, methodisch hochwertigerRCT
+ Wenigstenseinehochwertige Studie ohne Randomisierung
+ Wenigstenseinehochwertige Studie einesanderen Typs quasiexperimentellerStudien
+ MehralseinemethodischhochwertigenichtexperimentelleStudie
+ MeinungenundÜberzeugungenvon angesehenenAutoritäten(aus klinischerErfah
+rung); Expertenkommissionen;beschreibendeStudien
+ Tab. 2 DirektgemesseneVolumeneffektevonVolumenersatzpräparaten
+ Infusionslösung
+ Volumeneffekt in %
+ Referenz
+ Humanalbumin5%
+ Humanalbumin20%
+ HES6%200/0,5
+ HES6%130/0,4
+ Ringerlaktat
+ 85
+ 185
+ 90
+ 98
+ 18
+ natürlich nicht die Sicherheit dieser
+ Infusionslösung.
+ 2. „Presence of evidence is evidently
+ present!“ Wurde also z. B. durch
+ kontrollierte, sprich verblindete,
+ prospektive, randomisierte Studien
+ belegt, dass die Nebenwirkungen
+ einer Therapie bei einem bestimmten
+ KollektivdenNutzenüberwiegen,so
+ kann dies nicht durch Studien niedri
+geren Evidenztyps, wie z. B. Register
+oder Beobachtungsstudien, wider
+legt bzw. „getoppt“ werden. Eine
+ vorhandene Evidenz kann man so
+ nicht egalisieren, auch wenn manche
+ Vertreter gewinnorientierter Phar
+mafirmen dies verständlicherweise
+ gerne anders sähen.
+ Da im klinischen Alltag teilweise Ratlo
+sigkeit herrscht, basiert die durchgeführ
+te Volumentherapie manchmal nicht auf
+ denErgebnissendergroßenStudien,son
+dernwirdempirischnach„Bauchgefühl“
+ vollzogen. Welche gesicherten Erkennt
+nisse aber können uns die Physiologie
+ unddie nachweisorientierte Medizin zur
+ Infusionstherapie geben?
+ Physiologie und Effektivität in
+ der Infusionstherapie
+ Eine Flüssigkeitstherapie setzt sich zu
+sammen aus der Gabe von Kristalloiden
+ und Kolloiden. Kristalloide sind Lö
+156
+ Rehmetal. [16]
+ Jacob et al. [21]
+ Rehmetal. [16]
+ Jacob et al. [18]
+ Jacob et al. [21]
+ sungen aus Wasser und Elektrolyten,
+ Kolloide beinhalten zudem Substanzen,
+ die wasserbindende Effekte haben, z.B.
+ Albumin, Hydroxyäthylstärke oder Ge
+latine. Die Art und Zusammensetzung
+ der zu infundierenden Lösung sollte auf
+ den Flüssigkeitsraum abgestimmt sein,
+ der Ziel der Behandlung ist. Deshalb
+ wurden z.B. isotone Infusionslösungen
+ entwickelt. Wie bereits erwähnt, müssen
+ FlüssigkeitsverlustemitundohneVerlust
+ von onkotisch wirksamen Makromole
+külen unterschieden werden. Daraus
+ ergibt sich die Unterscheidung von Vo
+lumenverlusten aus dem Intravasalraum
+ und Interstitium (Verlust von onkotisch
+ wirksamen Makromolekülen, wie z.B.
+ Albumin) und Flüssigkeitsverlusten wie
+ Urin, Perspiratio insensibilis (quantitativ
+ 0,5 ml/kg/h, bei maximaler Eventration
+ 1ml/kg/h) oder eine präoperative De
+hydrierung (kein Verlust von onkotisch
+ wirksamen Makromolekülen, sondern
+ einreinerFlüssigkeitsmangel).Beijedem
+ Blutverlust verlieren Patienten– je nach
+ Höhe des Blutverlustes– teils erhebliche
+ Mengen an Protein. Ersetzt man einen
+ Blutverlust also in hohem Umfang mit
+ rein kristallinen Lösungen, so sinkt der
+ kolloidosmotische Druck im Blutgefäß
+system stark ab. Darüber hinaus treten
+ bei großen tumorchirurgischen Opera
+tionen aber aucherheblicheVerlustevon
+ Makromolekülen– Protein und HES
+ins Interstitium auf, der sog. „Protein
+shift“ [13] oder „HES-Shift“ [14–16].
+ Dies sind Verluste an Protein oder HES,
+ die nicht überdiechirurgischeBlutung
+ oder den Urin erklärbar sind. So trat
+ z. B. bei Patientinnen mit Ovarialkarzi
+nomimMittelnebendemProteinverlust
+ über die chirurgische Blutung (1700 ml,
+ 67g Proteinverlust) ein intraoperativer
+ Proteinshift von 49g auf [13]. Bei Pa
+tientinnen mit radikaler Hysterektomie
+ zeigte sich, dass 30% der Zufuhr an
+ HES-Molekülen das Gefäßbett verließ
+ (mittlerer Verlust über die chirurgische
+ Blutung: 18g, mittlere Urinausschei
+dung von HES: 18g, mittlerer HES
+Shift: 30g) [16]. Beides, der HES- oder
+ Proteinverlust über die Blutung und der
+ Shift in das Interstitium, senken den
+ intravasalen kolloidosmotischen Druck
+ und verstärken damit die Ödembildung
+ durch Extravasation von Flüssigkeit.
+ Umeine tragfähige Strategie zu entwi
+ckeln, all diese Verluste an Flüssigkeit und
+ kolloidosmotischer Kraft bedarfsgerecht
+ zu ersetzen, ist es wichtig zu wissen, wie
+ effektiv die verschiedenen zur Verfügung
+ stehenden Infusionslösungen sind.
+ Unter „Volumeneffekte“ von Infusi
+onslösungen versteht man den Anteil
+ einer Infusionslösung, der nach intra
+venöser Applikation im Gefäßsystem
+ verbleibt. Beträgt dieser 100 %, so bleibt
+ die Infusion komplett im Intravasal
+raum. Beträgt er 20%, dann bedeutet
+ dies eine hohe Extravasation (80%) mit
+ der Gefahr eines interstitiellen Ödems.
+ Beträgt er 180%, dann besagt dies, dass
+ die Infusion durch einen hohen in
+trinsischen kolloidosmotischen Druck
+ Flüssigkeit aus dem Interstitium ins
+ Blutgefäßsystem zurückbefördert. Da
+zu existieren zahlreiche Daten, die in
+ .Tab. 2 aufgelistet werden. Als die zu
+verlässigste Methode zur Untersuchung
+ des tatsächlichen Volumeneffekts hat
+ sich die direkte Messung des Blutvolu
+mens vor und nach Applikation einer
+ Infusionslösung erwiesen (.Tab. 2; [8,
+ 14, 16–20]). Ein verhältnismäßig großer
+ Volumeneffekt ist die entscheidende
+ pharmakodynamische Eigenschaft der
+ Kolloide [8], welche im klinischen All
+tag durch Humanalbumin (HA), HES
+Präparate und Gelatinepräparate vertre
+ten sind. Der Einsatz von Kolloiden zur
+ Behandlung von Volumenverlusten kann
+ DerAnaesthesist3·2017
+also als sehr effektiv angesehen werden.
+ Wie aus .Tab. 2 zu entnehmen ist, sind
+ die Volumeneffekte von isoonkotischen
+ Kolloiden beim Ersatz von Blutverlus
+ten (akute normovoläme Hämodilution,
+ ANH) rund 5-mal so hoch wie die der
+ Kristalloide. So mussmanbei1lBlutver
+lust 4–5l Kristalloid infundieren, damit
+ einigermaßen Normovolämie gewahrt
+ bleibt. Die alleinige Anwendung von
+ Kristalloiden ist damit nicht nur wenig
+ effektiv, sie führt insbesondere bei grö
+ßeren Blutverlusten zu einer ausgeprägt
+ positiven Flüssigkeitsbilanz (interstitiel
+lem Ödem), welche wiederum ungüns
+tig für das Outcome ist. Hingegen ist
+ 1l Blutverlust bereits mit 1l isoonkoti
+schem HES oder Albumin ausreichend
+ therapiert. Der Volumeneffekt von Kol
+loiden hängt aber entscheidend von der
+ Integrität der Gefäßbarriere ab.
+ Abb. 29 aStruktur
+ derintaktenendo
+thelialenGlykoka
+lyx. DurchdasIn
+tegrierenundVer
+dichtenvonPlasma
+proteinenentsteht
+ einhoherkolloidos
+motischerDruckin
+ derGlykokalyxwel
+cherdieFlüssigkeit
+ imBlutgefäßsystem
+ hält. bPathophy
+siologische Situati
+onnachDegradie
+rungderendothe
+lialen Glykokalyx.
+ DieAblösungder
+ Plasmaproteogly
+kaneführtzurAd
+häsionvonBlutzel
+lenundzumAus
+stromvonMakro
+molekülenausdem
+ Gefäßsystem.vWF
+ Von-Willebrand
+Faktor, ICAM„inter
+cellular adhesion
+ molecule“,VCAM
+ „vascular adhesion
+ molecule“.(Mod.
+ nachNieuwdorpet
+ al. [29])
+ Die Gefäßbarriere
+ Die Schranke zwischen den Blutgefäßen
+ und dem interstitiellen Raum ist eine
+ Doppelbarriere. Sie besteht aus den
+ Endothelzellen und der endothelialen
+ Glykokalyx, einer Schicht aus Proteo
+glykanen undGlykosaminoglykanen auf
+ der luminalen Seite der Endothelzellen
+ (.Abb. 2a). Aufgrund ihrer Ladungs
+eigenschaften nimmt diese Schicht Al
+bumin auf und verdichtet es, sodass
+ die Glykokalyx eine eigene kolloidos
+motische Kompetenz entfaltet. Sie ist
+ die verantwortliche Schicht für den Er
+halt des kolloidosmotischen Starling
+Druckgradienten. Direkt unterhalb der
+ Glykokalyx herrscht ein sehr geringer
+ kolloidosmotischer Druck. Im Inter
+stitium selbst entspricht dieser wieder
+ nahezu dem kolloidosmotischen Druck
+ des Intravasalraums [22, 23]. Ist die
+ endotheliale Glykokalyx intakt, so sind
+ die Volumeneffekte von Kolloiden, wie
+ ebendargestellt,sehrhoch.IstdieGlyko
+kalyxaberzerstört(.Abb.2b), wie dies
+ z. B. bei der Sepsis der Fall sein kann,
+ dann sind die Volumeneffekte von Kol
+loiden deutlich geringer. Wahrscheinlich
+ ist dann die Effektivität isoonkotischer
+ Kolloide nicht mehr 5-mal, sondern
+ etwa nur mehr doppelt so hoch wie
+ die kristalloider Lösungen. Bereits eine
+ nichtadäquate Infusionstherapie kann
+ eine undichte Gefäßbarriere erzeugen.
+ Die Volumenbeladung ist mit geringen
+ Volumeneffekten, aber mit Nebenwir
+kungen vergesellschaftet [24]. Dies liegt
+ daran, dass Volumenbeladung (Infusion
+ ohne entsprechenden Verlust) zu einer
+ Dehnung der Vorhöfe und damit zu
+ einer Ausschüttung von atrialem natri
+uretischen Peptid (ANP) führt [25–27].
+ Dieses Peptid alteriert die endothe
+liale Glykokalyx und bewirkt so eine
+ gesteigerte Extravasation von Makro
+molekülen (Kolloiden) und Flüssigkeit.
+ Das Freisetzen von Glykokalyxbestand
+teilen in die Zirkulation kann durch die
+ heparinoide Wirkung der freigesetzten
+ Heparansulfate zudem die Blutgerin
+nung beeinträchtigen. Damit kann die
+ postoperative Neigung zur Thrombose
+ verstärkt werden, da die frei zirkulie
+renden Glykokalyxbestandteile über die
+ Niere ausgeschieden werden. In der Fol
+ge ist die plasmatische Gerinnung von
+ diesen Bestandteilen wieder unbeein
+trächtigt, jedochbeförderndieanhaltend
+ von der Glykokalyx entblößten Endo
+thelzellen die Thrombozytenadhäsion.
+ Eine einmal zerstörte Glykokalyx kann
+ wahrscheinlich erst innerhalb 7–10 Ta
+gen wieder vollständig neu aufgebaut
+ werden. Volumenbeladung bei vorbe
+stehender Normovolämie ist deshalb
+ nicht zu empfehlen. Bei einer nicht in
+takten Gefäßbarriere (z. B. Sepsis) sollte
+ aber die Extravasation, insbesondere
+ von künstlichen Kolloiden, so gering
+ wie möglich gehalten werden (uner
+wünschte Ablagerung von Kolloiden
+ im Gewebe) [28]. Konkret: In diesem
+ Fall ist aufgrund pathophysiologischer
+ Erwägungen Albumin den künstlichen
+ Kolloiden HES oder Gelatine vorzu
+ziehen. So stellt sich aber die Frage:
+ Ist der Einsatz von Infusionslösungen,
+ insbesondere von Kolloiden, sicher?
+ Der Anaesthesist3 · 2017 157
+Leitthema
+ EvidenzinderInfusionstherapie
+ Kristalloide
+ Perioperativ und auf Intensivstationen
+ werden zunehmend balancierte, isoto
+ne, kristalline Lösungen verwendet. Dies
+ liegt daran, dass physiologische Koch
+salzlösungdosisabhängigzueinerhyper
+chlorämen Azidose führt [30]. Dies re
+duziert im Vergleich zu denbalancierten
+ LösungendieSplanchnikusperfusion,die
+ Nierenperfusion, die Urinausscheidung
+ und führt zu vermehrter Übelkeit und
+ Erbrechen [31]. Auch deutete sich an,
+ dass die Verwendung balancierter Lö
+sungen Vorteile hinsichtlich des Überle
+bens von Patienten mit sich bringt [32].
+ Jedoch wurde in einer kürzlich veröf
+fentlichten Studie bei der Verwendung
+ vonKochsalzlösungimVergleichzurba
+lancierten Lösung kein Vorteil hinsicht
+lich des Überlebens aufgezeigt [33]. Al
+lerdings war hier die applizierte Infusi
+onsmenge so gering (<2l, langsam über
+ Tage appliziert), dass weder die Chlo
+ridkonzentration noch der pH in der
+ Kochsalzgruppe über bzw. unter die je
+weiligen Normwerte steigen bzw. fallen
+ konnten. In einemKongressbeitrag stell
+te Kellum (ISICEM2016)beieinemsehr
+ großen Patientenkollektiv dar, dass grö
+ßere Mengen Kochsalzlösung im Ver
+gleich zur balancierten Lösung zu ei
+nem Anstieg der Letalität führen. Die
+ Publikation dieser Daten erfolgte wäh
+rendderDrucklegungdieserArbeit[34].
+ EntgegenderverbreitetenMeinungführt
+ der Kaliumgehalt in balancierten Lösun
+gen bei Niereninsuffizienz nicht zur Hy
+perkaliämie [35, 36]. Im Gegenteil, bei
+ Nierentransplantationen wurde gezeigt,
+ dass selbst in der anurischen Phase eine
+ kaliumhaltige (bis 5mmol/l) balancier
+te Lösung dem NaCl 0,9% überlegen ist
+ [35]. Denn die durch die NaCl-Lösung
+ hervorgerufene hyperchloräme Azidose
+ führt zu einem Kaliumdrift vom Intra
+zellulärraum in den Intravasalraum, was
+ eine Hyperkaliämie begünstigt. Eine ba
+lancierte Infusionslösung mit einem Ka
+liumgehalt von 4–5mmol/l kann selbst
+ bei großen Infusionsmengen keine Hy
+perkaliämie erzeugen, da sie eben nicht
+ hyperkaliämist.LediglichwennderPati
+ent eine erhebliche, reine Wasserdiurese
+ hat, könnten theoretisch balancierte Lö
+sungen eine Hyperkaliämie begünstigen
+ (KonzentrationseffektdurchdenWasser
+verlust über die Niere). Zusammenfas
+send erscheint es daher sinnvoll, in der
+ Intensivmedizin und im OP balancier
+te Lösungen zu verwenden und isotone
+ Kochsalzlösungen lediglich bei speziel
+len Indikationen wie etwa der Cholera
+ (starke Verluste von Chlorid und Natri
+um) einzusetzen.
+ Albumin
+ Albumin ist einaus 585Aminosäuren
+ bestehendes Protein mit einem Moleku
+largewicht von 69 kDa. Die Albuminin
+fusionslösungen werden aus menschli
+chemBlut hergestellt (unterliegen damit
+ der Chargendokumentation), gelten als
+ virussicher und können zur Therapie
+ der Hypoalbuminämie eingesetzt wer
+den. Auch wenn der Albuminspiegel
+ ein klinisch oft gemessener Parameter
+ ist, kann derzeit keine allgemeingültige
+ Untergrenze definiert werden, ab der
+ eine Substitution stattfinden sollte. Zwar
+ wurdewiederholtbelegt,dasseineausge
+prägte Hypoalbuminämie beim kritisch
+ kranken Patienten mit einem schlech
+ten Outcome assoziiert ist [37]. Ob die
+ Hypoalbuminämie aber tatsächlich die
+ Ursache für das schlechte Outcome war
+ oder ein Symptom für die Schwere der
+ jeweiligen Erkrankung (z.B. Nutriti
+onsgrad, Schwere einer Inflammation)
+ darstellte, wird immer noch kontro
+vers diskutiert. Allerdings finden sich
+ viele Hinweise, dass eine Albuminga
+be bei ausgeprägter Hypoalbuminämie
+ (<2,5 g/dl) bei kritisch Kranken Vorteile
+ hinsichtlich Letalität, Organfunktionen,
+ der zu applizierenden Flüssigkeitsmenge
+ (Flüssigkeitsbilanz) und der Toleranz
+ der enteralen Ernährung haben kann
+ [37–41]. Die endotheliale Glykokalyx
+ benötigt eine zwar niedrige, aber doch
+ basale Albuminkonzentration zur Auf
+rechterhaltung der Barrierefunktion.
+ Lange Zeit galt Albumin wegen seiner
+ kolloidonkotischen Eigenschaften und
+ der intravasalen Verweildauer als gera
+dezu idealer Volumenersatz. Der Volu
+meneffekt von 20%iger Albuminlösung
+ beträgt 185%, was bedeutet, dass diese
+ Infusionslösung Flüssigkeit aus dem In
+terstitium für den Intravasalraum rekru
+tieren kann. DerVolumeneffektisthöher
+ als das Gesamtvolumenderinfundierten
+ Lösung selbst. Albumin 5% hat einen
+ Volumeneffekt von 85 %, was bedeutet,
+ dass nahezu die gesamte infundierte
+ Flüssigkeit im Blutgefäßsystem ver
+bleibt. So verwendete man Albumin bei
+ der Entwicklung künstlicher, kolloidaler
+ Plasmaersatzmittel über Jahrzehnte als
+ die Referenzsubstanz. Mit der Entwick
+lung preisgünstiger künstlicher Kolloide
+ istderEinsatzvonAlbuminalsVolumen
+ersatzmittel erheblich zurückgegangen.
+ Hierzuhat eine ältere Cochrane-Analyse
+ erheblich beigetragen, die eine höhere
+ Letalität bei kritisch Kranken aufzeig
+te, sofern sie Albumin erhielten [42].
+ Der Volumenersatz mit Albumin wurde
+ danach in mehreren großen, prospekti
+ven Studien untersucht. Die australische
+ SAFE-Studie beleuchtete die Sicherheit
+ der Infusionstherapie mit Humanalbu
+min bei intensivpflichtigen Patienten
+ [43, 44], wobei keine schwerwiegen
+den Nebenwirkungen im Vergleich zur
+ 0,9 %igen NaCl-Infusion nachgewiesen
+ werden konnten. Allerdings zeigte sich
+ bei den mit Albumin behandelten Pati
+enten auch kein besseres Outcome [43,
+ 44]. Die ALBIOS-Studie untersuchte ein
+ Patientenkollektiv mit schwerer Sepsis
+ oder septischem Schock. Eine Gruppe
+ erhielt Albuminsubstitution (nicht zur
+ Volumentherapie, sondern zur Anhe
+bung der Albuminserumkonzentration
+ auf ≥3g/dl), die Kontrollgruppe ledig
+lich kristalloide Lösung [45]. Bezüglich
+ der Letalität unterschieden sich bei
+de Gruppen nicht [45]. In der ähnlich
+ konzipierten EARSS-Studie zeigte sich
+ nach 28 Tagen eine absolut reduzier
+te Letalität von 2,2% und eine relativ
+ reduzierte Letalität von 8,4% in der
+ Humanalbumingruppe gegenüber der
+ Kristalloidgruppe (p > 0,05) [46]. Wie
+dermanns Metaanalyse der gepoolten
+ Datenaus SAFE-,EARSS-undALBIOS
+Studie erbrachte eine signifikant redu
+zierteSterblichkeit(p=0,046)unterGabe
+ von Albumin bei schwerer Sepsis bzw.
+ septischem Schock [47]. Eine nahezu
+ zeitgleich publizierte Metaanalyse zeigte
+ dies nicht (p = 0,08), allerdings wurden
+ hier Patienten aus zwei weiteren, sehr
+ kleinen Studien eingeschlossen, welche
+ 158 DerAnaesthesist3·2017
+nicht für die adressierte Fragestellung
+ „Outcome“ konzipiert und standardi
+siert waren (leider ein häufiger Mangel
+ in Metaanalysen). Zudem wurden nicht
+ die korrekten Patientenzahlen der Ori
+ginalpublikation der ALBIOS-Studie
+ berücksichtigt [48]. Im Gegensatz zu hy
+peronkotischer HES-Lösung konnte für
+ Albumin kein negativer Einfluss auf die
+ Nierenfunktion nachgewiesen werden
+ [49].
+ Ob Infusionen positive Wirkungen
+ entfalten oder deren Nebenwirkungen
+ überwiegen, hängt jedoch immer von
+ der applizierten Dosis und der korrek
+ten Indikationsstellung ab. So zeigte
+ sich, dass die Letalität bei Kindern mit
+ schwerer Infektion nach einem großen
+ Flüssigkeitsbolus (Albumin oder isotone
+ Kochsalzlösung; 20–40ml/kg) signifi
+kant anstieg. Allerdings hatten über
+ 90% der Kinder keine klinischen Zei
+chen eines Volumenbedarfs [50]. Die
+ Applikation hoher Dosen von Volumen
+ersatzmitteln ohne tatsächliche Volu
+menbedürftigkeit muss unabhängig von
+ derArtderLösungkritisch gesehenwer
+den. Im Rahmen des Volumenersatzes
+ ist ein Einsatz von Humanalbumin zur
+ Stabilisierung der Hämodynamik aber
+ mittlerweile vielerorts akzeptiert.
+ Zusammenfassend bestätigt die gute
+ Datenlage (Evidenzgrad Ia) die Effekti
+vität, Effizienz und Sicherheit von Hu
+manalbumin, da es hier nicht nur aus
+reichend große RCTs, sondern auf Basis
+ dieser auch entsprechend aussagekräfti
+ge Metaanalysen gibt (.Tab. 1). Im Ver
+gleich zu den künstlichen Kolloiden ist
+ Humanalbuminallerdings eine sehr teu
+re Therapieoption [51]. Deshalb sollte
+ Albumin nicht eingesetzt werden, so
+langeanderetherapeutischeAlternativen
+ (z. B. kristalline Lösungen oder künstli
+cheKolloide)nichtausgeschöpftwurden.
+ Zwei Post-hoc-Analysen zeigten eine re
+duzierteSterblichkeitbeischwererSepsis
+ (SAFE) bzw. septischem Schock (ALBI
+OS)durchdieGabevonAlbumin.Da
+raus abzuleiten, Albumin sei ein effek
+tives Therapeutikum bei der Sepsis, ist
+ falsch. Eine möglichst frühe Antibioti
+kagabe und eine kausale Therapie (z.B.
+ Infektsanierung) sind unzweifelhaft viel
+ effektiver. Vieles aus der vorhandenen
+ Datenlage spricht aber dafür, dass einer
+ Hypoalbuminämie (<2,5g/dl) bei einer
+ Sepsis durch angemessene Albuminga
+ben frühzeitig entgegengewirkt werden
+ sollte [43, 47, 52, 53]. Als Ziel sollte eine
+ Albuminkonzentration über 2,5 g/dl die
+nen, welches am effektivsten mit hype
+ronkotischer Albuminlösung (Albumin
+ 20%) erreicht werden kann.
+ Hydroxyethylstärke(HES)
+ Hydroxyethylstärkelösungen
+ werden
+ synthetisch aus pflanzlicher Stärke
+ (Wachsmaisstärke oder Kartoffelstärke)
+ hergestellt. Die Glucoseringe der Stärke
+ werden teilweise mit Hydroxyethylgrup
+pen substituiert. Beispielsweise bedeutet
+ die Angabe 130.000/0,4, dass die beige
+fügteStärkemiteinemMolekulargewicht
+ von 130.000 an 40% der Glucoseringe
+ Hydroxyethylgruppen trägt. Der Volu
+meneffekt von HES 130.000 ist nahezu
+ 100% und damit bzgl. des Volumener
+satzes als ideal zu bezeichnen. Während
+ in verschiedenen kleineren Studien an
+ unterschiedlichen Patientenkollektiven
+ keine negativen Effekte durch Gabe von
+ HES im Rahmen kombinierter HES
+und Elektrolytlösungstherapie gefunden
+ wurden, ergaben Studien aus der Inten
+sivmedizin ein anderes Bild. So fand sich
+ imRahmenderVISEP-StudieanPatien
+ten mit schwerer Sepsis ein nachteiliger
+ Effekt auf die Nierenfunktion, der häufig
+ erst im späteren Verlauf auftrat (Beob
+achtungszeitraum 90 Tage) [54]. Dabei
+ wurde eine ältereHES-Präparation in
+ einer hyperonkotischen Form (10%)
+ und mit einer hohen kumulativen Dosis
+ verabreicht. Die verblindete, randomi
+siert prospektive 6S-Studie verglich eine
+ T
+ herapie mit 6%iger HES 130.000/0,42
+ mitderRinger-Azetatgabebeiseptischen
+ Patienten [55]. Auchhier zeigte sich eine
+ erhöhteRate anNierenersatztherapien
+ und zudem eine höhere Letalität nach
+ HES-Therapie.Dieebenfallsverblindete,
+ randomisiert-prospektive CHEST-Stu
+die untersuchte ein großes, gemischtes
+ Patientenkollektiv, das postoperativ eine
+ Intensivtherapie benötigte, jedoch zum
+ Großteil nicht septisch war [56]. Die
+ Studie zeigte eine erhöhte Rate an Nie
+renersatztherapien nach HES-Therapie
+ (p = 0,04) und keinen Unterschied in
+ der Letalität nach 90 Tagen, wobei die
+ Kreislaufstabilisierung unter HES-Vo
+lumenersatz schneller erreicht werden
+ konnte. Auch die CRYSTMAS-Studie
+ [57] untersuchte ein septisches Patien
+tenkollektiv und ergab, dass eine HES
+130.000/0,4-basierte Volumentherapie
+ im Vergleich zu einer 0,9%igen NaCl
+Lösung in einer schnelleren hämody
+namische Stabilisierung resultierte. In
+ dieser Studie fand sich kein signifi
+kanter Gruppenunterschied bezüglich
+ Nierenfunktion und Letalität, was der
+ vergleichsweise geringen Fallzahl von
+ 174 Patienten geschuldet sein kann.
+ Metaanalysen, die diese RCTs aus
+ der Intensivmedizin beinhalten (Evi
+denztyp Ia), belegen, dass bei kritisch
+ kranken Patienten, insbesondere jenen
+ mit Sepsis und septischem Schock, die
+ Applikation von Hydroxyethylstärke
+ mit einer höheren Inzidenz von Nie
+renversagen und einer höheren Rate
+ an Nierenersatzverfahren assoziiert ist
+ [58–60]. Daraufhin gab der Pharmako
+vigilanzausschuss für Risikobewertung
+ der Europäischen Arzneimittelagentur
+ (PRAC;EuropeanMedicinesAgency)im
+ Oktober2013dieEmpfehlung, dassHES
+ bei kritisch Kranken sowie Patienten,
+ die an einer Sepsis oder Verbrennun
+gen leiden, nicht mehr zur Anwendung
+ kommen soll. Darüber hinaus wurde
+ empfohlen, HES nicht über einen Zeit
+raum von 24h hinaus anzuwenden und
+ die Nierenfunktion 90 Tage zu überwa
+chen [61, 62].
+ Die kontroverse Diskussion über die
+ SicherheitvonHESistdamitjedochnicht
+ zum Erliegen gekommen. Vielmehr ge
+rieten die bestehenden Studien in die
+ Kritik, da eine Vergleichbarkeit (Patien
+tenkollektiv, Patientenzustand bei Ran
+domisierung, Einsatz von Volumenpro
+dukten, Maximaldosen von HES) nicht
+ gegeben war. Meybohm et al. [63] ree
+valuiertendieprospektivrandomisierten
+ Studien und definierten einen 6-Punkte
+Katalog,deneinekünftigeStudieerfüllen
+ sollte, um für einen Vergleich zwischen
+ unterschiedlichenInfusionsregimenher
+angezogen werden zu können:
+ 4 kurze Zeit zwischen Schockereignis
+ und Randomisierung,
+ 4 eingeschränkter Einsatz einer initia
+len Volumentherapie,
+ Der Anaesthesist3 · 2017 159
+Leitthema
+ 4 konsequenter Einsatz eines festen
+ Infusionsalgorithmus bis zur hämo
+dynamischen Stabilisierung,
+ 4 reproduzierbare Kriterien für die
+ Hypovolämie,
+ 4 Maximaldosenvon HES,
+ 4 Ausschluss von Patienten mit vor
+bestehend eingeschränkter Nie
+renfunktion bzw. vorbestehender
+ Nierenersatztherapie.
+ Die zuvor genannten Studien erfüllen
+ nur teilweise diese Kriterien [63]. Kon
+trollierte Studien, die alle oben genann
+ten Kriterien erfüllen, eine hohe Fallzahl
+ aufweisen und einen langen Beobach
+tungszeitraum von mindestens 90 Tagen
+ abdecken, gibt es bislang leider nicht.
+ Ob HES 130.000/0,4 bei septischen Pa
+tienten ein günstigeres Sicherheitsprofil
+ und damit hinsichtlich der Nierenfunk
+tion auch im Langzeitverlauf eine gerin
+gere Nebenwirkungsrate als ältere Stär
+kepräparate aufweist, ist derzeit unklar
+ [58]. Daher sollten bei diesem speziellen
+ Patientenkollektiv keinerlei HES-Präpa
+rate eingesetzt werden (s. auch Abschn.
+ „Synopsis“). Zum Einsatz moderner nie
+dermolekularer HES-Lösungen bei In
+tensivpatienten empfiehlt die DGAI vor
+sorglich, den Einsatz in jedem Einzel
+fall kritisch abzuwägen und auf Patien
+ten mit akuten, vital bedrohlichen und
+ anderweitig nicht beherrschbaren Blut
+und Volumenverlusten zu beschränken.
+ Dies bedeutet z.B., dass ein Patient nach
+ Aortenstent, der postoperativ lediglich
+ zur Überwachung auf einer Intensivsta
+tion liegt und dort plötzlich aufgrund ei
+ner Aortenruptur einen massiven hypo
+volämen Schockerleidet, selbstverständ
+lich auchbereits initial als lebensrettende
+ Maßnahme größere Mengen HES erhal
+ten darf, obwohl sich dieses Szenario auf
+ einer Intensivstation abspielt.
+ Gelten diese Erkenntnisse
+ auch für die Anwendung
+ von HES-Präparaten als
+ Volumenersatzlösung im OP?
+ Nachdem die Aufsichtsbehörden initial
+ die gesamte Zulassung von HES-Präpa
+ratenruhenließen,durftemandiesezeit
+weilig auch im OP nicht mehreinsetzen.
+ In zwei von der Industrie unterstützten
+ Metaanalysen wurde bei großen Patien
+Nierenversagen durch eine ausgeprägte
+ HypovolämiemithoherWahrscheinlich
+keit. Diese „effektbasierte“ Risikoanalyse
+ spricht deutlich für HES 130.00/0,4 bei
+ der indikationsgerechten Therapie grö
+ßerer Blutverluste im OP. Möchte man
+ jedes– auch ein theoretisches– Risiko
+ völlig ausschließen, so muss man auch
+ im OP auf das sehr teure Albumin (s.
+ Abschn. „Albumin“) zurückgreifen.
+ tenzahlendieSicherheit vonMaisstär
+ke 130.000/0,4 bei chirurgischen Patien
+ten untersucht. Die Autoren fanden kei
+nen Unterschied zur Vergleichsgruppe
+ und attestierten dieser Maisstärke „safe
+ty“, also Sicherheit. Die meisten der ein
+geschlossenen Studien hatten jedoch zu
+ kurzeBeobachtungszeiträume undkeine
+ echteKontrollgruppe.Eineweitere,nicht
+ industriefinanzierteStudiekamzumglei
+chen Ergebnis mit den gleichen Unzu
+länglichkeiten der eingeschlossenen Stu
+dien [64]. Um die Sicherheit von HES
+ im OP zu belegen, benötigt es– analog
+ zur Intensivmedizin– ebenfalls entspre
+chend konzipierte randomisierte, kon
+trollierte und verblindete Studien, deren
+ Ergebnisse derzeit aber noch nicht vor
+liegen [65].
+ Ist keine ausreichende Evidenz vor
+handen, dann helfen Überlegungen zur
+ Pathophysiologie weiter: Die potenzi
+ell nephrotoxischen Eigenschaften von
+ HES 130.000/0,4 sind bisher nahezu
+ ausschließlich bei schwer kranken In
+tensivpatienten dargestellt worden. Es
+ erscheint sehr wahrscheinlich (wenn es
+ auchspekulativ sein mag), dass Patienten
+ mit normaler Nierenfunktion deutlich
+ weniger empfindlich gegenüber den po
+tenziell nephrotoxischen Effekten von
+ HES 130,000/0,4 sind als vorerkrankte
+ Intensivpatienten. Behandelt man diese
+ Patienten beieinemgrößerenBlutverlust
+ nicht mit Kolloiden, werden entweder
+ sehr hohe Mengen an Kristalloiden
+ notwendig– mit allen Nebenwirkun
+gen der daraus resultierenden positiven
+ Flüssigkeitsbilanz– oder die unwei
+gerlich entstehende Hypovolämie mit
+ Hypotension und konsekutiver Vaso
+pressorengabe wird sehr wahrscheinlich
+ die Nierenfunktion gefährden. Diese
+ „Zwickmühle“ lässt sich allerdings über
+ die Betrachtung der Effektivität lösen:
+ Wenn ein nephrotoxischer Effekt von
+ HES130.000/0,4 bei sonst gesunden Pa
+tienten im OPüberhauptvorhandensein
+ sollte, dann sprechen die Daten aus der
+ Intensivmedizin dafür, dass eine HES
+bedingte, perioperative Nierenschädi
+gung ein seltenes Ereignis sein dürfte.
+ Denn bereits in der Intensivmedizin
+ sind sehr hohe Fallzahlen notwendig,
+ um diese Effekte überhaupt darzustel
+len. Hingegen entsteht ein prärenales
+ Eine weitere potenzielle Nebenwir
+kung von HES 130.000 ist der– wenn
+ auch geringe– negative Effekt auf die
+ Blutgerinnung welcher über den Ef
+fekt einer reinen Dilution von Gerin
+nungsfaktoren hinausgeht [51]. Dies
+ und die potenzielle Beeinträchtigung
+ der Nierenfunktion begründen eine Do
+sisbegrenzung (30ml/kg). Eine kürzlich
+ veröffentlichte Metaanalyse zeigte, dass
+ durchdenEinsatzvonHESderintraope
+rative Blutverlust höher sein kann als bei
+ einer alleinigen Kristalloidtherapie [66].
+ Hierzu ist anzumerken, dass bei alleini
+ger Kristalloidgabe größere Blutverluste
+ oft nicht angemessen therapiert werden.
+ Die aus der Hypovolämie resultierende
+ AbnahmedesBlutdruckskann ihrerseits
+ Blutverluste vermindern. Etwas geringe
+reBlutverlustesolltennichtalsArgument
+ dafür dienen, die bedarfsgerechte Auf
+rechterhaltung der Normovolämie zu
+ vernachlässigen, denn die überwiegende
+ Gabe von Vasopressoren zur Kompen
+sation eines Volumenmangels kann die
+ Perfusion von Organen wie der Niere
+ erheblich beeinträchtigen.
+ Dasfrüher propagierte Konzept, Pati
+enten vor einem Eingriff prophylaktisch
+ mit Volumen zu „beladen“, z.B. durch
+ die Gabe von HES, sollte vor dem Hin
+tergrund der damit möglichen Beein
+trächtigung der Gefäßbarriere ebenso
+ kritisch gesehen werden [8]. Dies gilt
+ auch für schwangere Patientinnen zur
+ Sectio, denn die Sicherheit von künstli
+chen Kolloiden für Mutter und Kind ist
+ bisher nicht ausreichend belegt (durch
+ RCTs mit hohen Fallzahlen und langen
+ Beobachtungszeiträumen). Schwangere
+ vor Geburt haben per se schon regelhaft
+ ein hochnormales Blutvolumen, welches
+ man nicht mit künstlichen Kolloiden
+ expandieren muss oder gar sollte. Zu
+sammenfassendgilt die Anwendung von
+ HES-Präparaten im operativen Umfeld
+ 160 DerAnaesthesist3·2017
+zur Kompensation von höheren Blutver
+lusten und unter Beachtung der Kon
+traindikationen als vertretbar. Solange
+ ausreichend große kontrollierte Studien
+ mit langen Beobachtungszeiträumen für
+ die perioperative Phase fehlen, lässt sich
+ auch hier ein Restrisiko (z.B. für die
+ Nierenfunktion) nicht völlig ausschlie
+ßen.
+ Gelatine
+ Mit Gelatine befindet sich neben HES
+ noch ein weiteres künstliches Kolloid
+ im klinischen Gebrauch. Hergestellt aus
+ kollagenem Bindegewebe eigens dafür
+ gezüchteter Rinder ist Gelatine ein sehr
+ heterogenes Polypeptidgemisch. Da ein
+ Teil der verabreichten Menge bereits
+ während der Infusion wieder renal eli
+miniert wird, ist je nach Präparat der
+ Volumeneffekt mit 50–100%anzusetzen
+ [20, 51]. Der Volumeneffekt hält jedoch
+ maximal für 2h an. Die Effekte auf die
+ Blutgerinnung sind nochgeringer als bei
+ HES-Präparaten. Allerdings sind Unver
+träglichkeitsreaktionenallerSchweregra
+de für Gelatinepräparate beschrieben.
+ Sicher ist, dass Gelatinepräparate insge
+samt die höchste Rate anaphylaktischer
+ Reaktionen aller künstlichen und natür
+lichenKolloidehaben[61].Aufgrunddes
+ bovinenRohmaterialskannbeiGelatine
+ eine Kontamination mit dem Erreger
+ der neuen Variante der Creutzfeldt
+Jakob-Erkrankung nicht völlig ausge
+schlossen werden. Selbst eine chemisch
+ sehr aggressive Herstellung kann die
+ Prionen zwar massiv verringern, nicht
+ jedoch vollständig eliminieren. In der
+ Ära vor den ersten Fällen von boviner
+ spongiformer Enzephalopathie (BSE) in
+ Deutschland wurde das theoretische Ri
+siko einer BSE-Transmission durch Ge
+latine mit <1:1.000.000 kalkuliert [61].
+ In den USAsind Gelatinelösungen nicht
+ mehr zugelassen, in Deutschland wird
+ eine Chargendokumentationspflicht dis
+kutiert. Tierexperimentelle Arbeiten
+ zeigten, dass Gelatine histopathologi
+sche Veränderungen an den Nieren wie
+ eine Vakuolisierung von Tubuluszellen
+ („osmotic nephrosis like lesions“) verur
+sachen kann [61]. Bei kritisch kranken
+ Patienten ist eine kumulative Gelatine
+dosis >33ml/kgKG– ebenso wie bei
+ HES– mit einer höheren Inzidenz an
+ Nierenversagen assoziiert [61].
+ Im Vergleich zur guten Datenlage bei
+ HES-Präparaten oder Albumin fehlen
+ bislang große randomisierte Studien,
+ welche die Therapiesicherheit und den
+ T
+ herapienutzen von Gelatinepräparaten
+ darlegen [67, 68]. So liegen nach einer
+ Cochrane-Analyse aus dem Jahr 2012 in
+ RCTs Daten für HES von 9147 Patien
+ten, für Albumin von9920Patienten vor,
+ Gelatine wurde diesbezüglich bei nur
+ 506 Patienten kontrolliert untersucht
+ [69]. „Absence of evidence“ bedeutet
+ natürlich nicht, dass die Präparate be
+denkenlos in der Intensivmedizin oder
+ im OP eingesetzt werden können. Die
+ Tatsache,dassesderzeitfürdieSicherheit
+ von Gelatinelösungen weder auf Inten
+sivstationen noch im OP ausreichende
+ Evidenz gibt, spricht nicht für deren
+ Anwendung, sondern muss als erheb
+licher Nachteil von Gelatine gegenüber
+ Albumin und HESbewertetwerden [61,
+ 67].
+ Das 3-Stufen-Konzept zur
+ Volumentherapie
+ Wie eingangs erwähnt sollte eine Flüssig
+keitstherapie ziel- und verlustorientiert,
+ damit bedarfsgerecht gestaltet werden.
+ Ziel dieser Therapie muss die Normo
+volämie sein. Zwar gibt es derzeit keine
+ Evidenz, dass der Volumenersatz mit
+ Kolloiden im Vergleich zu dem mit
+ Kristalloiden die Letalität bei Patien
+ten senkt [69]. Bedenken wir aber die
+ Volumeneffekte von Kristalloiden und
+ Kolloiden, so sind Kolloide 5-mal effek
+tiver als Kristalloide, wenn sie unter der
+ richtigen Indikation der Hypovolämie
+ eingesetzt werden. Dies bestätigen auch
+ die Ergebnisse der CRISTAL-Studie, die
+ eine Senkung der Letalität bei Patienten
+ im hypovolämen Schock durch Volu
+menersatz mit Kolloiden zeigen konnte
+ [70]. Dieperioperative Infusionstherapie
+ besteht aus unterschiedlichen Phasen,
+ für die unterschiedliche Empfehlungen
+ ausgesprochen werden müssen:
+ 4 Erste Stufe: die basale Kristalloidthe
+rapie
+ Flüssigkeitsverluste (Urin und Per
+spiratio insensibilis) werden 1:1 mit
+ einer balancierten kristalloiden Infu
+sionslösung ersetzt. Ein intravasaler
+ Blutverlust muss zusätzlich mit einem
+ Verhältnis von 4–5:1 ersetzt werden.
+ Hier besteht dann auch die Limita
+tion der basalen Kristalloidtherapie,
+ da diese gleichzeitig die Infusion von
+ 80% „interstitiellem Ödem“ bedeu
+tet. Wie bereits erwähnt ist eine stark
+ positive Flüssigkeitsbilanzierung
+ nicht als harmlos anzusehen [1, 3–5,
+ 8, 24, 71]. Deswegen muss eine Gren
+ze gefunden werden, ab wann die
+ basale Kristalloidtherapie von einer
+ T
+ herapie mit höherer Effektivität ab
+gelöst wird, um Komplikationen und
+ Nebenwirkungen der Flüssigkeits
+therapie vom Patienten abzuwenden.
+ Hier kann als Faustregel der Verlust
+ von 20% des initialen Blutvolumens
+ genannt werden. Da die meisten Pa
+tienten im OP Blutverluste lediglich
+ innerhalb dieses Rahmens aufwei
+sen, kann nach diesem Konzept ein
+ Großteil der Patienten ohne Kolloid
+ behandelt werden.
+ 4 Zweite Stufe: ab Blutverlusten >20%
+ des initialen Blutvolumens
+ Hier sollte für den Ersatz des Blut
+verlustes eine effektive Therapie
+ mit Kolloiden erfolgen, damit die
+ Flüssigkeitsbilanz nicht zu positiv
+ wird. Flüssigkeitsverluste (Urin und
+ Perspiratio) sollten weiterhin 1:1 mit
+ Kristalloiden therapiert werden. Der
+ höchste Volumeneffekt wurde für
+ 20%iges Humanalbumin beschrie
+ben (.Tab. 2). Es ist aber auch das
+ bei weitem teuerste Kolloid. Unter
+ Beachtung der Kontraindikationen
+ können in der zweiten Stufe auch
+ künstliche isoonkotische Kolloide
+ wie HES eingesetzt werden (1:1 im
+ Verhältnis zu demüberStufe 1hinaus
+ anfallenden Blutverlust).
+ 4 Dritte Stufe: bei sehr großen Blutver
+lusten
+ Der Einsatz von Infusionslösun
+gen (Stufe 1 und 2) wird durch
+ die zunehmende Entstehung einer
+ Anämie und Einschränkung der
+ Blutgerinnung aufgrund der Dilu
+tion begrenzt. Neben der Dilution
+ von Gerinnungsfaktoren durch die
+ Aufrechterhaltung der Normovolä
+mie bei abnehmendem Blutvolumen
+ haben Gelatine und HES 130.000
+ Der Anaesthesist3 · 2017 161
+Leitthema
+ zudem direkte negative Effekte auf
+ dieBlutgerinnung.Anämieund
+ der Verlust von Gerinnungsfakto
+ren erfordern eine differenziert und
+ bedarfsgerecht durchzuführende
+ Transfusion von Blutprodukten (EK,
+ FFP, Thrombozytenkonzentrate,
+ Gerinnungsfaktoren).
+ Die Anwendung dieses Stufenkonzepts
+ gewährleistet eine verlust- und damit be
+darfsorientierte Volumentherapie. Die
+ 3 Stufen sollen allerdings nicht dog
+matisch angewendet werden! Erfolgt
+ z. B. ein plötzlicher Einriss einer großen
+ Vene, der einen hohen Blutverlust in
+ wenigen Minuten zur Folge hat, kann
+ und muss sofort zu Stufe 2 überge
+gangen werden, da der Volumenverlust
+ umgehend mit Infusionslösungen hoher
+ Effektivität behandelt werden muss. In
+ diesem Fall sollen also sofort Kolloide in
+ ausreichender Menge (z.B. 1–2l HES)
+ appliziert werden, um eine intraopera
+tive Hypovolämie zu vermeiden. Hier
+ können frühzeitig auch Blutprodukte
+ gegeben werden.
+ Wie wichtig es ist, den Bedarf an Flüs
+sigkeit und Volumen korrekt zu bestim
+men, verdeutlicht das Beispiel im fol
+genden Abschnitt, welches einerseits die
+ „Tücken“ einer intraoperativen Infusions
+therapie darlegt, aber andererseits hierzu
+ auch wichtige und einfach anwendbare
+ „Tipps und Tricks“ gibt.
+ Der Fall aus der Praxis
+Volumentherapie miteinfacher
+ Mathematikerklärt
+ Wir gehen von einer 52-jährigen Pati
+entin mit einem Ovarialkarzinom zur
+ Explorativlaparatomie aus. Der Eingriff
+ erfolgt in Allgemeinanästhesie bei zuvor
+ angelegter Periduralanästhesie (PDA).
+ Die Patientin ist kardiovaskulär gesund,
+ sogar noch sportlich aktiv und hat ein
+ Körpergewicht von 67kg bei einer Kör
+pergröße von 168cm. Während der
+ Operation versucht der Anästhesist, die
+ Normovolämie aufrechtzuerhalten, der
+ mittlere Blutdruck wird bei mindestens
+ 60 mmHg gehalten. Im Folgenden sind
+ die Ereignisse, Bilanz und Laborparame
+ter(Hämoglobinkonzentration[Hb]und
+ Hämatokrit[Hkt])zudenverschiedenen
+ Zeitpunkten der Operation aufgeführt:
+ 4 Einleitung:
+ j
+ Allgemeinanästhesie und aufsprit
+zen der PDA,
+ jHb12,3g/dl, Hkt 39,3%,
+ j
+ Norepinephrin 0,3mg/h.
+ 4 1hnachOP-Beginn:
+ jHb9,2g/dl, Hkt 29,4%,
+ Norepinephrin 0,5mg/h,
+ j
+ j
+ kumulativ 1500ml Kristalloid
+ infundiert.
+ 4 2hnachOP-Beginn:
+ j
+ j
+ geschätzter Blutverlust in Tüchern
+ und Sauger 1500ml,
+ Urinausscheidung 500ml,
+ jHb8,2g/dl, Hkt 26,2%,
+ Norepinephrin 1,5mg/h,
+ j
+ j
+ kumulativ 5000ml Kristalloid
+ infundiert.
+ 4 3hnachOP-Beginn
+ j
+ j
+ Operateur beklagt beeinträch
+tigte Blutgerinnung, anhaltende
+ operative Blutung,
+ jGabevon3FFP(750ml),
+ jHb7,0g/dl, Hkt 22,4%,
+ Norepinephrin 1,8mg/h,
+ j
+ Infusion von weiteren 1000ml
+ kristalloider Lösung,
+ j
+ Gabe von 4 Erythrozytenkonzen
+traten (kumulativ gesamt 1200ml).
+ 4 4hnachOP-Beginn
+ jHb7,7g/dl, Hkt 24,6%,
+ Norepinephrin 1,2mg/h,
+ j
+ j
+ weitere Gabe von 3 FFP(kumulativ
+ gesamt 1500ml),
+ jdanachHb7,5g/dlundHkt24,0%,
+ j
+ j
+ Schätzung des Blutverlustes
+ 3000ml insgesamt,
+ Urinausscheidung 700ml insge
+samt.
+ 4 OP-Ende: 5hnachOP-Beginn
+ jHb7,9g/dl, Hkt 25,3%,
+ j
+ Norepinephrin 0,6mg/h.
+ Die Patientin wird extubiert und mit
+ 0,7 mg/h Noradrenalin auf eine In
+tensivstation verlegt. Bei steigenden
+ Retentionsparametern wird ein Nie
+renersatzverfahren begonnen, welches
+ für 3 Tage bei akutem Nierenversagen
+ weitergeführtwerdenmuss.Danachnor
+malisiert sichdieNierenfunktionwieder.
+ Nach 11 Tagen Intensivstation wird die
+ Patientin auf die Normalstation verlegt
+ (.Tab. 3).
+ Warum war die Patientin kreislaufin
+stabil, warum hatte sie ein Nierenversa
+gen?
+ Die mathematische Lösung des
+ Falls
+ Situation präoperativ
+ Aus Größe und Gewicht der Patientin
+ berechnet sich eine Körperoberfläche
+ (KOF) von 1,76m2 [72].
+ √
+ KOF =
+ Größe[cm]⋅Gewicht[kg]
+ 3600
+ Wir gehen davon aus, dass die Pa
+tientin präoperativ ein normales Blut
+volumen aufwies, denn kardiopulmonal
+ gesundePatientenhabeni.d.R.morgens
+ trotzmehrererStundenNüchternheitein
+ sogar hochnormales Blutvolumen [9].
+ Anhand gemessener Blutvolumina er
+geben sich die in .Tab. 4 aufgeführten
+ Größenordnungen des Blutvolumens
+ (BV) pro m2 Körperoberflache (norma
+les BV: 2245ml/m2).
+ Blutvolumen =Körperoberfläche
+ ⋅ Normalwerte des
+ Blutvolumens prom2
+ BVNormovolämie = 1,76m2 ⋅ 2245 ml
+ m2
+ = 3951ml
+ Praktischer Tipp: Die KOF lässt sich
+ mithilfe des Internets berechnen. Will
+ man die Berechnung des Blutvolumens
+ vereinfachen, dann kann man auch mit
+ BV=60 ml/kg rechnen. Dies ist aber deut
+lich weniger präzise als die Berechnung
+ über die KOF.
+ Aus dem Hämatokrit errechnet sich
+ das Erythrozytenvolumen.
+ Erythrozytenvolumen =Blutvolumen
+ ⋅ Hämatokrit
+ EVpräop = 3951ml⋅39,3% = 1553ml
+ Praktischer Tipp: Hat man nur Hb
+Werte, so kann man den Hkt berechnen:
+ Hb [g/dl]×3,2=Hkt.Dies setzt eine
+ normale mittlere korpuskuläre Hämoglo
+binkonzentration (MCHC) voraus, was
+ aber bei den allermeisten Patienten anzu
+treffen ist.
+ 162 DerAnaesthesist3·2017
+Tab. 3 ÜbersichtderFlüssigkeitsbilanzbeiOP-Ende
+ Ausfuhr
+ Einfuhr
+ Urin
+ Blut
+ Perspiratio
+ Summe
+ 700ml
+ 3000ml
+ 335ml
+ Kristalloid
+ Erythrozytenkonzentrat
+ Fresh Frozen Plasma
+ 4035ml
+ Flüssigkeitsbilanz
+ Vorausgesetzt die Patientin blieb tat
+sächlich normovoläm, so kann aus dem
+ Blutvolumen zu jedem beliebigen Zeit
+punkt das jeweilige Erythrozytenvolu
+men, die Änderung desErythrozytenvo
+lumens (ΔEV) sowie mithilfe des mittle
+ren Hämatokrits der Blutverlust berech
+net werden:
+ Summe
+ 6000ml
+ 1200ml
+ 1500ml
+ 8700ml
+ +4665ml
+ Berechneter Blutverlust =
+ Veränderung des
+ Erythrozytenvolumens
+ mittlerer Hämatokrit
+ ergibt
+ Blutverlustintraop-2h = 518ml
+ Zum Beispiel Situation 2h nach Be
+ginn der OP:
+ Intraoperatives
+ Erythrozytenvolumen =
+ BVNormovolämie ⋅ Hktintraop
+ EV =3951ml⋅26,2% =1035ml
+ Änderung des
+ Erythrozytenvolumens =
+ präoperatives Erythrozytenvolumen
+ − intraooperatives
+ Erythrozytenvolumen
+ ΔEV=EVpräop −EVintraop
+ = 1553ml−1035ml = 518ml
+ Der mittlere Hämatokrit (Hktm)be
+rechnetsichausderSummeallerbiszum
+ Zeitpunkt2hnachSchnittdurchgeführ
+ten Hkt-Bestimmungen geteilt durch die
+ AnzahlderBestimmungen.BiszumZeit
+punkt2hnachSchnittwurdenn=3Hkt
+Bestimmungen durchgeführt
+ Hktm = (39,3+29,4+26,2)
+ 3
+ = 31,6%
+ Über den mittleren Hämatokritwert
+ kann aus dem Erythrozytenverlust der
+ Blutverlust (Blut = Erythrozyten und
+ Plasma) errechnet werden.
+ 31,6% = 1639ml
+ Bewertung der Volumentherapie
+ zumZeitpunkt2hnachSchnitt
+ Der geschätzte und der berechnete Blut
+verlust waren zu diesemZeitpunktnahe
+zuidentisch.BeieinerkumulativenGabe
+ von 5000ml kristalloider Lösung betrug
+ die Flüssigkeitsbilanz +2727 ml (Berech
+nung: 5000ml Kristalloid– 134ml Per
+spiratio– 500 mlUrin–1639mlBlutver
+lust). Trotzdem war 2h nach OP-Beginn
+ die Volumentherapie nicht ausreichend.
+ Die folgende Bilanz 2h nach OP-Be
+ginn berücksichtigt den Volumeneffekt
+ der hier gewählten Volumenersatzthera
+pie und stellt die intravasale Volumen
+bilanz dar. Hierbei werden Kristalloide
+ soweit zum Ausgleich von Flüssigkeitsver
+lusten durch Urin oder Perspiratio voll
+ angerechnet. Ersetzen sie aber Blutverlus
+te, werden nur 20% angerechnet, denn
+ nur 20% verbleiben intravasal (der Rest
+ führt lediglich zum interstitiellen Ödem,
+ .Tab. 5).
+ Ergo: Die Patientin hatte zu diesem
+ Zeitpunkt eine ausgeprägte intravasale
+ Hypovolämie(756ml),wasdieKreislauf
+instabilität und den Bedarf an 1,5mg/h
+ Norepinephrin erklärt. In Anbetracht
+ des 3-Stufen-Konzepts (s. Abschn. „Das
+ 3-Stufen-Konzept zur Volumenthera
+pie“) hätte zunächst der kritische Blut
+verlust von 20% des präoperativen Blut
+volumens errechnet werden müssen. Bei
+ einer Patientin mit ca. 4000ml Blutvo
+Tab. 4 ZusammensetzungdesGesamt
+blutvolumensprom2Körperoberfläche[9,
+ 73]
+ Kompartiment
+ Geschlecht ml/m2
+ Frau
+ Erythrozyten
+volumen
+ Plasmavolumen
+ Blutvolumen
+ Mann
+ Frau
+ 850
+ 1100
+ 1395
+ Mann
+ Frau
+ Mann
+ 1578
+ 2245
+ 2678
+ lumen entspricht dies einem Blutverlust
+ von 800ml. In Stufe 1 hätte die 4–5fache
+ Menge dieses Blutverlustes plus die Aus
+scheidung durch Urin und Perspiratio
+ durchKristalloid ersetztwerdenmüssen,
+ dasentspricht etwa 4600ml(5×800ml+
+ 637 ml). Danach hätte Stufe 2 Anwen
+dung finden und weitere Blutverluste
+ mit Kolloid ersetzt werden müssen. In
+ diesem Fall wären 800ml HES indiziert
+ gewesen.
+ Situation am OP-Ende
+ Die BerechnungdesBlutverlusteserfolgt
+ analog zur oben dargestellten Berech
+nung 2h nach OP-Beginn.
+ ZunächstwirdderVerlustanErythro
+zytenvolumen berechnet:
+ BVpostop =3951ml(Normovolämie
+ vorausgesetzt)
+ EVpostop = 3951ml ⋅ 25,3% = 1000ml
+ ΔEV =EVpräop. −EVpostop.
+ = 1553ml−1000ml = 553ml
+ UmdenErythrozytenverlustabschlie
+ßendkalkulieren zu können, müssen ne
+ben der Änderung des Erythrozytenvo
+lumens nun die gegeben Erythrozyten
+konzentrate in die Berechnung aufge
+nommenwerden. Ein Erythrozytenkon
+zentrat mit 300ml Volumen entspricht
+ 200ml Erythrozytenvolumen.
+ Erythrozytenverlustgesamt =
+ ΔEV+(4⋅200ml)
+ = 553ml+800ml = 1353ml
+ NunhilftdermittlereHämatokrit,um
+ aus dem Erythrozytenverlust den Blut
+verlust zu errechnen:
+ 163
+ Der Anaesthesist3 · 2017
+Leitthema
+ Tab. 5 ÜbersichtderVolumenbilanzfürdenIntravasalraum2hnachSchnitt
+ Ausfuhr
+ Einfuhr
+ Urin undPerspiratio
+ Blutverlust
+ Summe
+ 637ml
+ 1629ml
+ Kristalloid zum Flüssig
+keitsersatz
+ 637ml
+ Zur Kompensation
+ des Blutverlustsanre
+chenbare Mengean
+ Kristalloid
+ 2266ml
+ Volumenbilanz
+ Summe
+ 873ml
+ Berechnung:
+ (Kristalloid zum Messzeitpunkt
+637ml)×20%=
+ (5000ml–637ml)×20%
+ 1510ml–756ml
+ Tab. 6 ÜbersichtderVolumenbilanzfürdenIntravasalraumbeiOP-Ende
+ Ausfuhr
+ Einfuhr
+ Urin undPerspiratio
+ Blutverlust––
+ Summe
+ 1035ml
+ 4956ml
+Kristalloid zum Flüssig
+keitsersatz
+ Zur Kompensationdes
+ Blutverlusts anrechen
+bare MengeanKristallo
+id
+ 1035ml
+ 993ml
+ Berechnung:
+ (Kristalloid zum Messzeitpunkt
+1035ml)×20%=
+ (6000ml–1035ml)×20%
+ Erythrozytenkonzentrat
+5991ml
+ Volumenbilanz
+ Fresh Frozen Plasma
+ Summe
+ Blutverlust = Erythrozytenverlust
+ mittlerer Hämatokrit
+ Hktm(insgesamt 7 Bestimmungen)
+ ⎡
+ 1200ml
+ 1500ml
+ 4728ml–1263ml
+ Gesamtbewertung: eine
+ Zielverfehlung; Ausgeprägte
+ Hypovolämie trotz stark positiver
+ Bilanz!
+ ⎢
+ ⎢
+ ⎢
+ ⎢
+ ⎢
+ ⎢
+ =
+ ⎣
+ ⎤
+ ⎥
+ ⎥
+ ⎥
+ ⎥
+ 39,4% +29,4%+26,3%
+ +22,4%+24,0%
+ +24,6%+25,3%
+ ⎥
+ ⎥
+ ⎦
+ = 27,3%
+ 7
+ Um den abschließenden gesamten
+ Blutverlust berechnen zu können, wird
+ der gesamte Erythrozytenverlust durch
+ den über die OP-Zeit berechneten mitt
+leren Hämatokrit geteilt. Dieser betrug:
+ Berechneter Gesamtblutverlust =
+ Erythrozytenverlust
+ Hktm
+ Berechneter Gesamtblutverlust =
+ 1353ml
+ 27,3% = 4956ml
+ Die reine Flüssigkeitsbilanz postoperativ
+ scheint mit +4665ml zwar sehr großzü
+gig, jedoch wurde derGesamtblutverlust
+ um 1900ml unterschätzt. Die nachfol
+gende Übersicht berücksichtigt wieder
+ den Volumeneffekt der gewählten Vo
+lumenersatztherapie und stellt damit die
+ intravasaleVolumenbilanzdar(. Tab. 6).
+ Die Patientin hatte postoperativ eine
+ schwere Hypovolämie (über 1200ml zu
+ wenig Volumen)! Zudem treten bei die
+sen Operationen über die Blutung hi
+naus intraoperativ zusätzliche hohe Pro
+teinverluste auf, die hier noch gar nicht
+ eingerechnet wurden.
+ Zusammenfassend handelte es sich
+ bei nahezu 5l Blutverlust nicht um eine
+ bedarfsgerechte Volumentherapie. We
+niger Kristalloid aber deutlich mehr
+ „Volumen“ (Kolloid) wäre verlustadap
+tiert, die Gabe von 2000ml HES ratsam
+ gewesen. Das Beispiel veranschaulicht
+ auch Grundsätzliches: Bei internistisch
+ gesunden Patienten ist während großen
+ operativen Eingriffen eine schleichende,
+ ausgeprägte Zunahme des Katechola
+minbedarfs ein sehr starker Hinweis auf
+ einen inadäquat therapierten Blutver
+lust! Dies ist nun jedoch spekulativ: Die
+ ausgeprägte Hypovolämie mit entspre
+chend hohem Katecholaminbedarf hatte
+ einen schwerwiegenderen Einfluss auf
+ die Nierenfunktion als es die „Vertei
+digung“ der Normovolämie mit HES
+ bei der nierengesunden, nicht kritisch
+ kranken Patientin gehabt hätte.
+ Wichtige Anmerkungen zur
+ Bedside-Blutverlustberechnung
+ DieaufgezeigteBerechnungistimOPfür
+ jeden Zeitpunkt durchführbar. Gerade
+ in scheinbar unübersichtlichen Situatio
+nen(größereBlutverluste,GabevonBlut)
+ verschafftsieÜbersicht. Wie.Abb.3de
+monstriert,gehtdieBerechnungdesBlut
+verlustes immer von der Normovolämie
+ des Patienten aus. Damit ist die Dilu
+tion durch entsprechenden Volumener
+satz bedingt, denn sonst sinkt der Hkt
+ bei Blutverlust nicht logarithmisch ab, so
+ wiediesbeiAufrechterhaltenderNormo
+volämie der Fall wäre. Wichtig zu wissen
+ ist, dass das Blutvolumen durch Infusio
+nen nur in geringem Umfang ansteigen
+ kann [24]. Es erfolgt eine umgehende
+ Freisetzung von ANP, die Gefäßbarrie
+re wird undicht, das Blutvolumen wird
+ schnell wieder normal hoch [25–27, 74].
+ Viel häufiger ist bei größeren Blutver
+lusten eine moderate, manchmal– wie
+ am Fallbeispiel demonstriert– erhebli
+che Hypovolämie, verursacht durch eine
+ augenscheinlich großzügige, bei genauer
+ Betrachtung aber unzureichende Volu
+mentherapie. Berechnet man z.B. den
+ Blutverlust zu einem Zeitpunkt, an dem
+ das Blutvolumen um 500ml geringer ist
+ als zu Beginn, dann addieren sich die
+ 500ml zu dem berechneten Blutverlust.
+ Wie .Abb.3 zeigt, fällt der Hämato
+krit bei einer Blutung und normovolä
+men Dilution mit Infusionslösungen lo
+garithmisch ab [75]. Aufgrund der ein
+facheren Mathematik wird bei der auf
+gezeigten Berechnung des Blutverlustes
+ nicht der Logarithmus verwendet– die
+ Berechnung ist linear. Nimmt man wäh
+rend einer Blutung also z.B. nur 2 Hä
+matokritwerte (.Abb. 3, Bsp. 1), dann
+ wird der mittlere Hämatokrit deutlich
+ zu hoch und der berechnete Blutverlust
+ 164 DerAnaesthesist3·2017
+dadurch zu niedrig ausfallen. Günstig ist
+ es also immer mehrere Hämatokritwerte
+ zur Berechnung heranzuziehen. Im dar
+gestelltenFallwurden7Hkt-Bestimmun
+gen durchgeführt (.Abb.3,Bsp.2).Dies
+ ist eine ausreichend hohe Zahl. Trotz
+dem wird der Hktm etwas zu hoch aus
+fallen und damit der berechneteBlutver
+lust den tatsächlichen Blutverlust etwas
+ unterschätzen. Das bedeutet, dass eine
+ eventuelle Hypovolämie und die Linea
+rität der Berechnung dafür sorgen, dass
+ der berechneteBlutverlustniedriger sein
+ kannalsdertatsächlicheBlutverlust.Wie
+ der Fall zeigt, verschafft aber ein sogar
+ noch zu niedrig berechneter Blutverlust
+ dennoch eine weit bessere Übersicht als
+ der geschätzte Blutverlust, welcher lei
+der ein sehr unzuverlässiger Parameter
+ ist. Dies liegt u.a. daran, dass die Ver
+luste in die Tücher schwer zu schätzen
+ sind, Blut in Gebiete fließen kann, die
+ man nicht sieht und der Chirurg auch
+ nicht absaugt undselbstderSaugerinhalt
+ an Blut durch Spüllösungen, gerade bei
+ hohen Blutverlusten, schwer einzuschät
+Abb. 39 Häma
+tokritverlaufbei
+ einerBlutungund
+ gleichzeitigerAuf
+rechterhaltung
+ derNormovolämie
+ durchInfusion(Di
+lution).HktHämato
+krit, Hktmmittlerer
+ Hämatokrit
+ 4 sollte bedarfsgerecht, mit dem Ziel
+ der Normovolämie erfolgen,
+ 4 sollte verlustorientiert zwischen
+ Flüssigkeitsverlusten und Volumen
+verlusten unterscheiden,
+ 4 sollte Flüssigkeitsverluste (Urin
+ & Perspiratio insensibilis:
+ 0,5–1,0 ml/kg/h) 1:1 mit einer
+ balancierten, kristalloiden Infusions
+lösung ausgleichen,
+ 4 sollte Volumenverluste (intraope
+rativer Blutverlust) zunächst bis zu
+ einem Blutverlust von 20% des Ge
+samtblutvolumens mit balancierten
+ Kristalloiden imVerhältnis4–5:1aus
+gleichen und darüber hinaus gehende
+ Blutverluste im Verhältnis 1:1 mit
+ isoonkotischen Kolloiden behandeln.
+ UnterBeachtungderKontraindikationen
+ 4 Sepsis,
+ 4 Verbrennungen,
+ 4 kritisch kranker Patient (meist auf
+ Intensivstation),
+ 4 eingeschränkte Nierenfunktion oder
+ Nierenersatztherapie,
+ zenist.EineerheblicheUnterschätzung
+ intraoperativer Blutverluste ist deshalb
+ leider häufig anzutreffen [76]. Daher ist
+ die vonunsvorgestellteBedside-Blutver
+lustberechnung äußerst nützlich. Diese
+ kann sogar in Narkosedokumentations
+programme implementiert werden.
+ Fazit für die Praxis– die
+ Synopsis
+ Eine adäquate intraoperative Infusions
+therapie:
+ 4 intrakranielle oder zerebrale Blutung,
+ 4 schwere Gerinnungsstörung
+ kann auchHESzumVolumenersatz ver
+wendet werden. Bei Patienten, die eine
+ Kontraindikation gegen HES aufweisen,
+ sollteaufgrundderhiervorhandenenDa
+ten zur Sicherheit Albumin- gegenüber
+ Gelatinelösungen der Vorzug gegeben
+ werden.
+ Das3-Stufen-Konzeptzurverlust-und
+ bedarfsorientierten Volumentherapie:
+ 4 Erste Stufe: basale Kristalloidtherapie
+ Flüssigkeitsverluste (Urin und Per
+spiratio insensibilis) werden 1:1 mit
+ einer balancierten, kristalloiden Infu
+sionslösung ersetzt. Ein intravasaler
+ Blutverlust muss zusätzlich mit einem
+ Verhältnis von 4–5:1 ersetzt werden.
+ 4 Zweite Stufe: ab Blutverlusten größer
+ als20%desinitialenBlutvolumens
+ Kolloidgabe (bevorzugt balanciert)
+ 1:1 zu dem nach Stufe 1 anfallenden
+ Blutverlust, Flüssigkeitsverluste (Urin
+ und Perspiratio insensibilis) werden
+ weiterhin 1:1 mit einer balancierten
+ kristalloiden Infusionslösung ersetzt.
+ 4 Dritte Stufe: bei sehr großen Blutver
+lusten Differenziert und bedarfsge
+recht durchzuführende Transfusion
+ von Blutprodukten, sprich EKs, FFPs
+ (angepasst an die Gerinnungssitua
+tion), ggf. Gerinnungsfaktoren und
+ T
+ hrombozytenkonzentraten.
+ Die Bedside-Blutverlustberechnung an
+hand der Normwerte des Blutvolumens
+ undderintraoperativen Hb- oderHkt-Be
+stimmungenbietetAnästhesisteneine sehr
+ gute Orientierung, wodurch das Ziel– die
+ Normovolämie der Patienten– leichter
+ erreichbar wird. Von Zufällen abgesehen
+ kann eine Infusions- und Volumenthera
+pie nur dann bedarfsgerecht sein, wenn
+ mandenBedarf der Patienten kennt!
+ Korrespondenzadresse
+ Prof. Dr. M. Rehm
+ Klinik für Anaesthesiologie, Klinikum der
+ Universität München
+ Marchioninistr. 15, 81377 München,
+ Deutschland
+ markus.rehm@med.uni-muenchen.de
+ Einhaltung ethischer Richtlinien
+ Interessenkonflikt. M.Rehmleitetaktuell2klinische
+ Studien, einewirdvon CSL Behring,einevonFrese
+nius Kabi unterstützt.Er hat indenletzten2Jah
+ren vonPharmafirmenkeineReisekostenerstattungen
+ oderHonorareerhalten.N.Hulde,T.Kammerer,
+ A.S.MeidertundK.Hofmann-Kiefergebenan,dass
+ keinInteressenkonfliktbesteht.
+ DieserBeitragbeinhaltetkeinevondenAutoren
+ durchgeführtenStudienanMenschenoderTieren.
+ Der Anaesthesist3 · 2017 165
+Leitthema
+ Literatur
+ 1. Brandstrup B, Tonnesen H, Beier-Holgersen R et
+ al (2003) Effects of intravenous fluid restriction
+ on postoperative complications: Comparison of
+ two perioperative fluid regimens: A randomized
+ assessor-blinded multicenter trial. Ann Surg
+ 238:641–648
+ 2. Jacob M, Chappell D (2009) Rehm M The ‘third
+ space’– fact or fiction? Best Pract Res Clin
+ Anaesthesiol23:145–157
+ 3. Holte K, Kehlet H (2006) Fluid therapy and
+ surgical outcomes in elective surgery: A need for
+ reassessmentinfast-track surgery. J AmColl Surg
+ 202:971–989
+ 4.LoboDN,BostockKA,NealKR,PerkinsAC,Row
+lands BJ,Allison SP (2002)Effect ofsaltandwater
+ balance on recovery of gastrointestinal function
+ after elective colonic resection: A randomised
+ controlledtrial.Lancet359:1812–1818
+ 5. NisanevichV,FelsensteinI,AlmogyG,WeissmanC,
+ EinavS,MatotI(2005)Effectofintraoperativefluid
+ management on outcome after intraabdominal
+ surgery.Anesthesiology103:25–32
+ 6. Parquin F, Marchal M, Mehiri S, Herve P, Lescot B
+ (1996)Post-pneumonectomy pulmonaryedema:
+ analysis and risk factors. Eur J Cardiothorac Surg
+ 10:929–932(discussion33)
+ 7. Glassford NJ, Myles P, Bellomo R (2012) The
+ Australian approach to peri-operative fluid
+ balance.CurrOpinAnaesthesiol25:102–110
+ 8. Chappell D, Jacob M, Hofmann-Kiefer K, Conzen
+ P, Rehm M (2008) A rational approach to
+ perioperative fluidmanagement.Anesthesiology
+ 109:723–740
+ 9. Jacob M, Chappell D, Conzen P, FinstererU,Rehm
+ M (2008) Blood volume is normal after pre
+operative overnight fasting. Acta Anaesthesiol
+ Scand52:522–529
+ 10. Fachgesellschaften_AAWM (2014) Intravasle
+ Volumentherapie beim Erwachsenen. http://
+ www.awmf.org/leitlinien/detail/ll/001-020.html
+ (Registernummer001–020)
+ 11. Langer T, Conrad S, Fishman L et al (2012)
+ Interessenkonflikte bei Autoren medizinischer
+ Leitlinien. Eine Analyse der Leitlinien deutscher
+ Fachgesellschaften 2009–2011. Dtsch Arztebl
+ 109:836–842
+ 12. Marckmann G (2015) Alkoholabstinenz vor
+ Lebertransplantation: Contra. Dtsch Arztebl
+ 112(49):A2079
+ 13.RehmM,HallerM,BrechtelsbauerH,AkbulutC,
+ FinstererU(1998)Extraproteinlossnotcausedby
+ surgical bleeding in patients with ovariancancer.
+ ActaAnaesthesiolScand42:39–46
+ 14. Rehm M, Haller M, Orth V et al (2001) Changes
+ in blood volume and hematocrit during acute
+ preoperativevolumeloadingwith5%albuminor
+ 6%hetastarchsolutionsinpatientsbeforeradical
+ hysterectomy.Anesthesiology95:849–856
+ 15. JacobM,ChappellD,Hofmann-KieferK,ConzenP,
+ PeterK,RehmM(2007)Determinantsofinsensible
+ f
+ luidloss.Perspiration,proteinshiftandendotheli
+alglycocalyx.Anaesthesist56(747–58):60–64
+ 16. RehmM,OrthVH,KreimeierUetal(2001)Changes
+ in blood volume during acute normovolemic
+ hemodilution with 5% albumin or 6% hydro
+xyethylstarch and intraoperative retransfusion.
+ Anaesthesist50:569–579
+ 17. RehmM,OrthV,KreimeierUetal(2000)Changesin
+ intravascular volumeduringacutenormovolemic
+ hemodilution andintraoperativeretransfusionin
+ patients with radical hysterectomy. Anesthesiol
+ogy92:657–664
+ 18. Jacob M, Rehm M, Orth V et al (2003) Exact
+ measurement of the volume effect of 6%
+ hydoxyethyl starch 130/0.4 (Voluven) during
+ acute preoperative normovolemic hemodilution.
+ Anaesthesist52:896–904
+ 19. Rehm MHM, Brechtelsbauer H, Akbulut C,
+ Finsterer U (1998) Changes in plasma volume
+ in immediate pre- and postoperative periods in
+ patientsmajorgynecologicsurgery.Infusionsther
+ Transfusionsmed25:222–228
+ 20. Rehm M, Orth VH, Weninger E et al (2001)
+ Acute “normovolemic” hemodilution with 3.5%
+ polygel(Haemaccel)forpatientsintheWertheim
+Meigs-operation. Blood loss of 87% blood
+ volume withoutperioperative blood transfusion.
+ Anaesthesist50:580–584
+ 21. JacobM,ChappellD,Hofmann-KieferKetal(2012)
+ TheintravascularvolumeeffectofRinger’slactate
+ is below20%:aprospectivestudyinhumans.Crit
+ Care16:R86
+ 22. Jacob M, Bruegger D, Rehm M et al (2007) The
+ endothelial glycocalyx affords compatibility of
+ Starling’s principle and high cardiac interstitial
+ albuminlevels.CardiovascRes73:575–586
+ 23.HuX,AdamsonRH,LiuB,CurryFE,WeinbaumS
+ (2000) Starling forces that oppose filtration after
+ tissue oncotic pressure is increased. Am J Physiol
+ HeartCircPhysiol279:H1724–36
+ 24. Jacob M, Chappell D, Rehm M (2007) Clinical
+ update: Perioperative fluid management. Lancet
+ 369:1984–1986
+ 25. Bruegger D, Jacob M, Rehm M et al (2005)
+ Atrial natriuretic peptide induces shedding of
+ endothelialglycocalyxincoronaryvascularbedof
+ guineapighearts. AmJPhysiolHeartCirc Physiol
+ 289:H1993–H1999
+ 26. Bruegger D, Schwartz L, Chappell D et al (2011)
+ Release of atrial natriuretic peptide precedes
+ shedding of the endothelial glycocalyx equally
+ in patients undergoing on- and off-pump
+ coronary artery bypass surgery. BasicRes Cardiol
+ 106:1111–1121
+ 27. Chappell D, Bruegger D, Potzel J et al (2014)
+ Hypervolemia increases release of atrial natri
+uretic peptide and shedding of the endothelial
+ glycocalyx.CritCare18:538
+ 28. WiedermannCJ(2014)JoannidisMAccumulation
+ of hydroxyethyl starch in human and animal
+ tissues: A systematic review. Intensive Care Med
+ 40:160–170
+ 29. Nieuwdorp M, Meuwese MC, Vink H, Hoekstra
+ JB, Kastelein JJ, Stroes ES (2005) The endothelial
+ glycocalyx:Apotentialbarrierbetweenhealthand
+ vasculardisease.CurrOpinLipidol16:507–511
+ 30. Scheingraber S, RehmM, SehmischC, FinstererU
+ (1999) Rapid salineinfusion produces hyperchlo
+remicacidosisinpatientsundergoinggynecologic
+ surgery.Anesthesiology90:1265–1270
+ 31. OrbegozoCortesD,RayoBonorA,VincentJL(2014)
+ Isotonic crystalloid solutions: a structured review
+ oftheliterature.BrJAnaesth112:968–981
+ 32. Shaw AD, Bagshaw SM, Goldstein SL et al (2012)
+ Major complications, mortality, and resource
+ utilization after open abdominal surgery: 0.9%
+ saline compared to Plasma-Lyte. Ann Surg
+ 255:821–829
+ 33. YoungP, Bailey M, Beasley R et al (2015) Effect of
+ a buffered crystalloid solution vs saline on acute
+ kidneyinjuryamongpatientsintheintensivecare
+ unit: The SPLIT randomized clinical trial. JAMA
+ 314:1701–1710
+ 34. SennAetal(2017)Chloridecontentoffluidsused
+ for large-volume resuscitation is associated with
+ reducedsurvival.CritCareMed45:e146–e153
+ 35. O’MalleyCM,FrumentoRJ,HardyMAetal(2005)A
+ randomized,double-blindcomparisonoflactated
+ Ringer’s solution and 0.9% NaCl during renal
+ transplantation.AnesthAnalg100:1518–1524
+ 36. Potura E, Lindner G, BiesenbachP et al (2015) An
+ acetate-bufferedbalancedcrystalloidversus0.9%
+ saline in patients with end-stage renal disease
+ undergoing cadaveric renal transplantation:
+ aprospectiverandomizedcontrolledtrial.Anesth
+ Analg120:123–129
+ 37. Vincent JL, Dubois MJ, Navickis RJ, Wilkes MM
+ (2003)Hypoalbuminemia inacuteillness:isthere
+ a rationale for intervention? A meta-analysis of
+ cohort studies and controlled trials. Ann Surg
+ 237:319–334
+ 38. Dubois MJ, Orellana-Jimenez C, Melot C et al
+ (2006) Albumin administration improves organ
+ functionincriticallyillhypoalbuminemicpatients:
+ Aprospective,randomized,controlled,pilotstudy.
+ CritCareMed34:2536–2540
+ 39. HaynesGR,NavickisRJ,WilkesMM(2003)Albumin
+ administration– what is the evidence of clinical
+ benefit? A systematic review of randomized
+ controlledtrials.EurJAnaesthesiol20:771–793
+ 40. Martin GS, Moss M,WheelerAP, MealerM, Morris
+ JA, Bernard GR (2005) A randomized, controlled
+ trial of furosemide with or without albumin in
+ hypoproteinemic patients withacute lunginjury.
+ CritCareMed33:1681–1687
+ 41. Vincent JL (2009) Relevance of albumin in
+ moderncritical care medicine. Best Pract Res Clin
+ Anaesthesiol23:183–191
+ 42. Injuries Group,AlbuminR(1998)Humanalbumin
+ administration in critically ill patients: Systematic
+ review of randomised controlled trials. BMJ
+ 317:235–240
+ 43. Investigators SS, Finfer S, Bellomo R et al (2006)
+ Effectofbaselineserumalbuminconcentrationon
+ outcome of resuscitation with albumin or saline
+ in patients in intensivecare units: analysisof data
+ from the saline versus albumin fluid evaluation
+ (SAFE)study.BMJ333:1044
+ 44. Finfer S, Bellomo R, Boyce N et al (2004) A
+ comparison of albumin and saline for fluid
+ resuscitation in the intensive care unit. N Engl J
+ Med350:2247–2256
+ 45. CaironiP,TognoniG,MassonSetal(2014)Albumin
+ replacementinpatientswithseveresepsisorseptic
+ shock.NEnglJMed370:1412–1421
+ 46. Charpentier JJ-PM (2011) Efficacy and tolerance
+ of hyperoncotic albuminadministration in septic
+ shock patients: The EARSS study. Intensive Care
+ Med37(Suppl.2):115/0438
+ 47. Wiedermann CJ, Joannidis M (2014) Albumin
+ replacementinseveresepsisorsepticshock.NEngl
+ JMed371:83
+ 48. Patel A, Laffan MA, Waheed U, Brett SJ (2014)
+ Randomised trials of human albumin for adults
+ with sepsis: Systematic review and meta-analysis
+ withtrialsequentialanalysisofall-causemortality.
+ BMJ349:g4561
+ 49. WiedermannCJ,DunzendorferS,GaioniLU,Zaraca
+ F, Joannidis M (2010) Hyperoncotic colloids and
+ acutekidneyinjury:Ameta-analysisofrandomized
+ trials.CritCare14:R191
+ 50. MaitlandK,KiguliS,OpokaROetal(2011)Mortality
+ afterfluidbolusinAfricanchildrenwithsevere
+ infection.NEnglJMed364:2483–2495
+ 51. Rehm M, Paptistella M, Dieterich HJ (2012)
+ Volumenersatzlösungen,3. Aufl. Springer, Berlin,
+ Heidelberg
+ 52. Vincent JL, De Backer D, Wiedermann CJ (2016)
+ Fluid management in sepsis: The potential
+ beneficialeffectsofalbumin.JCritCare35:161–167
+ 166 DerAnaesthesist3·2017
+Hier steht eine Anzeige.
+ 53. DelaneyAP,DanA,McCaffreyJ,FinferS(2011)The
+ role of albuminasaresuscitationfluidforpatients
+ withsepsis:Asystematicreviewandmeta-analysis.
+ CritCareMed39:386–391
+ 54. BrunkhorstFM,EngelC,BloosFetal(2008)Intensi
+veinsulintherapyandpentastarchresuscitationin
+ severesepsis.NEnglJMed358:125–139
+ 55. Perner A, Haase N, Guttormsen AB et al (2012)
+ Hydroxyethyl starch 130/0.42 versus Ringer’s
+ acetateinseveresepsis.NEnglJMed367:124–134
+ 56. Myburgh JA, Finfer S, Bellomo R et al (2012)
+ Hydroxyethylstarchorsalineforfluidresuscitation
+ inintensivecare.NEnglJMed367:1901–1911
+ 57. Guidet B, Martinet O, Boulain T et al (2012)
+ Assessmentof hemodynamic efficacy and safety
+ of 6%hydroxyethylstarch 130/0.4 vs. 0.9% NaCl
+ f
+ luid replacement in patients with severe sepsis:
+ theCRYSTMASstudy.CritCare16:R94
+ 58. Dart AB, Mutter TC, Ruth CA, Taback SP (2010)
+ Hydroxyethylstarch(HES)versusotherfluidthera
+pies:Effectsonkidneyfunction.CochraneDataba
+seSystRevCD007594.doi:10.1002/14651858
+ 59. WiedermannCJ (2008)Systematic review of ran
+domizedclinical trials on the use of hydroxyethyl
+ starchforfluidmanagementinsepsis.BMCEmerg
+ Med8:1
+ 60. Zarychanski R, Turgeon AF, Fergusson DA et al
+ (2009) Renal outcomes and mortality following
+ hydroxyethyl starch resuscitation of critically ill
+ patients: systematic review and meta-analysis
+ of randomized trials. Open Med 3:e196–209
+ (ATTENTION: The analysis and conclusionsof this
+ article are being revised by the authors. This is
+ due to the journal Anesthesia and Analgesia’s
+ retraction of a paper by Dr. Joachim Boldt, an
+ author in seven of the studies analyzed in this
+ review. As such, the editors of Open Medicine
+ recommendinterpretingthisreviewwithextreme
+ caution until Zarychanski et al. publish a new
+ analysisand interpretationinOpenMedicine.For
+ moreinformation,seeAnesthesiaandAnalgesia’s
+ pressrelease)
+ 61. RehmM(2013)Limitedapplicationsforhydroxye
+thyl starch: Backgroundandalternativeconcepts.
+ Anaesthesist62:644–655
+ 62. EuropeanMedicinesAgency.Assessementreport
+ for solutions forinfusioncontaininghydroxyethyl
+ starch.EMA/667553/2013
+ 63. Meybohm P, Van Aken H, De Gasperi A et al
+ (2013)Re-evaluatingcurrently availabledata and
+ suggestions for planning randomised controlled
+ studies regarding the use of hydroxyethyl starch
+ in critically ill patients– a multidisciplinary
+ statement.CritCare17:R166
+ 64. Gillies MA, Habicher M, Jhanji S et al (2014)
+ Incidenceofpostoperativedeathandacutekidney
+ injury associatedwithi.v. 6%hydroxyethylstarch
+ use: systematic review and meta-analysis. Br J
+ Anaesth112:25–34
+ 65. Kammerer T, Klug F, Schwarz M et al (2015)
+ Comparison of 6% hydroxyethyl starch and 5%
+ albumin for volume replacement therapy in
+ patients undergoing cystectomy (CHART): Study
+ protocol for a randomized controlled trial. Trials
+ 16:384
+ 66. RasmussenKC,SecherNH,PedersenT(2016)Effect
+ ofperioperativecrystalloidorcolloidfluidtherapy
+ on hemorrhage, coagulation competence, and
+ outcome:Asystematicreviewandstratifiedmeta
+analysis.Medicine(Baltimore)95:e4498
+ 67. Moeller C, Fleischmann C, Thomas-Rueddel D et
+ al (2016) Howsafeisgelatin?Asystematicreview
+ and meta-analysis of gelatin-containing plasma
+ expandersvscrystalloidsand albumin. JCritCare
+ 35:75–83
+ 68. Thomas-Rueddel DO, Vlasakov V, ReinhartK et al
+ (2012)Safetyofgelatinforvolumeresuscitation
+a systematic review and meta-analysis. Intensive
+ CareMed38:1134–1142
+ 69. PerelP,RobertsI(2012)Colloidsversuscrystalloids
+ for fluid resuscitation in critically ill patients.
+ Cochrane Database Syst Rev CD000567. doi:10.
+ 1002/14651858
+ 70. Annane D, Siami S, Jaber S et al (2013) Effects of
+ f
+ luidresuscitation with colloids vs crystalloids on
+ mortality in critically ill patients presenting with
+ hypovolemicshock:TheCRISTALrandomizedtrial.
+ JAMA310:1809–1817
+ 71. HolteK,SharrockNE,KehletH(2002)Pathophysiol
+ogyandclinicalimplicationsofperioperativefluid
+ excess.BrJAnaesth89:622–632
+ 72. MostellerRD(1987)Simplifiedcalculationofbody
+surfacearea.NEnglJMed317:1098
+ 73. Pearson TC, Guthrie DL, Simpson J et al (1995)
+ Interpretation of measured red cell mass and
+ plasma volume in adults: Expert Panel on
+ Radionuclides of the International Council for
+ Standardization in Haematology. Br J Haematol
+ 89:748–756
+ 74. Jacob M, Saller T, Chappell D, Rehm M, Welsch U,
+ BeckerBF(2013)Physiologicallevelsof A-,B-and
+ C-type natriuretic peptide shed the endothelial
+ glycocalyx and enhance vascular permeability.
+ BasicResCardiol108:347
+ 75. Jacob M, Bruegger D, Conzen P, Becker BF,
+ Finsterer U, Rehm M (2005) Development and
+ validation of a mathematical algorithm for
+ quantifyingpreoperativebloodvolumebymeans
+ of the decrease in hematocrit resulting from
+ acute normovolemic hemodilution. Transfusion
+ 45:562–571
+ 76. OrthVH,RehmM,ThielMetal(1998)Firstclinical
+ implications of perioperative red cell volume
+ measurement with a nonradioactive marker
+ (sodiumfluorescein).AnesthAnalg87:1234–1238
+ K

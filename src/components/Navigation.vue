@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-6">
           <img @click="gotoHome" src="../assets/logo.png" alt="Logo von NarcoCalc">
-          <span>NarcoCalc</span>
+          <span>NarcoCalc <small style="font-size: 0.7em; color: #999;">v2.0</small></span>
           <ul>
             <router-link tag="li" active-class="active" exact to="/Beatmung">
               <a v-if="locale=='de'">Beatmung</a>
@@ -45,7 +45,7 @@
       <div class="row">
         <div class="col-6">
           <img @click="gotoHome" src="../assets/logo.png" alt="Logo von NarcoCalc">
-          <span>NarcoCalc</span>
+          <span>NarcoCalc <small style="font-size: 0.7em; color: #999;">v2.0</small></span>
 
           <!-- <div v-on:click="hidden = !hidden" id="mobile-nav-dropdown" class="clearfix"> -->
           <div @click="hidden = !hidden" id="mobile-nav-dropdown" class="clearfix">
