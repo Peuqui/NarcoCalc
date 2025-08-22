@@ -16,7 +16,7 @@
     "formel6b"  : "präop",
     "formel6c"  : "aktuell",
     "colRight1" : "Formeln aus :",
-    "colRight2" : "Abweichungen von den Formeln des Artikels: <ul> <li> Die Perspiratio insensibilis bei eventeriertem Abdomen wird gesondert zu der von nicht eventeriertem Abdomen berechnet und dann addiert. </li> <li> Der Volumeneffekt von Gelafundin wird mit 100%, wie vom Hersteller angegeben, angesetzt. </li> <li> <sup>6)</sup> Der Volumeneffekt des MAT-Blutes wird in die Volumenbilanz mit aufgenommen, auf das EV heruntergerechnet <span id='formel3'> (<i>EV</i> = <i>HKT</i> * <i>Volumen</i> ) </span>, dieses mit 100% angenommen und die kristalloide Restflüssigkeit, nachdem die Diurese und Gesamt-Perspiratio abgezogen wurden, mit einem Volumeneffekt von 20% dazu addiert."
+    "colRight2" : "Abweichungen von den Formeln des Artikels: <ul> <li> Die Perspiratio insensibilis bei eventeriertem Abdomen wird gesondert zu der von nicht eventeriertem Abdomen berechnet und dann addiert. </li> <li> Der Volumeneffekt von Gelafundin wird mit 100%, wie vom Hersteller angegeben, angesetzt. </li> <li> <sup>5)</sup> Der Blutverlust wird mit logarithmischer Formel berechnet (BV × ln(HKT<sub>präop</sub>/HKT<sub>akt</sub>)), was den exponentiellen Verdünnungseffekt bei Volumensubstitution berücksichtigt. Dies führt zu realistischeren Werten als die lineare Berechnung. </li> <li> <sup>6)</sup> Der Volumeneffekt des MAT-Blutes wird in die Volumenbilanz mit aufgenommen, auf das EV heruntergerechnet <span id='formel3'> (<i>EV</i> = <i>HKT</i> * <i>Volumen</i> ) </span>, dieses mit 100% angenommen und die kristalloide Restflüssigkeit, nachdem die Diurese und Gesamt-Perspiratio abgezogen wurden, mit einem Volumeneffekt von 20% dazu addiert."
           },
   "en": {
     "sub1"      : "Maximum tolerable erythrocyte volume loss",
@@ -34,7 +34,7 @@
     "formel6b"  : "preop",
     "formel6c"  : "actual",
     "colRight1" : "Formulas from :",
-    "colRight2" : "Deviations from the formulas of the article : <ul> <li> The perspiratio insensibilis in an eviscerated abdomen is calculated separately from the time of the non-eviscerated abdomen and then added together. </li> <li> The volume effect of Gelafundin is set at 100% as described by the manufacturer. </li> <li> <sup> 6) </sup> The volume effect of the MAT blood is included in the volume balance, downscaled to the EV <span id = 'formel3'> (<i> EV </i> = <i> HCT </i> * <i> Volume </i> ) </span>, assuming this with 100% and the crystalloid residual fluid after the diuresis and total perspiratio were subtracted, with a volume effect of 20% added to it."
+    "colRight2" : "Deviations from the formulas of the article : <ul> <li> The perspiratio insensibilis in an eviscerated abdomen is calculated separately from the time of the non-eviscerated abdomen and then added together. </li> <li> The volume effect of Gelafundin is set at 100% as described by the manufacturer. </li> <li> <sup>5)</sup> Blood loss is calculated using logarithmic formula (BV × ln(HCT<sub>preop</sub>/HCT<sub>current</sub>)), which accounts for the exponential dilution effect during volume substitution. This results in more realistic values than linear calculation. </li> <li> <sup> 6) </sup> The volume effect of the MAT blood is included in the volume balance, downscaled to the EV <span id = 'formel3'> (<i> EV </i> = <i> HCT </i> * <i> Volume </i> ) </span>, assuming this with 100% and the crystalloid residual fluid after the diuresis and total perspiratio were subtracted, with a volume effect of 20% added to it."
  }
 }
 </i18n>

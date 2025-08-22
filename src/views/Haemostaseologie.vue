@@ -321,19 +321,19 @@
                 
                 <!-- Lineare Berechnung zum Vergleich -->
                 <tr>
-                  <td style="color: #ff9933;">{{ $t("blutVerlust") }} (linear, alt)</td>
+                  <td style="color: #cc6600;">{{ $t("blutVerlust") }} (linear, alt)</td>
                   <td>
                     :
-                    <span class="input" style="color: #ff9933; font-weight: bold;">{{ blutVerlustLinear }}</span>
-                    <span class="units" style="color: #ff9933;">ml</span>
+                    <span class="input" style="color: #cc6600; font-weight: bold;">{{ blutVerlustLinear }}</span>
+                    <span class="units" style="color: #cc6600;">ml</span>
                   </td>
                 </tr>
                 <tr>
-                  <td style="color: #ff9933;">{{ $t("blutVerlustProzent") }} (linear)</td>
+                  <td style="color: #cc6600;">{{ $t("blutVerlustProzent") }} (linear)</td>
                   <td>
                     :
-                    <span class="input" style="color: #ff9933; font-weight: bold;">{{ blutVerlustLinearProzent }}</span>
-                    <span class="units" style="color: #ff9933;">%</span>
+                    <span class="input" style="color: #cc6600; font-weight: bold;">{{ blutVerlustLinearProzent }}</span>
+                    <span class="units" style="color: #cc6600;">%</span>
                   </td>
                 </tr>
                 

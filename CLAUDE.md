@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 NarcoCalc is a Progressive Web App (PWA) for anaesthesia-related medical calculations. It's built with Vue.js 2.x and designed as a demo application with calculations for ventilation parameters, haemostaseology, and dosing.
 
+**Version 2.0.0 (January 2025)**: Implemented logarithmic blood loss calculation with comparison view showing both logarithmic and linear methods.
+
 **Important**: This application is for demonstration purposes only and should NOT be used for actual therapy.
 
 ## Common Development Commands
@@ -59,7 +61,7 @@ yarn add <package-name>
 
 2. **Routing**: Hash-based routing configured in `src/routes.js` with route-level code splitting
 
-3. **Deployment**: Configured for GitLab Pages at `/narcocalc/` path in production
+3. **Deployment**: Now on GitHub Pages at `/NarcoCalc/` path (migrated from GitLab)
 
 4. **PWA Configuration**: 
    - Service worker registration in `src/registerServiceWorker.js`
@@ -70,4 +72,21 @@ yarn add <package-name>
 Currently no test suite is configured. Use `yarn lint` to check code quality with ESLint.
 
 ### Production Deployment
-The app is deployed to GitLab Pages at https://peuqui.gitlab.io/narcocalc
+The app is deployed to GitHub Pages at https://peuqui.github.io/NarcoCalc
+(Previously on GitLab, redirect is set up at the old URL)
+
+### Key Features in Version 2.0.0
+
+1. **Logarithmic Blood Loss Calculation** (`src/views/Haemostaseologie.vue`)
+   - Main formula: `BV × ln(HKpräop / HKaktuell) + EK/MAT correction`
+   - More physiologically accurate for large blood losses
+   - Accounts for exponential dilution effect
+
+2. **Comparison View**
+   - Shows both logarithmic (primary, green) and linear (comparison, orange #cc6600) calculations
+   - Displays difference when >100ml between methods
+   - Helps clinicians understand the impact of the new formula
+
+3. **Fallback Mechanism**
+   - Automatically falls back to linear calculation when HK values are invalid
+   - Ensures robust calculation in all scenarios

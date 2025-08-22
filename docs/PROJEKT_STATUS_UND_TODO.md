@@ -1,30 +1,34 @@
 # NarcoCalc - Projektstatus und To-Do-Liste
 
-*Stand: 2025-01-13*
+*Stand: 2025-01-22*
 
 ## 📊 Aktueller Status
 
 ### ✅ Erledigt
 
-1. **Blutverlust-Formeln analysiert**
-   - Aktuelle Implementation basiert auf Rehm et al. 2017
-   - MTBV verwendet bereits logarithmische Berechnung
-   - Andere Formeln sind linear und berücksichtigen keine Hämodilution
+1. **Logarithmische Blutverlust-Berechnung IMPLEMENTIERT (Version 2.0.0)**
+   - Hauptformel verwendet jetzt BV × ln(HKpräop / HKaktuell)
+   - Vergleichsansicht zeigt beide Methoden (logarithmisch vs linear)
+   - EK/MAT-Korrektur integriert
+   - Fallback-Mechanismus bei ungültigen Werten
 
-2. **Literaturrecherche durchgeführt**
+2. **GitHub Migration ABGESCHLOSSEN**
+   - Repository erfolgreich zu GitHub migriert (öffentlich)
+   - GitHub Pages funktioniert: https://peuqui.github.io/NarcoCalc
+   - GitHub Actions automatisiert Build und Deployment
+   - GitLab-Weiterleitung vorbereitet
+
+3. **Literaturrecherche durchgeführt**
    - Gießener Dissertation (2008) untersucht
    - Neuere Studien (2020-2025) recherchiert
-   - Evidenzbasierte Alternativen identifiziert
-
-3. **GitHub Migration vorbereitet**
-   - Code erfolgreich zu GitHub gepusht (privates Repository)
-   - GitHub Actions Workflow erstellt
-   - Migrationsstrategie für PWA dokumentiert
+   - Ross-Studie (2018) kritisch analysiert
+   - Glycocalyx-Forschung einbezogen
 
 4. **Dokumentation erstellt**
    - Ausführliche Blutverlust-Formeln Dokumentation
    - PWA Migrationsleitfaden
    - CLAUDE.md für zukünftige Entwicklung
+   - README mit Version 2.0.0 Updates
 
 ### 🔄 In Arbeit
 
