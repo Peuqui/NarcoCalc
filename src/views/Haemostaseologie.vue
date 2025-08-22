@@ -260,6 +260,15 @@
                 </tr>
 
                 <tr>
+                  <td>Effektives BV nach Substitution</td>
+                  <td>
+                    :
+                    <span class="input">{{ effektivesBV }}</span>
+                    <span class="units">ml</span>
+                  </td>
+                </tr>
+
+                <tr>
                   <td>
                     {{ $t("preop") }} EV
                     <sup>3)</sup>
@@ -300,7 +309,10 @@
                   </td>
                 </tr>
                 <tr>
-                  <td class="warn">{{ $t("blutVerlust") }}</td>
+                  <td class="warn">
+                    {{ $t("blutVerlust") }}
+                    <sup>5)</sup>
+                  </td>
                   <td>
                     :
                     <span class="input warn">{{ blutVerlust }}</span>
@@ -626,7 +638,7 @@
                   <i>{{ $t("vol") }}</i> = <i>EV</i> +
                   <i>{{ $t("kristalloid") }}</i>
                   <span id="formel3">
-                    <sup>5)</sup>
+                    <sup>6)</sup>
                   </span>
                 </td>
               </tr>
@@ -809,6 +821,36 @@ export default {
     },
 
     blutVerlust: function () {
+      // Logarithmische Blutverlustberechnung (physiologisch genauer)
+      const praeopHK = parseFloat(this.praeopHK.replace(",", ".")) / 100;
+      const aktHK = parseFloat(this.aktHK().replace(",", ".")) / 100;
+      const BV = parseFloat(this.BV.replace(",", "."));
+      
+      if (aktHK > 0 && praeopHK > 0 && aktHK < praeopHK) {
+        // Logarithmische Grundformel: BV × ln(HKpräop / HKaktuell)
+        let basisVerlust = BV * Math.log(praeopHK / aktHK);
+        
+        // Korrektur für substituierte Erythrozyten (haben den HK wieder erhöht)
+        // EK: 200ml Erythrozyten pro Einheit
+        const ekErythrozyten = this.arrVol[2].wert * this.EryVolEK;
+        // MAT: Volumen × HKT (55-65%)
+        const matErythrozyten = this.arrVol[3].wert * (this.arrVol[4].wert / 100);
+        
+        // Gesamte substituierte Erythrozyten
+        const substituierteErythrozyten = ekErythrozyten + matErythrozyten;
+        
+        // Umrechnung in Blutvolumen-Äquivalent (bei präop HK)
+        const substitutionsKorrektur = substituierteErythrozyten / praeopHK;
+        
+        // Gesamter tatsächlicher Blutverlust
+        const gesamtVerlust = basisVerlust + substitutionsKorrektur;
+        
+        return Math.round(gesamtVerlust);
+      } else if (aktHK >= praeopHK) {
+        // Kein Blutverlust wenn HK gleich oder höher als präop
+        return 0;
+      }
+      // Fallback auf alte Methode wenn keine validen HK-Werte
       if (this.mittl_HK > 0) {
         var bv = this.eryVerlust.replace(",", ".") / (this.mittl_HK / 100);
         bv = Math.round(bv);
@@ -867,6 +909,20 @@ export default {
         this.arrVol[8].wert * this.VolEffektHaes +
         this.arrVol[5].wert * this.VolEffektFFP;
       return Math.round(vol);
+    },
+
+    effektivesBV: function () {
+      // Effektives Blutvolumen nach Hämodilution
+      const BV = parseFloat(this.BV.replace(",", "."));
+      // Kristalloide haben 20% Volumeneffekt
+      const kristalloide = this.arrVol[6].wert * 0.2;
+      // Kolloide haben 100% Volumeneffekt
+      const gelafundin = this.arrVol[7].wert * 1.0;
+      const haes = this.arrVol[8].wert * 1.0;
+      // MAT-Volumen (Gesamtvolumen, nicht nur Erythrozyten)
+      const matVolumen = this.arrVol[3].wert;
+      
+      return Math.round(BV + kristalloide + gelafundin + haes + matVolumen);
     },
 
     volBilanz: function () {

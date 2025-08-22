@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Blutverlust Berechnung Test</title>
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        input { width: 100px; margin: 5px; }
+        .result { background: #f0f0f0; padding: 10px; margin: 10px 0; }
+        .comparison { display: flex; gap: 20px; }
+        .method { flex: 1; padding: 10px; border: 1px solid #ccc; }
+        h3 { margin-top: 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Blutverlust-Berechnungen: Linear vs. Logarithmisch</h1>
+        
+        <h2>Eingabewerte</h2>
+        <div>
+            <label>Körpergröße (cm): <input type="number" id="height" value="175"></label><br>
+            <label>Gewicht (kg): <input type="number" id="weight" value="75"></label><br>
+            <label>Geschlecht: 
+                <select id="sex">
+                    <option value="m">Männlich</option>
+                    <option value="w">Weiblich</option>
+                </select>
+            </label><br>
+            <label>Präop HB (g/dl): <input type="number" id="preopHB" value="14" step="0.1"></label><br>
+            <label>Aktueller HB (g/dl): <input type="number" id="aktHB" value="10" step="0.1"></label><br>
+            <label>EK (Stück): <input type="number" id="ek" value="2"></label><br>
+            <label>MAT (ml): <input type="number" id="mat" value="500"></label><br>
+            <label>MAT HKT (%): <input type="number" id="matHKT" value="55"></label><br>
+            <button onclick="calculate()">Berechnen</button>
+        </div>
+        
+        <div class="comparison">
+            <div class="method">
+                <h3>Alte Methode (Linear)</h3>
+                <div id="linearResult" class="result"></div>
+            </div>
+            <div class="method">
+                <h3>Neue Methode (Logarithmisch)</h3>
+                <div id="logResult" class="result"></div>
+            </div>
+        </div>
+        
+        <div id="details" class="result"></div>
+    </div>
+
+    <script>
+        function calculate() {
+            // Eingabewerte
+            const height = parseFloat(document.getElementById('height').value);
+            const weight = parseFloat(document.getElementById('weight').value);
+            const sex = document.getElementById('sex').value;
+            const preopHB = parseFloat(document.getElementById('preopHB').value);
+            const aktHB = parseFloat(document.getElementById('aktHB').value);
+            const ek = parseFloat(document.getElementById('ek').value) || 0;
+            const mat = parseFloat(document.getElementById('mat').value) || 0;
+            const matHKT = parseFloat(document.getElementById('matHKT').value) || 55;
+            
+            // KOF berechnen
+            const KOF = Math.sqrt((height * weight) / 3600);
+            
+            // Blutvolumen
+            const BVperM2 = sex === 'm' ? 2678 : 2245;
+            const BV = Math.round(BVperM2 * KOF);
+            
+            // Hämatokrit-Umrechnung
+            const preopHK = preopHB * 3.2 / 100;
+            const aktHK = aktHB * 3.2 / 100;
+            const mittlHK = ((preopHB + aktHB) / 2) * 3.2 / 100;
+            
+            // Erythrozytenvolumen
+            const praeopEV = Math.round(BV * preopHK);
+            const intraopEV = Math.round(BV * aktHK);
+            const deltaEV = praeopEV - intraopEV;
+            
+            // Substituierte Erythrozyten
+            const ekEV = ek * 200; // 200ml EV pro EK
+            const matEV = mat * (matHKT / 100);
+            const eryVerlust = deltaEV + ekEV + matEV;
+            
+            // LINEARE BERECHNUNG (alt)
+            const blutVerlustLinear = Math.round(eryVerlust / mittlHK);
+            
+            // LOGARITHMISCHE BERECHNUNG (neu)
+            let blutVerlustLog = 0;
+            if (aktHK > 0 && preopHK > 0 && aktHK < preopHK) {
+                const basisVerlust = BV * Math.log(preopHK / aktHK);
+                const substitutionsKorrektur = (ekEV + matEV) / preopHK;
+                blutVerlustLog = Math.round(basisVerlust + substitutionsKorrektur);
+            }
+            
+            // Ergebnisse anzeigen
+            document.getElementById('linearResult').innerHTML = `
+                <strong>Blutverlust: ${blutVerlustLinear} ml</strong><br>
+                <small>Formel: EV-Verlust / mittlerer HK</small><br>
+                <small>${eryVerlust} / ${(mittlHK*100).toFixed(1)}% = ${blutVerlustLinear} ml</small>
+            `;
+            
+            document.getElementById('logResult').innerHTML = `
+                <strong>Blutverlust: ${blutVerlustLog} ml</strong><br>
+                <small>Formel: BV × ln(HKpräop/HKakt) + Substitution</small><br>
+                <small>${BV} × ln(${(preopHK*100).toFixed(1)}%/${(aktHK*100).toFixed(1)}%) + ${Math.round((ekEV + matEV) / preopHK)} = ${blutVerlustLog} ml</small>
+            `;
+            
+            const differenz = blutVerlustLinear - blutVerlustLog;
+            const prozentDiff = ((differenz / blutVerlustLinear) * 100).toFixed(1);
+            
+            document.getElementById('details').innerHTML = `
+                <h3>Berechnungsdetails</h3>
+                <strong>Blutvolumen:</strong> ${BV} ml (KOF: ${KOF.toFixed(2)} m²)<br>
+                <strong>Präop HK:</strong> ${(preopHK*100).toFixed(1)}% (EV: ${praeopEV} ml)<br>
+                <strong>Aktueller HK:</strong> ${(aktHK*100).toFixed(1)}% (EV: ${intraopEV} ml)<br>
+                <strong>Delta EV:</strong> ${deltaEV} ml<br>
+                <strong>EK-Substitution:</strong> ${ekEV} ml EV<br>
+                <strong>MAT-Substitution:</strong> ${matEV.toFixed(0)} ml EV<br>
+                <strong>Gesamt EV-Verlust:</strong> ${eryVerlust} ml<br>
+                <hr>
+                <strong>Differenz Linear - Logarithmisch:</strong> ${differenz} ml (${prozentDiff}%)<br>
+                <em>${differenz > 0 ? 'Die lineare Methode überschätzt den Blutverlust.' : 'Die logarithmische Methode schätzt höher.'}</em>
+            `;
+        }
+        
+        // Initial berechnen
+        calculate();
+    </script>
+</body>
+</html>
