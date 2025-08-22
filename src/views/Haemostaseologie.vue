@@ -327,6 +327,43 @@
                     <span class="units warn">%</span>
                   </td>
                 </tr>
+                
+                <!-- Korrigierte Werte mit Hämodilutions-Berücksichtigung -->
+                <tr style="border-top: 2px solid #ccc;">
+                  <td style="color: #0066cc;">
+                    {{ $t("blutVerlust") }} (korrigiert)
+                    <sup>6)</sup>
+                  </td>
+                  <td>
+                    :
+                    <span class="input" style="color: #0066cc; font-weight: bold;">{{ blutVerlustKorrigiert }}</span>
+                    <span class="units" style="color: #0066cc;">ml</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="color: #0066cc;">{{ $t("blutVerlustProzent") }} (korrigiert)</td>
+                  <td>
+                    :
+                    <span class="input" style="color: #0066cc; font-weight: bold;">{{ blutVerlustKorrigiertProzent }}</span>
+                    <span class="units" style="color: #0066cc;">%</span>
+                  </td>
+                </tr>
+                
+                <!-- Warnung bei Glycocalyx-Schädigung -->
+                <tr v-if="blutVerlust > 500">
+                  <td colspan="2" style="color: #ff6600; font-size: 0.9em; padding-top: 10px;">
+                    <strong>⚠ Hinweis:</strong> Bei Blutverlust > 500ml kann es zur Glycocalyx-Schädigung kommen. 
+                    Der korrigierte Wert berücksichtigt die reduzierte intravasale Verweildauer der Infusionen.
+                  </td>
+                </tr>
+                
+                <!-- Erklärung der Differenz -->
+                <tr v-if="Math.abs(blutVerlust - blutVerlustKorrigiert) > 100">
+                  <td colspan="2" style="color: #666; font-size: 0.85em; padding-top: 5px;">
+                    <em>Differenz von {{ Math.abs(blutVerlust - blutVerlustKorrigiert) }}ml durch Hämodilution 
+                    ({{ arrVol[6].wert }}ml Kristalloide, {{ arrVol[7].wert + arrVol[8].wert }}ml Kolloide)</em>
+                  </td>
+                </tr>
               </table>
             </fieldset>
 
@@ -859,9 +896,73 @@ export default {
       return 0;
     },
 
+    blutVerlustKorrigiert: function () {
+      // Hämodilutions-korrigierter Blutverlust
+      // Berücksichtigt, dass ein Teil des HK-Abfalls durch Volumentherapie verursacht wird
+      const praeopHK = parseFloat(this.praeopHK.replace(",", ".")) / 100;
+      const aktHK = parseFloat(this.aktHK().replace(",", ".")) / 100;
+      const BV = parseFloat(this.BV.replace(",", "."));
+      
+      if (aktHK > 0 && praeopHK > 0 && aktHK < praeopHK) {
+        // Infundierte Volumina
+        const kristalloide = this.arrVol[6].wert || 0;
+        const gelafundin = this.arrVol[7].wert || 0;
+        const haes = this.arrVol[8].wert || 0;
+        
+        // Effektive intravasale Volumeneffekte
+        // Bei intakter Glycocalyx: Kristalloide 20%, Kolloide 70%
+        let kristalloidEffekt = 0.2;
+        let kolloidEffekt = 0.7;
+        
+        // Bei Blutverlust > 500ml: Glycocalyx-Schädigung
+        if (this.blutVerlust > 500) {
+          kristalloidEffekt = 0.1;  // Nur noch 10% bleiben intravasal
+          kolloidEffekt = 0.5;       // Nur noch 50% bleiben intravasal
+        }
+        
+        // Berechnung des effektiven intravasalen Volumenzuwachses
+        const effektivesVolumen = kristalloide * kristalloidEffekt + 
+                                 (gelafundin + haes) * kolloidEffekt;
+        
+        // HK-Abfall durch reine Hämodilution (ohne Blutverlust)
+        const dilutionsFaktor = BV / (BV + effektivesVolumen);
+        const hkNachDilution = praeopHK * dilutionsFaktor;
+        
+        // Tatsächlicher Blutverlust = nur der HK-Abfall ÜBER die reine Dilution hinaus
+        if (aktHK < hkNachDilution) {
+          // Es gab echten Blutverlust zusätzlich zur Dilution
+          let korrigierterVerlust = BV * Math.log(hkNachDilution / aktHK);
+          
+          // Korrektur für substituierte Erythrozyten
+          const ekErythrozyten = this.arrVol[2].wert * this.EryVolEK;
+          const matErythrozyten = this.arrVol[3].wert * (this.arrVol[4].wert / 100);
+          const substituierteErythrozyten = ekErythrozyten + matErythrozyten;
+          const substitutionsKorrektur = substituierteErythrozyten / praeopHK;
+          
+          korrigierterVerlust += substitutionsKorrektur;
+          
+          return Math.round(korrigierterVerlust);
+        } else {
+          // HK-Abfall komplett durch Dilution erklärbar
+          return 0;
+        }
+      }
+      return 0;
+    },
+
     blutVerlustProzent: function () {
       if (this.mittl_HK > 0) {
         let bvp = (this.blutVerlust * 100.0) / this.BV.replace(",", ".");
+        bvp = Math.round(bvp);
+        return bvp;
+      }
+      return 0;
+    },
+
+    blutVerlustKorrigiertProzent: function () {
+      const BV = parseFloat(this.BV.replace(",", "."));
+      if (BV > 0) {
+        let bvp = (this.blutVerlustKorrigiert * 100.0) / BV;
         bvp = Math.round(bvp);
         return bvp;
       }
