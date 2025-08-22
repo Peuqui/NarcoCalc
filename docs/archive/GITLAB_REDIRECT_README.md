@@ -2,7 +2,7 @@
 
 ## 🚀 Dieses Projekt ist umgezogen zu / This project has moved to:
 
-### ➡️ **[https://github.com/IhrGitHubUsername/narcocalc](https://github.com/IhrGitHubUsername/narcocalc)**
+### ➡️ **[https://github.com/Peuqui/narcocalc](https://github.com/Peuqui/narcocalc)**
 
 ---
 
