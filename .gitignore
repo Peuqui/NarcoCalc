@@ -21,5 +21,4 @@ yarn-error.log*
 *.sw*
 
 *.pdf
-/home/mp/medizin/NarcoCalc/docs/Stand_Wissenschaft.txt
-/home/mp/medizin/NarcoCalc/docs/Diss._Transfusionsbedarf.txt
+*.txt
