@@ -53,6 +53,16 @@ https://peuqui.github.io/NarcoCalc
 ![Build and Deploy](https://github.com/Peuqui/NarcoCalc/workflows/Build%20and%20Deploy%20to%20GitHub%20Pages/badge.svg)
 ![CI](https://github.com/Peuqui/NarcoCalc/workflows/CI%20-%20Test%20and%20Lint/badge.svg)
 
+## Version History
+
+### Version 2.0.0 (January 2025)
+- **NEW**: Logarithmic blood loss calculation (physiologically more accurate)
+- **NEW**: Comparison view showing both logarithmic and linear calculation methods
+- Blood loss formula now uses: BV × ln(HKpräop / HKaktuell) + EK/MAT correction
+- Linear calculation still available for comparison (shown in orange)
+- Improved accuracy especially for large blood losses with extensive fluid therapy
+- Migration from GitLab to GitHub
+
 ### LICENSE
 
 published under the MIT License

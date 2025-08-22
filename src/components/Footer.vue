@@ -15,8 +15,6 @@
     "formel6a"  : "Blutverlust",
     "formel6b"  : "präop",
     "formel6c"  : "aktuell",
-    "sub7"      : "Hämodilutions-korrigierter Blutverlust: Berücksichtigt den HK-Abfall durch Volumentherapie. Bei Blutverlust >500ml: Glycocalyx-Schädigung mit reduzierter intravasaler Verweildauer (Kristalloide nur 10%, Kolloide nur 50%).",
-    "formel7a"  : "Berechnet aus HK-Abfall nach Abzug der reinen Dilution",
     "colRight1" : "Formeln aus :",
     "colRight2" : "Abweichungen von den Formeln des Artikels: <ul> <li> Die Perspiratio insensibilis bei eventeriertem Abdomen wird gesondert zu der von nicht eventeriertem Abdomen berechnet und dann addiert. </li> <li> Der Volumeneffekt von Gelafundin wird mit 100%, wie vom Hersteller angegeben, angesetzt. </li> <li> <sup>6)</sup> Der Volumeneffekt des MAT-Blutes wird in die Volumenbilanz mit aufgenommen, auf das EV heruntergerechnet <span id='formel3'> (<i>EV</i> = <i>HKT</i> * <i>Volumen</i> ) </span>, dieses mit 100% angenommen und die kristalloide Restflüssigkeit, nachdem die Diurese und Gesamt-Perspiratio abgezogen wurden, mit einem Volumeneffekt von 20% dazu addiert."
           },
@@ -35,8 +33,6 @@
     "formel6a"  : "Blood loss",
     "formel6b"  : "preop",
     "formel6c"  : "actual",
-    "sub7"      : "Hemodilution-corrected blood loss: Accounts for HCT drop due to volume therapy. With blood loss >500ml: Glycocalyx damage with reduced intravascular retention (crystalloids only 10%, colloids only 50%).",
-    "formel7a"  : "Calculated from HCT drop after subtracting pure dilution",
     "colRight1" : "Formulas from :",
     "colRight2" : "Deviations from the formulas of the article : <ul> <li> The perspiratio insensibilis in an eviscerated abdomen is calculated separately from the time of the non-eviscerated abdomen and then added together. </li> <li> The volume effect of Gelafundin is set at 100% as described by the manufacturer. </li> <li> <sup> 6) </sup> The volume effect of the MAT blood is included in the volume balance, downscaled to the EV <span id = 'formel3'> (<i> EV </i> = <i> HCT </i> * <i> Volume </i> ) </span>, assuming this with 100% and the crystalloid residual fluid after the diuresis and total perspiratio were subtracted, with a volume effect of 20% added to it."
  }
@@ -107,13 +103,6 @@
               <i>{{ $t("formel6a") }}</i> = <i>BV</i> × ln(
               <i>HKT</i><sub>{{ $t("formel6b") }}</sub> / 
               <i>HKT</i><sub>{{ $t("formel6c") }}</sub>) + EK/MAT-Korrektur
-            </div>
-          </div>
-          <div>
-            <sup>6)</sup>
-            {{ $t("sub7") }}
-            <div id="formel2" style="font-size: 0.9em;">
-              {{ $t("formel7a") }}
             </div>
           </div>
         </div>
