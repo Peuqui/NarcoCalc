@@ -44,9 +44,14 @@ Windows 10: in case this fails due to "leveldown", do this in a Powershell as Ad
 
 npm install -g --production windows-build-tools
 
-### Demo version
+### Live Demo
 
-https://peuqui.gitlab.io/narcocalc
+https://peuqui.github.io/NarcoCalc
+
+### GitHub Actions Status
+
+![Build and Deploy](https://github.com/Peuqui/NarcoCalc/workflows/Build%20and%20Deploy%20to%20GitHub%20Pages/badge.svg)
+![CI](https://github.com/Peuqui/NarcoCalc/workflows/CI%20-%20Test%20and%20Lint/badge.svg)
 
 ### LICENSE
 
