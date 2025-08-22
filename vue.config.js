@@ -20,8 +20,8 @@ module.exports = {
 			.loader("@kazupon/vue-i18n-loader")
 			.end();
 	},
-	// Automatische Erkennung ob GitHub Pages oder lokale Entwicklung
+	// GitHub Pages braucht /NarcoCalc/ als Pfad
 	publicPath: process.env.NODE_ENV === "production" 
-		? (process.env.GITHUB_REPOSITORY ? `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/` : "/narcocalc/")
+		? "/NarcoCalc/"
 		: "/"
 };
