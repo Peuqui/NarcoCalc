@@ -17,18 +17,19 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16'
-        cache: 'yarn'
+        node-version: '12'
+        cache: 'npm'
 
     - name: Install dependencies
       run: |
-        yarn install --frozen-lockfile
+        npm ci
 
     - name: Build
       run: |
-        yarn build
+        npm run build
       env:
         NODE_ENV: production
+        GITHUB_REPOSITORY: ${{ github.repository }}
 
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
@@ -36,4 +37,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./dist
-        cname: narcocalc.example.com  # Optional: Ihre eigene Domain
+        # cname: narcocalc.example.com  # Optional: Ihre eigene Domain
