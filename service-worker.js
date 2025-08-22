@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/NarcoCalc/precache-manifest.4d864d0c0ea21462bbb771becedbe71d.js"
+  "/NarcoCalc/precache-manifest.044ebf3378892cfe9d05d4b7531634b6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "narcocalc"});
