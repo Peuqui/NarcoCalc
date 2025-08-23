@@ -90,3 +90,12 @@ The app is deployed to GitHub Pages at https://peuqui.github.io/NarcoCalc
 3. **Fallback Mechanism**
    - Automatically falls back to linear calculation when HK values are invalid
    - Ensures robust calculation in all scenarios
+
+## Important Git Commit Guidelines
+
+**NEVER include Co-Authored-By lines in any commit messages**
+- No "Co-Authored-By: Claude" or similar attributions
+- No "Generated with Claude Code" or AI references
+- No robot emojis or symbols (🤖, 🤓, etc.)
+- Keep commit messages clean and professional
+- This is a solo project - no co-authorship attributions needed

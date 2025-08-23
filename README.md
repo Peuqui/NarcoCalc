@@ -55,7 +55,19 @@ https://peuqui.github.io/NarcoCalc
 
 ## Version History
 
-### Version 2.0.0 (January 2025)
+### Version 2.1.0 (August 2025)
+- **NEW**: Lemmens formula for obese patients (BMI >30)
+  - Automatic switching at BMI ≥35
+  - Transition zone BMI 30-35 with weighted mixing
+  - Up to 26% more accurate blood volume calculation for obesity
+- **NEW**: Time-based correction factor based on eviscerated OR time
+  - -15% for <2h, -10% for 2-4h, -5% for 4-6h operations
+  - Additional -5% correction for >30ml/kg crystalloid administration
+- **IMPROVED**: Enhanced comparison view with corrected values
+- **IMPROVED**: Better color contrast for readability on green background
+- Comprehensive documentation of analysis and implementation
+
+### Version 2.0.0 (July 2025)
 - **NEW**: Logarithmic blood loss calculation (physiologically more accurate)
 - **NEW**: Comparison view showing both logarithmic and linear calculation methods
 - Blood loss formula now uses: BV × ln(HKpräop / HKaktuell) + EK/MAT correction

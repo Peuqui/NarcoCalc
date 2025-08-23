@@ -256,6 +256,25 @@
                     :
                     <span class="input">{{ BV }}</span>
                     <span class="units">ml</span>
+                    <span v-if="BMI >= 30" style="color: #ff6600; font-size: 0.85em;">
+                      ({{ blutvolumenMethode }})
+                    </span>
+                  </td>
+                </tr>
+                
+                <!-- BMI-Anzeige und Warnung bei Adipositas -->
+                <tr v-if="BMI >= 30">
+                  <td>BMI</td>
+                  <td>
+                    :
+                    <span class="input" style="color: #ff6600;">{{ BMI }}</span>
+                    <span class="units">kg/m²</span>
+                  </td>
+                </tr>
+                <tr v-if="BMI >= 30 && BV_BSA !== null">
+                  <td colspan="2" style="color: #f0f0f0; font-size: 0.85em; padding-top: 5px;">
+                    <em>BSA-Methode würde {{ BV_BSA }}ml ergeben 
+                    ({{ BV_BSA > parseFloat(BV.replace(',', '.')) ? '+' : '' }}{{ BV_BSA - parseFloat(BV.replace(',', '.')) }}ml)</em>
                   </td>
                 </tr>
 
@@ -299,22 +318,51 @@
                     <span class="units">ml</span>
                   </td>
                 </tr>
+                <!-- Korrigierter Blutverlust (primär) -->
                 <tr>
                   <td class="warn">
+                    {{ $t("blutVerlust") }} (korrigiert)
+                  </td>
+                  <td>
+                    :
+                    <span class="input warn" style="font-weight: bold;">{{ blutVerlustKorrigiert }}</span>
+                    <span class="units warn" >ml</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="warn">{{ $t("blutVerlustProzent") }} (korrigiert)</td>
+                  <td>
+                    :
+                    <span class="input warn" style="font-weight: bold;">{{ blutVerlustKorrigiertProzent }}</span>
+                    <span class="units warn" >%</span>
+                  </td>
+                </tr>
+                
+                <!-- Zeitkorrektur-Info -->
+                <tr v-if="zeitKorrekturfaktor < 1">
+                  <td colspan="2" style="color: #f0f0f0; font-size: 0.85em; padding-top: 5px;">
+                    <em>Zeitkorrektur: {{ Math.round((1 - zeitKorrekturfaktor) * 100) }}% Reduktion
+                    (OP-Zeit: {{ Math.round(arrVol[1].wert / 60 * 10) / 10 }}h)</em>
+                  </td>
+                </tr>
+                
+                <!-- Unkorrigierter logarithmischer Wert -->
+                <tr>
+                  <td>
                     {{ $t("blutVerlust") }} (logarithmisch)
                   </td>
                   <td>
                     :
-                    <span class="input warn">{{ blutVerlust }}</span>
-                    <span class="units warn">ml</span>
+                    <span class="input">{{ blutVerlust }}</span>
+                    <span class="units">ml</span>
                   </td>
                 </tr>
                 <tr>
-                  <td class="warn">{{ $t("blutVerlustProzent") }}</td>
+                  <td>{{ $t("blutVerlustProzent") }} (unkorrigiert)</td>
                   <td>
                     :
-                    <span class="input warn">{{ blutVerlustProzent }}</span>
-                    <span class="units warn">%</span>
+                    <span class="input">{{ blutVerlustProzent }}</span>
+                    <span class="units">%</span>
                   </td>
                 </tr>
                 
@@ -338,7 +386,7 @@
                 
                 <!-- Differenz-Anzeige wenn > 100ml -->
                 <tr v-if="Math.abs(blutVerlust - blutVerlustLinear) > 100">
-                  <td colspan="2" style="color: #666; font-size: 0.85em; padding-top: 5px;">
+                  <td colspan="2" style="color: #f0f0f0; font-size: 0.85em; padding-top: 5px;">
                     <em>Differenz: {{ blutVerlustLinear - blutVerlust }}ml 
                     (lineare Methode überschätzt typischerweise)</em>
                   </td>
@@ -772,14 +820,53 @@ export default {
       resKOF = Math.round(resKOF * 100) / 100;
       return ("" + resKOF).replace(".", ",");
     },
-    BV: function () {
+    BMI: function () {
+      const groesse_m = this.arrPersData[0].wert / 100;
+      const gewicht = this.arrPersData[1].wert;
+      const bmi = gewicht / (groesse_m * groesse_m);
+      return Math.round(bmi * 10) / 10;
+    },
+    BV_BSA: function () {
+      // Traditionelle BSA-basierte Methode
       var bv1 = this.BVMann;
       if (this.sex == "w") {
         bv1 = this.BVFrau;
       }
       bv1 = bv1 * this.KOF.replace(",", ".");
       bv1 = Math.round(bv1);
-      return ("" + bv1).replace(".", ",");
+      return bv1;
+    },
+    BV_Lemmens: function () {
+      // Lemmens-Formel für adipöse Patienten
+      const gewicht = this.arrPersData[1].wert;
+      const bmi = this.BMI;
+      if (bmi < 30) return null; // Nur für BMI >= 30
+      
+      const bv = 70 * gewicht / Math.sqrt(bmi / 22) * 1000; // Umrechnung L -> ml
+      return Math.round(bv);
+    },
+    BV: function () {
+      // Intelligente Auswahl der Berechnungsmethode basierend auf BMI
+      const bmi = this.BMI;
+      
+      if (bmi >= 35) {
+        // Reine Lemmens-Formel für BMI >= 35
+        return ("" + this.BV_Lemmens).replace(".", ",");
+      } else if (bmi >= 30) {
+        // Übergangsbereich BMI 30-35: Gewichtete Mischung
+        const weight = (bmi - 30) / 5; // Linear von 0 bis 1
+        const bvMixed = Math.round(this.BV_BSA * (1 - weight) + this.BV_Lemmens * weight);
+        return ("" + bvMixed).replace(".", ",");
+      } else {
+        // Standard BSA-Methode für BMI < 30
+        return ("" + this.BV_BSA).replace(".", ",");
+      }
+    },
+    blutvolumenMethode: function () {
+      const bmi = this.BMI;
+      if (bmi >= 35) return "Lemmens (Adipositas-angepasst)";
+      if (bmi >= 30) return "Hybrid BSA/Lemmens";
+      return "BSA-Standard";
     },
     praeopHK: function () {
       var hk = Math.round(this.arrPersData[2].wert * 3.2 * 10) / 10;
@@ -886,6 +973,49 @@ export default {
       const BV = parseFloat(this.BV.replace(",", "."));
       if (BV > 0) {
         let bvp = (this.blutVerlustLinear * 100.0) / BV;
+        return Math.round(bvp);
+      }
+      return 0;
+    },
+    
+    zeitKorrekturfaktor: function () {
+      // Zeitbasierte Korrektur basierend auf OP-Zeit eventeriert
+      const opZeitMinuten = this.arrVol[1].wert; // OP-Zeit eventeriert
+      const opZeitStunden = opZeitMinuten / 60;
+      
+      let faktor = 1.0;
+      
+      // Zeitabhängige Korrektur
+      if (opZeitStunden < 2) {
+        faktor = 0.85; // -15% in Frühphase (wenig Verdünnung)
+      } else if (opZeitStunden < 4) {
+        faktor = 0.90; // -10% bei mittleren OPs
+      } else if (opZeitStunden < 6) {
+        faktor = 0.95; // -5% bei längeren OPs
+      }
+      // >6h: keine weitere Korrektur (maximale Verdünnung erreicht)
+      
+      // Zusätzliche Korrektur bei massiver Kristalloidgabe
+      const gewicht = this.arrPersData[1].wert;
+      if (gewicht > 0) {
+        const kristalloidProKg = this.arrVol[6].wert / gewicht;
+        if (kristalloidProKg > 30) {
+          faktor *= 0.95; // weitere -5% bei viel Kristalloid
+        }
+      }
+      
+      return faktor;
+    },
+    
+    blutVerlustKorrigiert: function () {
+      // Korrigierter Blutverlust mit Zeitfaktor
+      return Math.round(this.blutVerlust * this.zeitKorrekturfaktor);
+    },
+    
+    blutVerlustKorrigiertProzent: function () {
+      const BV = parseFloat(this.BV.replace(",", "."));
+      if (BV > 0) {
+        let bvp = (this.blutVerlustKorrigiert * 100.0) / BV;
         return Math.round(bvp);
       }
       return 0;
