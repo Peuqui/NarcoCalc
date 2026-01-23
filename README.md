@@ -1,5 +1,11 @@
 # NarcoCalc
 
+> **⚠️ MOVED TO GITHUB:** This project is now maintained on GitHub.
+>
+> **🔗 New Location:** [https://github.com/Peuqui/NarcoCalc](https://github.com/Peuqui/NarcoCalc)
+>
+> **🌐 Live Demo:** [https://peuqui.github.io/NarcoCalc](https://peuqui.github.io/NarcoCalc)
+
 ![image info](public/img/icons/android-chrome-192x192.png)
 
 [comment]: # "Bild: Modified: gemeinfrei - PublicDomainPictures/ Pixabay / CC0"

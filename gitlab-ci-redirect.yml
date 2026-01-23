@@ -10,7 +10,7 @@ pages:
       <head>
           <meta charset="utf-8">
           <title>NarcoCalc - Umgezogen zu GitHub</title>
-          <meta http-equiv="refresh" content="5; url=https://github.com/IhrGitHubUsername/narcocalc">
+          <meta http-equiv="refresh" content="5; url=https://peuqui.github.io/NarcoCalc/">
           <style>
               body {
                   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -63,8 +63,8 @@ pages:
               <p>Dieses Projekt wird jetzt auf GitHub weiterentwickelt.</p>
               <p>Sie werden in 5 Sekunden automatisch weitergeleitet...</p>
               <p>Falls nicht, klicken Sie hier:</p>
-              <p><a href="https://github.com/IhrGitHubUsername/narcocalc">
-                  https://github.com/IhrGitHubUsername/narcocalc
+              <p><a href="https://peuqui.github.io/NarcoCalc/">
+                  https://peuqui.github.io/NarcoCalc/
               </a></p>
               <div class="progress">
                   <div class="progress-bar"></div>
