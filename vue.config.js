@@ -2,7 +2,11 @@
 
 module.exports = {
 	pwa: {
-		appleMobileWebAppCapable: "yes"
+		appleMobileWebAppCapable: "yes",
+		workboxOptions: {
+			skipWaiting: true,
+			clientsClaim: true
+		}
 	},
 	// options...
 	devServer: {
