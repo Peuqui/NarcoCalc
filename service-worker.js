@@ -14,10 +14,13 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/NarcoCalc/precache-manifest.ca5d31b26008edd86a66cf62d3315122.js"
+  "/NarcoCalc/precache-manifest.babbda6a422aeed0abf1b00274d94344.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "narcocalc"});
+
+workbox.skipWaiting();
+workbox.clientsClaim();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
