@@ -842,7 +842,7 @@ export default {
       const bmi = this.BMI;
       if (bmi < 30) return null; // Nur für BMI >= 30
       
-      const bv = 70 * gewicht / Math.sqrt(bmi / 22) * 1000; // Umrechnung L -> ml
+      const bv = 70 * gewicht / Math.sqrt(bmi / 22);
       return Math.round(bv);
     },
     BV: function () {
