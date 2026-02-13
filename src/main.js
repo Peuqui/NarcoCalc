@@ -27,5 +27,13 @@ const i18n = new VueI18n({
 new Vue({
 	i18n,
 	router: router,
-	render: h => h(App)
+	render: h => h(App),
+	mounted() {
+		// GoatCounter Analytics (datenschutzfreundlich, keine Cookies)
+		const script = document.createElement("script");
+		script.async = true;
+		script.dataset.goatcounter = "https://peuqui.goatcounter.com/count";
+		script.src = "//gc.zgo.at/count.js";
+		document.body.appendChild(script);
+	}
 }).$mount("#app");
