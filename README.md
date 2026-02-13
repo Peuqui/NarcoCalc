@@ -59,6 +59,10 @@ https://peuqui.github.io/NarcoCalc
 ![Build and Deploy](https://github.com/Peuqui/NarcoCalc/workflows/Build%20and%20Deploy%20to%20GitHub%20Pages/badge.svg)
 ![CI](https://github.com/Peuqui/NarcoCalc/workflows/CI%20-%20Test%20and%20Lint/badge.svg)
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Peuqui/NarcoCalc&type=Date)](https://star-history.com/#Peuqui/NarcoCalc&Date)
+
 ## Version History
 
 ### Version 2.1.0 (August 2025)
