@@ -9,17 +9,7 @@
           <span class="span2">Dr. Markus Peuckert</span>
         </p>
         <p>
-          Facharzt für An&auml;sthesiologie, Intensiv- und Notfallmedizin
-          <br />Facharzt für Chirurgie
-        </p>
-        <p>
-          Oberarzt der Klinik für An&auml;sthesie, operative Intensivmedizin und
-          Schmerztherapie
-          <br />Transfusionsverantwortlicher Arzt
-        </p>
-        <p>
-          Tel.: +49 (0) 561 1002 – 1206
-          <br />E-mail: markus.peuckert@diako-kassel.de
+          E-mail: markus.peuckert@agaplesion.de
         </p>
         <p>
           Agaplesion Diakonie Kliniken Kassel
