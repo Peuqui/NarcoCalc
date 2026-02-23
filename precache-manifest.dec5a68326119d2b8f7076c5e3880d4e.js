@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ae.998cc1fc.svg"
   },
   {
-    "revision": "1e73c9eec7a1fe8d8a4a28de746bb09c",
-    "url": "/NarcoCalc/img/af.1e73c9ee.svg"
-  },
-  {
     "revision": "b8b828913dc2d38b6afaed59032f2ad9",
     "url": "/NarcoCalc/img/ag.b8b82891.svg"
   },
@@ -40,28 +36,36 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/al.4ed11fa4.svg"
   },
   {
-    "revision": "cb2561270555c1b1e80318bc637c05ea",
-    "url": "/NarcoCalc/img/am.cb256127.svg"
-  },
-  {
-    "revision": "02ad59b3dcbdd872f74d3c112f474794",
-    "url": "/NarcoCalc/img/aq.02ad59b3.svg"
-  },
-  {
-    "revision": "b69218a9dc7ff91ce97305c35b9f8991",
-    "url": "/NarcoCalc/img/ao.b69218a9.svg"
-  },
-  {
-    "revision": "5261e632249ca9ab5b916055603be1f6",
-    "url": "/NarcoCalc/img/ar.5261e632.svg"
+    "revision": "1e73c9eec7a1fe8d8a4a28de746bb09c",
+    "url": "/NarcoCalc/img/af.1e73c9ee.svg"
   },
   {
     "revision": "7b4552df49750bda95a7fb860851ba60",
     "url": "/NarcoCalc/img/ai.7b4552df.svg"
   },
   {
+    "revision": "cb2561270555c1b1e80318bc637c05ea",
+    "url": "/NarcoCalc/img/am.cb256127.svg"
+  },
+  {
+    "revision": "b69218a9dc7ff91ce97305c35b9f8991",
+    "url": "/NarcoCalc/img/ao.b69218a9.svg"
+  },
+  {
+    "revision": "02ad59b3dcbdd872f74d3c112f474794",
+    "url": "/NarcoCalc/img/aq.02ad59b3.svg"
+  },
+  {
+    "revision": "5261e632249ca9ab5b916055603be1f6",
+    "url": "/NarcoCalc/img/ar.5261e632.svg"
+  },
+  {
     "revision": "23e6ae7d55de1077626007fdfe9a5822",
     "url": "/NarcoCalc/img/as.23e6ae7d.svg"
+  },
+  {
+    "revision": "bb307e7fab6969ba6d3ff7d2ceeb6288",
+    "url": "/NarcoCalc/img/au.bb307e7f.svg"
   },
   {
     "revision": "fa4cf0437de30e8cbf8952b91ffbbc3a",
@@ -72,12 +76,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/aw.3f52fb17.svg"
   },
   {
-    "revision": "bb307e7fab6969ba6d3ff7d2ceeb6288",
-    "url": "/NarcoCalc/img/au.bb307e7f.svg"
-  },
-  {
     "revision": "f8c4019f81d13aade8e732ab4a6baf32",
     "url": "/NarcoCalc/img/ax.f8c4019f.svg"
+  },
+  {
+    "revision": "fe3ac3fea6f1abd9cfce0635cc6d610b",
+    "url": "/NarcoCalc/img/bb.fe3ac3fe.svg"
   },
   {
     "revision": "198dbef38643afbd74b6d1cbe6da9ec8",
@@ -88,14 +92,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/bd.a7978d3d.svg"
   },
   {
-    "revision": "5739940da79d5fa8e595e64c05669c2a",
-    "url": "/NarcoCalc/img/be.5739940d.svg"
-  },
-  {
-    "revision": "57907e6611d0ab08eed5631443cdd447",
-    "url": "/NarcoCalc/img/bf.57907e66.svg"
-  },
-  {
     "revision": "7d6f56d23d025c0f0368ac2f85d7f8af",
     "url": "/NarcoCalc/img/ba.7d6f56d2.svg"
   },
@@ -104,80 +100,88 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/bg.494aa569.svg"
   },
   {
-    "revision": "fe3ac3fea6f1abd9cfce0635cc6d610b",
-    "url": "/NarcoCalc/img/bb.fe3ac3fe.svg"
+    "revision": "57907e6611d0ab08eed5631443cdd447",
+    "url": "/NarcoCalc/img/bf.57907e66.svg"
   },
   {
     "revision": "7510653e469a48d869e109f7cc5fe930",
     "url": "/NarcoCalc/img/bh.7510653e.svg"
   },
   {
-    "revision": "12a40d8db0b02233e8bdfe888231bfdb",
-    "url": "/NarcoCalc/img/bi.12a40d8d.svg"
+    "revision": "5739940da79d5fa8e595e64c05669c2a",
+    "url": "/NarcoCalc/img/be.5739940d.svg"
   },
   {
     "revision": "5561ec954d9c2ec533400b805354a4b6",
     "url": "/NarcoCalc/img/bj.5561ec95.svg"
   },
   {
-    "revision": "012b04b78dff697d63abb50a1193144c",
-    "url": "/NarcoCalc/img/bm.012b04b7.svg"
+    "revision": "12a40d8db0b02233e8bdfe888231bfdb",
+    "url": "/NarcoCalc/img/bi.12a40d8d.svg"
   },
   {
-    "revision": "2a496da9f0ccf063b143d591045f587a",
-    "url": "/NarcoCalc/img/bl.2a496da9.svg"
+    "revision": "012b04b78dff697d63abb50a1193144c",
+    "url": "/NarcoCalc/img/bm.012b04b7.svg"
   },
   {
     "revision": "f6d5f4005cca9ebb9883e5fb4e3edba9",
     "url": "/NarcoCalc/img/bn.f6d5f400.svg"
   },
   {
-    "revision": "a31e25766b6f0ba6bea0e6bf7d8e91af",
-    "url": "/NarcoCalc/img/br.a31e2576.svg"
+    "revision": "5f3fef091d666ea0ed093b1a427eac1f",
+    "url": "/NarcoCalc/img/bo.5f3fef09.svg"
+  },
+  {
+    "revision": "2a496da9f0ccf063b143d591045f587a",
+    "url": "/NarcoCalc/img/bl.2a496da9.svg"
   },
   {
     "revision": "fda6c02c937beae291172cd3f50df39c",
     "url": "/NarcoCalc/img/bq.fda6c02c.svg"
   },
   {
-    "revision": "5f3fef091d666ea0ed093b1a427eac1f",
-    "url": "/NarcoCalc/img/bo.5f3fef09.svg"
+    "revision": "a31e25766b6f0ba6bea0e6bf7d8e91af",
+    "url": "/NarcoCalc/img/br.a31e2576.svg"
   },
   {
     "revision": "cf40c6afb10d012e938c1fc4975301db",
     "url": "/NarcoCalc/img/bs.cf40c6af.svg"
   },
   {
-    "revision": "87d65251ab5b878dd029615dd4794a8e",
-    "url": "/NarcoCalc/img/bt.87d65251.svg"
-  },
-  {
     "revision": "4fbc14ad662107c170024061b40f6302",
     "url": "/NarcoCalc/img/bv.4fbc14ad.svg"
+  },
+  {
+    "revision": "15ed460a57847531507e5ba7201597b5",
+    "url": "/NarcoCalc/img/bw.15ed460a.svg"
+  },
+  {
+    "revision": "87d65251ab5b878dd029615dd4794a8e",
+    "url": "/NarcoCalc/img/bt.87d65251.svg"
   },
   {
     "revision": "c05c8c07ade1f9ead97ddf35a747f95b",
     "url": "/NarcoCalc/img/by.c05c8c07.svg"
   },
   {
-    "revision": "2458dd8a8870ea822b25e1cbbd9cb0a9",
-    "url": "/NarcoCalc/img/bz.2458dd8a.svg"
-  },
-  {
     "revision": "0efb6bf1f18132e87ea2c57d9580c45c",
     "url": "/NarcoCalc/img/ca.0efb6bf1.svg"
+  },
+  {
+    "revision": "dd392e29d025f8df6555fbb825f3ac84",
+    "url": "/NarcoCalc/img/cc.dd392e29.svg"
   },
   {
     "revision": "d4408d3c47a4436c01c71fe6af4825bd",
     "url": "/NarcoCalc/img/cd.d4408d3c.svg"
   },
   {
-    "revision": "51ec77aa7dc9bd203501805508836662",
-    "url": "/NarcoCalc/img/cg.51ec77aa.svg"
+    "revision": "2458dd8a8870ea822b25e1cbbd9cb0a9",
+    "url": "/NarcoCalc/img/bz.2458dd8a.svg"
   },
   {
-    "revision": "15ed460a57847531507e5ba7201597b5",
-    "url": "/NarcoCalc/img/bw.15ed460a.svg"
+    "revision": "51ec77aa7dc9bd203501805508836662",
+    "url": "/NarcoCalc/img/cg.51ec77aa.svg"
   },
   {
     "revision": "d8dd15d37e5023c354126187fe19327f",
@@ -192,12 +196,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ci.11ac689d.svg"
   },
   {
-    "revision": "dd392e29d025f8df6555fbb825f3ac84",
-    "url": "/NarcoCalc/img/cc.dd392e29.svg"
-  },
-  {
     "revision": "fe45a10b7d10b55b741114dcb7e75f48",
     "url": "/NarcoCalc/img/ck.fe45a10b.svg"
+  },
+  {
+    "revision": "a56034b73ef6d0700c73206a2f72abe0",
+    "url": "/NarcoCalc/img/cm.a56034b7.svg"
   },
   {
     "revision": "2fd895c4996f542bf3b07caba07bec6e",
@@ -208,10 +212,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/cn.2c193ab3.svg"
   },
   {
-    "revision": "a56034b73ef6d0700c73206a2f72abe0",
-    "url": "/NarcoCalc/img/cm.a56034b7.svg"
-  },
-  {
     "revision": "c5d7116a03266225f537cb79a0b87c21",
     "url": "/NarcoCalc/img/co.c5d7116a.svg"
   },
@@ -220,16 +220,24 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/un.cc2eb7d1.svg"
   },
   {
-    "revision": "8fc34d937ede25b6e171274b804b1e7f",
-    "url": "/NarcoCalc/img/ae.8fc34d93.svg"
-  },
-  {
     "revision": "800207334fe3f06f5cefab0e161ee27d",
     "url": "/NarcoCalc/img/ad.80020733.svg"
   },
   {
+    "revision": "8fc34d937ede25b6e171274b804b1e7f",
+    "url": "/NarcoCalc/img/ae.8fc34d93.svg"
+  },
+  {
     "revision": "ddee87a8c4cdbc2a60b5d4ddc3a1549a",
     "url": "/NarcoCalc/img/af.ddee87a8.svg"
+  },
+  {
+    "revision": "441882c5d5489780f1ab6b44927e5cd3",
+    "url": "/NarcoCalc/img/ag.441882c5.svg"
+  },
+  {
+    "revision": "0663234670e1d6679628d6f4fbae4e90",
+    "url": "/NarcoCalc/img/al.06632346.svg"
   },
   {
     "revision": "377c542ad344b6c40fd30645601fdb01",
@@ -244,14 +252,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ao.3e1baa08.svg"
   },
   {
-    "revision": "0663234670e1d6679628d6f4fbae4e90",
-    "url": "/NarcoCalc/img/al.06632346.svg"
-  },
-  {
-    "revision": "53647ae9f056d46e03205f791f2b66e3",
-    "url": "/NarcoCalc/img/ar.53647ae9.svg"
-  },
-  {
     "revision": "328821fe6adacfa7bee4f57da5d4e5c6",
     "url": "/NarcoCalc/img/aq.328821fe.svg"
   },
@@ -260,52 +260,56 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/as.078ba745.svg"
   },
   {
-    "revision": "441882c5d5489780f1ab6b44927e5cd3",
-    "url": "/NarcoCalc/img/ag.441882c5.svg"
-  },
-  {
-    "revision": "f6b7907ce4405df5f8c7d1abbbadafd5",
-    "url": "/NarcoCalc/img/au.f6b7907c.svg"
+    "revision": "53647ae9f056d46e03205f791f2b66e3",
+    "url": "/NarcoCalc/img/ar.53647ae9.svg"
   },
   {
     "revision": "0721b30720785a8a481ea634b50445ff",
     "url": "/NarcoCalc/img/at.0721b307.svg"
   },
   {
-    "revision": "e939bf2ecb653b16e31928f62f14161b",
-    "url": "/NarcoCalc/img/ax.e939bf2e.svg"
-  },
-  {
     "revision": "0cd7e031771900e86d3fe8dcd81e5556",
     "url": "/NarcoCalc/img/aw.0cd7e031.svg"
+  },
+  {
+    "revision": "f6b7907ce4405df5f8c7d1abbbadafd5",
+    "url": "/NarcoCalc/img/au.f6b7907c.svg"
+  },
+  {
+    "revision": "e939bf2ecb653b16e31928f62f14161b",
+    "url": "/NarcoCalc/img/ax.e939bf2e.svg"
   },
   {
     "revision": "1edff1247e1846c4e074a479684ea6ee",
     "url": "/NarcoCalc/img/az.1edff124.svg"
   },
   {
-    "revision": "b2af31760187b0f75eb6789dda71f62f",
-    "url": "/NarcoCalc/img/bd.b2af3176.svg"
+    "revision": "d5ef14f05acaac11a4844e9b3bbedb00",
+    "url": "/NarcoCalc/img/ba.d5ef14f0.svg"
   },
   {
     "revision": "0c916c1c17d5652f5e92b773aa1d4e2a",
     "url": "/NarcoCalc/img/bb.0c916c1c.svg"
   },
   {
-    "revision": "d5ef14f05acaac11a4844e9b3bbedb00",
-    "url": "/NarcoCalc/img/ba.d5ef14f0.svg"
+    "revision": "f34903cc86f134e4aa0aab9ff6a9e571",
+    "url": "/NarcoCalc/img/be.f34903cc.svg"
   },
   {
-    "revision": "18fac7d81bf6f7575b9f7486ee55cfcd",
-    "url": "/NarcoCalc/img/bh.18fac7d8.svg"
+    "revision": "b2af31760187b0f75eb6789dda71f62f",
+    "url": "/NarcoCalc/img/bd.b2af3176.svg"
   },
   {
     "revision": "44d83f951206160867dedeb992217279",
     "url": "/NarcoCalc/img/bg.44d83f95.svg"
   },
   {
-    "revision": "f34903cc86f134e4aa0aab9ff6a9e571",
-    "url": "/NarcoCalc/img/be.f34903cc.svg"
+    "revision": "348494c4020e910a1c5ebf26ad17c27b",
+    "url": "/NarcoCalc/img/bf.348494c4.svg"
+  },
+  {
+    "revision": "18fac7d81bf6f7575b9f7486ee55cfcd",
+    "url": "/NarcoCalc/img/bh.18fac7d8.svg"
   },
   {
     "revision": "d0615c777a4d8ada254341565c49bcd5",
@@ -316,40 +320,32 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/bj.22430301.svg"
   },
   {
-    "revision": "348494c4020e910a1c5ebf26ad17c27b",
-    "url": "/NarcoCalc/img/bf.348494c4.svg"
+    "revision": "2deb442f266b054738dc4389f509a553",
+    "url": "/NarcoCalc/img/bl.2deb442f.svg"
   },
   {
     "revision": "f2a17828e24a83b7bb4e980543c5fab6",
     "url": "/NarcoCalc/img/bm.f2a17828.svg"
   },
   {
-    "revision": "2deb442f266b054738dc4389f509a553",
-    "url": "/NarcoCalc/img/bl.2deb442f.svg"
-  },
-  {
     "revision": "c5b91605c852ec62583c5e7498a9f4c5",
     "url": "/NarcoCalc/img/bn.c5b91605.svg"
-  },
-  {
-    "revision": "8c6f85c7ffea34a1d11596e9945f112a",
-    "url": "/NarcoCalc/img/bq.8c6f85c7.svg"
-  },
-  {
-    "revision": "a30c10f8643bb31ef60f65958865a812",
-    "url": "/NarcoCalc/img/br.a30c10f8.svg"
-  },
-  {
-    "revision": "0f30e82c7146b9138138a31810ae9e1e",
-    "url": "/NarcoCalc/img/bs.0f30e82c.svg"
   },
   {
     "revision": "2b6773a9f72cc831c5fd8ac5a2115576",
     "url": "/NarcoCalc/img/bo.2b6773a9.svg"
   },
   {
-    "revision": "508393deb13245e36ff088316dbcd5da",
-    "url": "/NarcoCalc/img/bt.508393de.svg"
+    "revision": "a30c10f8643bb31ef60f65958865a812",
+    "url": "/NarcoCalc/img/br.a30c10f8.svg"
+  },
+  {
+    "revision": "8c6f85c7ffea34a1d11596e9945f112a",
+    "url": "/NarcoCalc/img/bq.8c6f85c7.svg"
+  },
+  {
+    "revision": "0f30e82c7146b9138138a31810ae9e1e",
+    "url": "/NarcoCalc/img/bs.0f30e82c.svg"
   },
   {
     "revision": "ce747379b653d0c81d931cd25779c857",
@@ -360,8 +356,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/bw.5f11a0be.svg"
   },
   {
+    "revision": "508393deb13245e36ff088316dbcd5da",
+    "url": "/NarcoCalc/img/bt.508393de.svg"
+  },
+  {
     "revision": "9b65127c617c5268e17e0997da71885b",
     "url": "/NarcoCalc/img/by.9b65127c.svg"
+  },
+  {
+    "revision": "a3999867cb776b04ebddf5d9eef4f48c",
+    "url": "/NarcoCalc/img/ca.a3999867.svg"
+  },
+  {
+    "revision": "e53abbf8dc50b464cbb11a76ff1ec9d6",
+    "url": "/NarcoCalc/img/cc.e53abbf8.svg"
   },
   {
     "revision": "81f2d6419e0debccb76714ed466b0652",
@@ -372,36 +380,28 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/cd.a3ecd806.svg"
   },
   {
-    "revision": "8f764c6dedaca265cead5bd746224551",
-    "url": "/NarcoCalc/img/cf.8f764c6d.svg"
-  },
-  {
-    "revision": "a3999867cb776b04ebddf5d9eef4f48c",
-    "url": "/NarcoCalc/img/ca.a3999867.svg"
-  },
-  {
-    "revision": "987cb82c1cadb50c89fe1e58dec40c31",
-    "url": "/NarcoCalc/img/ch.987cb82c.svg"
-  },
-  {
     "revision": "4ad6f3e8cf63bc61fc684d1e23e86899",
     "url": "/NarcoCalc/img/cg.4ad6f3e8.svg"
   },
   {
-    "revision": "e53abbf8dc50b464cbb11a76ff1ec9d6",
-    "url": "/NarcoCalc/img/cc.e53abbf8.svg"
+    "revision": "8f764c6dedaca265cead5bd746224551",
+    "url": "/NarcoCalc/img/cf.8f764c6d.svg"
   },
   {
     "revision": "728ba64d6ecf525a8eb69909b6f62b58",
     "url": "/NarcoCalc/img/ci.728ba64d.svg"
   },
   {
-    "revision": "e2686b2a29a1d7e56e17214b72e4cb0a",
-    "url": "/NarcoCalc/img/ck.e2686b2a.svg"
+    "revision": "609867ee88ac78b4aaf397a6fabe6790",
+    "url": "/NarcoCalc/img/cl.609867ee.svg"
   },
   {
     "revision": "94ec67b0531daa72807d39d9c7fa2123",
     "url": "/NarcoCalc/img/cm.94ec67b0.svg"
+  },
+  {
+    "revision": "e2686b2a29a1d7e56e17214b72e4cb0a",
+    "url": "/NarcoCalc/img/ck.e2686b2a.svg"
   },
   {
     "revision": "3a0829042f88f0dd20060d30fd7057c2",
@@ -412,12 +412,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/co.11131041.svg"
   },
   {
-    "revision": "609867ee88ac78b4aaf397a6fabe6790",
-    "url": "/NarcoCalc/img/cl.609867ee.svg"
+    "revision": "987cb82c1cadb50c89fe1e58dec40c31",
+    "url": "/NarcoCalc/img/ch.987cb82c.svg"
   },
   {
     "revision": "424ca4dfb83e20505d9c5a92f107b151",
     "url": "/NarcoCalc/img/un.424ca4df.svg"
+  },
+  {
+    "revision": "d67608c4a9127c21bc7236eaa82505b9",
+    "url": "/NarcoCalc/img/gb-wls.d67608c4.svg"
+  },
+  {
+    "revision": "344dc57e2bbcc26eea7cb4f8211cb5e7",
+    "url": "/NarcoCalc/img/gb-wls.344dc57e.svg"
   },
   {
     "revision": "6231d4d57245374c7e7578275498310c",
@@ -428,32 +436,28 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/gb-sct.c4361672.svg"
   },
   {
-    "revision": "5329af5915b425ea338f2eef0bac7af6",
-    "url": "/NarcoCalc/img/gb-nir.5329af59.svg"
-  },
-  {
-    "revision": "d67608c4a9127c21bc7236eaa82505b9",
-    "url": "/NarcoCalc/img/gb-wls.d67608c4.svg"
+    "revision": "080d05670e1d7ad2d3b7315edefa3653",
+    "url": "/NarcoCalc/img/gb-nir.080d0567.svg"
   },
   {
     "revision": "99785a1e509f909b29d0aff772349748",
     "url": "/NarcoCalc/img/gb-eng.99785a1e.svg"
   },
   {
-    "revision": "080d05670e1d7ad2d3b7315edefa3653",
-    "url": "/NarcoCalc/img/gb-nir.080d0567.svg"
-  },
-  {
-    "revision": "344dc57e2bbcc26eea7cb4f8211cb5e7",
-    "url": "/NarcoCalc/img/gb-wls.344dc57e.svg"
-  },
-  {
     "revision": "e18b270f56f90ad1f19660e70b68fb3a",
     "url": "/NarcoCalc/img/gb-eng.e18b270f.svg"
   },
   {
+    "revision": "5329af5915b425ea338f2eef0bac7af6",
+    "url": "/NarcoCalc/img/gb-nir.5329af59.svg"
+  },
+  {
     "revision": "d8c5128679452fbb1742dc0b0fafcfe6",
     "url": "/NarcoCalc/img/eu.d8c51286.svg"
+  },
+  {
+    "revision": "824e473c761930ef1f65fe53a04a4f18",
+    "url": "/NarcoCalc/img/eu.824e473c.svg"
   },
   {
     "revision": "e6db39f3fca00093bd7a3c2160ce0f57",
@@ -464,12 +468,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/es-ct.2f1565e8.svg"
   },
   {
-    "revision": "824e473c761930ef1f65fe53a04a4f18",
-    "url": "/NarcoCalc/img/eu.824e473c.svg"
-  },
-  {
     "revision": "25d67323ce7c449da65ae3af13fac562",
     "url": "/NarcoCalc/img/zw.25d67323.svg"
+  },
+  {
+    "revision": "58e2cbd64ee1252a407f1ca815b6817f",
+    "url": "/NarcoCalc/img/zw.58e2cbd6.svg"
   },
   {
     "revision": "402266a05380383f933eda9a8eff3fb2",
@@ -480,28 +484,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/zm.5ac3774a.svg"
   },
   {
-    "revision": "58e2cbd64ee1252a407f1ca815b6817f",
-    "url": "/NarcoCalc/img/zw.58e2cbd6.svg"
-  },
-  {
     "revision": "9ed44aea09b417be8090dae8e5222232",
     "url": "/NarcoCalc/img/za.9ed44aea.svg"
-  },
-  {
-    "revision": "0f00b1036165d69eff29d5b898873ad8",
-    "url": "/NarcoCalc/img/yt.0f00b103.svg"
   },
   {
     "revision": "177080d3e910a20e5b030f916d77760a",
     "url": "/NarcoCalc/img/za.177080d3.svg"
   },
   {
-    "revision": "58d8d56309a5718c3a4f31be6cdf223e",
-    "url": "/NarcoCalc/img/ye.58d8d563.svg"
-  },
-  {
-    "revision": "a1387f1c257ea0838b27317a6606575f",
-    "url": "/NarcoCalc/img/yt.a1387f1c.svg"
+    "revision": "0f00b1036165d69eff29d5b898873ad8",
+    "url": "/NarcoCalc/img/yt.0f00b103.svg"
   },
   {
     "revision": "68c397990d00c23f85c865ba696b19fb",
@@ -512,8 +504,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ws.2690f3d8.svg"
   },
   {
+    "revision": "58d8d56309a5718c3a4f31be6cdf223e",
+    "url": "/NarcoCalc/img/ye.58d8d563.svg"
+  },
+  {
     "revision": "c4eb05965d7ed2e7d561e80e18dc1b68",
     "url": "/NarcoCalc/img/ws.c4eb0596.svg"
+  },
+  {
+    "revision": "a1387f1c257ea0838b27317a6606575f",
+    "url": "/NarcoCalc/img/yt.a1387f1c.svg"
+  },
+  {
+    "revision": "a10487a62b8516b7d842cfb1bcf9489f",
+    "url": "/NarcoCalc/img/wf.a10487a6.svg"
   },
   {
     "revision": "5e6aa0d6196a1db8431a4fff6937079f",
@@ -524,16 +528,8 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/vu.9c4c893a.svg"
   },
   {
-    "revision": "5bc20756ed74f649e3ce3722b2a9c5a1",
-    "url": "/NarcoCalc/img/vu.5bc20756.svg"
-  },
-  {
     "revision": "7e156d1d24f51aca6179f2e54dec5c7c",
     "url": "/NarcoCalc/img/vn.7e156d1d.svg"
-  },
-  {
-    "revision": "a10487a62b8516b7d842cfb1bcf9489f",
-    "url": "/NarcoCalc/img/wf.a10487a6.svg"
   },
   {
     "revision": "8a178e2ccba3c073eff08cb67977c858",
@@ -542,6 +538,10 @@ self.__precacheManifest = [
   {
     "revision": "010b0c4c6dc4bdb48895ab271d4544c4",
     "url": "/NarcoCalc/img/vn.010b0c4c.svg"
+  },
+  {
+    "revision": "5bc20756ed74f649e3ce3722b2a9c5a1",
+    "url": "/NarcoCalc/img/vu.5bc20756.svg"
   },
   {
     "revision": "2127440f728f099608ed690b93661341",
@@ -556,12 +556,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/vg.eef14ab6.svg"
   },
   {
-    "revision": "05045bcea6cd452ff2110d8595ca1895",
-    "url": "/NarcoCalc/img/ve.05045bce.svg"
-  },
-  {
     "revision": "d384c6ce97ba0ca4aecbc188e84a0670",
     "url": "/NarcoCalc/img/ve.d384c6ce.svg"
+  },
+  {
+    "revision": "05045bcea6cd452ff2110d8595ca1895",
+    "url": "/NarcoCalc/img/ve.05045bce.svg"
   },
   {
     "revision": "0d52b1116574139a04da5c57a6b24b51",
@@ -576,6 +576,10 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/va.a44c6ba9.svg"
   },
   {
+    "revision": "8aae3709fb23884b7c01927b3ab56c15",
+    "url": "/NarcoCalc/img/va.8aae3709.svg"
+  },
+  {
     "revision": "0b281dd521d66869cfba6fc17b814b19",
     "url": "/NarcoCalc/img/uz.0b281dd5.svg"
   },
@@ -588,10 +592,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/uy.4caed124.svg"
   },
   {
-    "revision": "8aae3709fb23884b7c01927b3ab56c15",
-    "url": "/NarcoCalc/img/va.8aae3709.svg"
-  },
-  {
     "revision": "269666d513f4326441bbbdc8564c7cab",
     "url": "/NarcoCalc/img/us.269666d5.svg"
   },
@@ -600,12 +600,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/us.da1c4f85.svg"
   },
   {
-    "revision": "2da266d727f6a285c2c6c45404d13857",
-    "url": "/NarcoCalc/img/um.2da266d7.svg"
-  },
-  {
     "revision": "2ac18c6e7d7cbee175d28bf5b7e764ad",
     "url": "/NarcoCalc/img/uy.2ac18c6e.svg"
+  },
+  {
+    "revision": "2da266d727f6a285c2c6c45404d13857",
+    "url": "/NarcoCalc/img/um.2da266d7.svg"
   },
   {
     "revision": "69ed4876cb991fc0c03f2ad3ca250a86",
@@ -620,16 +620,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ug.f6dbcb21.svg"
   },
   {
+    "revision": "5196d8ea0993d5b917b04ddb206163ec",
+    "url": "/NarcoCalc/img/ua.5196d8ea.svg"
+  },
+  {
     "revision": "e2202cb676678f90c10a1c1a0e04afa6",
     "url": "/NarcoCalc/img/ua.e2202cb6.svg"
   },
   {
     "revision": "206592dc6556e3cddf82e5f59dbcef24",
     "url": "/NarcoCalc/img/tz.206592dc.svg"
-  },
-  {
-    "revision": "5196d8ea0993d5b917b04ddb206163ec",
-    "url": "/NarcoCalc/img/ua.5196d8ea.svg"
   },
   {
     "revision": "ed1c43d0c76533c8e19f0e8afd0f604a",
@@ -640,6 +640,10 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tw.7794932d.svg"
   },
   {
+    "revision": "ec5c179a3c54ff54fd82ddda3569f794",
+    "url": "/NarcoCalc/img/tv.ec5c179a.svg"
+  },
+  {
     "revision": "89a1429ae91ef356268cfdd8759b89e3",
     "url": "/NarcoCalc/img/tw.89a1429a.svg"
   },
@@ -648,8 +652,8 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tv.eda22a5d.svg"
   },
   {
-    "revision": "ec5c179a3c54ff54fd82ddda3569f794",
-    "url": "/NarcoCalc/img/tv.ec5c179a.svg"
+    "revision": "3854b853aee040dd3a36a3bbbb526a16",
+    "url": "/NarcoCalc/img/tt.3854b853.svg"
   },
   {
     "revision": "333675d63b5100b2ad628b0278de708a",
@@ -660,12 +664,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tr.d4a61f6a.svg"
   },
   {
-    "revision": "3854b853aee040dd3a36a3bbbb526a16",
-    "url": "/NarcoCalc/img/tt.3854b853.svg"
-  },
-  {
     "revision": "ac4572ccd5aa06b5db888c21b07b728e",
     "url": "/NarcoCalc/img/tr.ac4572cc.svg"
+  },
+  {
+    "revision": "34dba63bc62c862c8944dd2c827c1bf6",
+    "url": "/NarcoCalc/img/tn.34dba63b.svg"
   },
   {
     "revision": "ee39c2dbb8ab06d415a474be5fc2beee",
@@ -680,12 +684,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/to.00aaa22b.svg"
   },
   {
-    "revision": "34dba63bc62c862c8944dd2c827c1bf6",
-    "url": "/NarcoCalc/img/tn.34dba63b.svg"
-  },
-  {
     "revision": "08d55ec816375fc81f1bc352977244e5",
     "url": "/NarcoCalc/img/tm.08d55ec8.svg"
+  },
+  {
+    "revision": "547e42152a9dfb16e33dc6bc3663d712",
+    "url": "/NarcoCalc/img/tl.547e4215.svg"
   },
   {
     "revision": "214b6f844896186fb3035180638b8a47",
@@ -696,10 +700,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tm.f2dc59b2.svg"
   },
   {
-    "revision": "547e42152a9dfb16e33dc6bc3663d712",
-    "url": "/NarcoCalc/img/tl.547e4215.svg"
-  },
-  {
     "revision": "e37e35bfee8ec6f39e49f95ba55b4e32",
     "url": "/NarcoCalc/img/tk.e37e35bf.svg"
   },
@@ -708,12 +708,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tk.b2df385f.svg"
   },
   {
+    "revision": "1793caa0c484adea27824ce612e96dfc",
+    "url": "/NarcoCalc/img/tj.1793caa0.svg"
+  },
+  {
     "revision": "e58f32ff84f001bc7168d27cdc241d71",
     "url": "/NarcoCalc/img/tj.e58f32ff.svg"
   },
   {
-    "revision": "565e3c4b62c18bb6ef101a0cf3b4c82f",
-    "url": "/NarcoCalc/img/th.565e3c4b.svg"
+    "revision": "9c1e01fcbd77919148db921c5ce77446",
+    "url": "/NarcoCalc/img/th.9c1e01fc.svg"
   },
   {
     "revision": "aff94a793ed8d936373717694ddf3d99",
@@ -724,88 +728,80 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/tg.bf9d20b8.svg"
   },
   {
-    "revision": "1793caa0c484adea27824ce612e96dfc",
-    "url": "/NarcoCalc/img/tj.1793caa0.svg"
-  },
-  {
-    "revision": "9c1e01fcbd77919148db921c5ce77446",
-    "url": "/NarcoCalc/img/th.9c1e01fc.svg"
+    "revision": "565e3c4b62c18bb6ef101a0cf3b4c82f",
+    "url": "/NarcoCalc/img/th.565e3c4b.svg"
   },
   {
     "revision": "3f87ed9137eee673a8d3799760e5c5de",
     "url": "/NarcoCalc/img/tf.3f87ed91.svg"
   },
   {
-    "revision": "1129c04ba580e9e28171db5d40ce9f32",
-    "url": "/NarcoCalc/img/tf.1129c04b.svg"
-  },
-  {
-    "revision": "cb622bc24400fd328947ffed78f0660a",
-    "url": "/NarcoCalc/img/td.cb622bc2.svg"
-  },
-  {
     "revision": "d6ccfa17c984bf92472575c6cf018f80",
     "url": "/NarcoCalc/img/td.d6ccfa17.svg"
   },
   {
-    "revision": "9ec8da3eae5c07ea00da519d29071389",
-    "url": "/NarcoCalc/img/sz.9ec8da3e.svg"
-  },
-  {
-    "revision": "d01602470bf5b8c2cc51fbb9925f71a9",
-    "url": "/NarcoCalc/img/tc.d0160247.svg"
-  },
-  {
-    "revision": "d00ba66465ba75f9a782e9f79944402c",
-    "url": "/NarcoCalc/img/sz.d00ba664.svg"
-  },
-  {
-    "revision": "d648066bba18b3fedf66db0fca2da5ff",
-    "url": "/NarcoCalc/img/sy.d648066b.svg"
-  },
-  {
-    "revision": "96bb3c224fd1a7a3f7869ca176b6ce54",
-    "url": "/NarcoCalc/img/sy.96bb3c22.svg"
-  },
-  {
-    "revision": "6c22419aeaf5deb9ca0cd85368de24bd",
-    "url": "/NarcoCalc/img/sx.6c22419a.svg"
-  },
-  {
-    "revision": "88ca96e7891e09e72a3f8c0cf2e22a7b",
-    "url": "/NarcoCalc/img/sv.88ca96e7.svg"
-  },
-  {
-    "revision": "89f96e7884f6dbcbb0496360d3937c34",
-    "url": "/NarcoCalc/img/sx.89f96e78.svg"
+    "revision": "1129c04ba580e9e28171db5d40ce9f32",
+    "url": "/NarcoCalc/img/tf.1129c04b.svg"
   },
   {
     "revision": "bca9f99cb80af8a64a1249b13d08418b",
     "url": "/NarcoCalc/img/tc.bca9f99c.svg"
   },
   {
+    "revision": "cb622bc24400fd328947ffed78f0660a",
+    "url": "/NarcoCalc/img/td.cb622bc2.svg"
+  },
+  {
+    "revision": "d01602470bf5b8c2cc51fbb9925f71a9",
+    "url": "/NarcoCalc/img/tc.d0160247.svg"
+  },
+  {
+    "revision": "9ec8da3eae5c07ea00da519d29071389",
+    "url": "/NarcoCalc/img/sz.9ec8da3e.svg"
+  },
+  {
+    "revision": "d00ba66465ba75f9a782e9f79944402c",
+    "url": "/NarcoCalc/img/sz.d00ba664.svg"
+  },
+  {
+    "revision": "96bb3c224fd1a7a3f7869ca176b6ce54",
+    "url": "/NarcoCalc/img/sy.96bb3c22.svg"
+  },
+  {
+    "revision": "d648066bba18b3fedf66db0fca2da5ff",
+    "url": "/NarcoCalc/img/sy.d648066b.svg"
+  },
+  {
+    "revision": "6c22419aeaf5deb9ca0cd85368de24bd",
+    "url": "/NarcoCalc/img/sx.6c22419a.svg"
+  },
+  {
+    "revision": "89f96e7884f6dbcbb0496360d3937c34",
+    "url": "/NarcoCalc/img/sx.89f96e78.svg"
+  },
+  {
+    "revision": "abfac59c5ed910b2ddc7cc545c45cb17",
+    "url": "/NarcoCalc/img/sv.abfac59c.svg"
+  },
+  {
     "revision": "3589e34b716c7cbfb519d64c63aa656c",
     "url": "/NarcoCalc/img/st.3589e34b.svg"
   },
   {
-    "revision": "00f5130cc14dbdb86779b734730a1d9d",
-    "url": "/NarcoCalc/img/st.00f5130c.svg"
+    "revision": "88ca96e7891e09e72a3f8c0cf2e22a7b",
+    "url": "/NarcoCalc/img/sv.88ca96e7.svg"
   },
   {
     "revision": "c8e5f380d045c394f352a0bb77d6ff60",
     "url": "/NarcoCalc/img/ss.c8e5f380.svg"
   },
   {
-    "revision": "5e0bad12f6f55064c3dbc63aa8e8128a",
-    "url": "/NarcoCalc/img/ss.5e0bad12.svg"
+    "revision": "00f5130cc14dbdb86779b734730a1d9d",
+    "url": "/NarcoCalc/img/st.00f5130c.svg"
   },
   {
     "revision": "ceae0ffa4c003d02ae6151089d91a88d",
     "url": "/NarcoCalc/img/sr.ceae0ffa.svg"
-  },
-  {
-    "revision": "abfac59c5ed910b2ddc7cc545c45cb17",
-    "url": "/NarcoCalc/img/sv.abfac59c.svg"
   },
   {
     "revision": "64fb37b49bdd1d10f833926e24da7226",
@@ -820,32 +816,32 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/so.fd9745c3.svg"
   },
   {
-    "revision": "c1a6798abc4a04fd81139f968d305a8c",
-    "url": "/NarcoCalc/img/sn.c1a6798a.svg"
+    "revision": "5e0bad12f6f55064c3dbc63aa8e8128a",
+    "url": "/NarcoCalc/img/ss.5e0bad12.svg"
   },
   {
-    "revision": "d69bce00e26722bba4db9516bdd7aeb3",
-    "url": "/NarcoCalc/img/sm.d69bce00.svg"
+    "revision": "c1a6798abc4a04fd81139f968d305a8c",
+    "url": "/NarcoCalc/img/sn.c1a6798a.svg"
   },
   {
     "revision": "6d85da96305f317874f735494e0ac237",
     "url": "/NarcoCalc/img/sn.6d85da96.svg"
   },
   {
+    "revision": "d69bce00e26722bba4db9516bdd7aeb3",
+    "url": "/NarcoCalc/img/sm.d69bce00.svg"
+  },
+  {
     "revision": "890ad891911e82e4bb6444077e4c4c67",
     "url": "/NarcoCalc/img/sm.890ad891.svg"
   },
   {
-    "revision": "daf75e75e18b8299db61fabcc0946af1",
-    "url": "/NarcoCalc/img/sk.daf75e75.svg"
+    "revision": "58ef1e3b6bff58d6f4ca6047a96fc59d",
+    "url": "/NarcoCalc/img/sl.58ef1e3b.svg"
   },
   {
     "revision": "f5cb409d2dfc8009c8d8d5d193068358",
     "url": "/NarcoCalc/img/sl.f5cb409d.svg"
-  },
-  {
-    "revision": "58ef1e3b6bff58d6f4ca6047a96fc59d",
-    "url": "/NarcoCalc/img/sl.58ef1e3b.svg"
   },
   {
     "revision": "253c193837ab28e6fbc39c28024e023f",
@@ -854,6 +850,10 @@ self.__precacheManifest = [
   {
     "revision": "f40433689ccd69fe698f04d5d27baf44",
     "url": "/NarcoCalc/img/sj.f4043368.svg"
+  },
+  {
+    "revision": "daf75e75e18b8299db61fabcc0946af1",
+    "url": "/NarcoCalc/img/sk.daf75e75.svg"
   },
   {
     "revision": "fdc1ceeae23c149deb2006431d51737a",
@@ -870,10 +870,6 @@ self.__precacheManifest = [
   {
     "revision": "c147b9c0254aca2a7e4e5c46931ca631",
     "url": "/NarcoCalc/img/sh.c147b9c0.svg"
-  },
-  {
-    "revision": "e26b4b82312cc681dea395e1de7176e9",
-    "url": "/NarcoCalc/img/sh.e26b4b82.svg"
   },
   {
     "revision": "279844e992ca5aa5bbf4d830b2b79be6",
@@ -896,6 +892,10 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/sd.d702bafe.svg"
   },
   {
+    "revision": "e26b4b82312cc681dea395e1de7176e9",
+    "url": "/NarcoCalc/img/sh.e26b4b82.svg"
+  },
+  {
     "revision": "aafc9cae603296bc1a353c32c9d0f8f2",
     "url": "/NarcoCalc/img/sd.aafc9cae.svg"
   },
@@ -904,44 +904,48 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/sc.ed506f5a.svg"
   },
   {
-    "revision": "5d8966f42246b186ca5ef3d2144ba158",
-    "url": "/NarcoCalc/img/sc.5d8966f4.svg"
-  },
-  {
     "revision": "5bc69a36b0852ca3e1023a0bfc21660e",
     "url": "/NarcoCalc/img/sb.5bc69a36.svg"
   },
   {
-    "revision": "1c14b2ed39388b5bf16aa85c4b6d50bb",
-    "url": "/NarcoCalc/img/sa.1c14b2ed.svg"
-  },
-  {
-    "revision": "45e17088c50060fa0549d945bc987c24",
-    "url": "/NarcoCalc/img/sa.45e17088.svg"
+    "revision": "5d8966f42246b186ca5ef3d2144ba158",
+    "url": "/NarcoCalc/img/sc.5d8966f4.svg"
   },
   {
     "revision": "ab93a7990b049074d06db8b0bc7b3ce2",
     "url": "/NarcoCalc/img/sb.ab93a799.svg"
   },
   {
-    "revision": "dbf846e1d345cbded1f7bed600a96965",
-    "url": "/NarcoCalc/img/rw.dbf846e1.svg"
+    "revision": "45e17088c50060fa0549d945bc987c24",
+    "url": "/NarcoCalc/img/sa.45e17088.svg"
   },
   {
-    "revision": "911c03c21a5ddc5df70b61f46589bd5d",
-    "url": "/NarcoCalc/img/ru.911c03c2.svg"
-  },
-  {
-    "revision": "af31e644412f6079d91279ae7b977196",
-    "url": "/NarcoCalc/img/ru.af31e644.svg"
+    "revision": "1c14b2ed39388b5bf16aa85c4b6d50bb",
+    "url": "/NarcoCalc/img/sa.1c14b2ed.svg"
   },
   {
     "revision": "d724e841628d040ff3484698907a1dd1",
     "url": "/NarcoCalc/img/rw.d724e841.svg"
   },
   {
+    "revision": "dbf846e1d345cbded1f7bed600a96965",
+    "url": "/NarcoCalc/img/rw.dbf846e1.svg"
+  },
+  {
+    "revision": "af31e644412f6079d91279ae7b977196",
+    "url": "/NarcoCalc/img/ru.af31e644.svg"
+  },
+  {
+    "revision": "95f28eccd867726d728d8973386f1a9b",
+    "url": "/NarcoCalc/img/rs.95f28ecc.svg"
+  },
+  {
     "revision": "488ee906d08b52610dfb7f47cb84f2e6",
     "url": "/NarcoCalc/img/ro.488ee906.svg"
+  },
+  {
+    "revision": "911c03c21a5ddc5df70b61f46589bd5d",
+    "url": "/NarcoCalc/img/ru.911c03c2.svg"
   },
   {
     "revision": "192092d6e9f30bd5151566a79fc77cfc",
@@ -956,36 +960,32 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/re.9c769f63.svg"
   },
   {
-    "revision": "95f28eccd867726d728d8973386f1a9b",
-    "url": "/NarcoCalc/img/rs.95f28ecc.svg"
+    "revision": "29cc28337ed9450a402a45452246c160",
+    "url": "/NarcoCalc/img/qa.29cc2833.svg"
   },
   {
     "revision": "16aa0b5b66321c1281c063ee2619ab02",
     "url": "/NarcoCalc/img/re.16aa0b5b.svg"
   },
   {
-    "revision": "29cc28337ed9450a402a45452246c160",
-    "url": "/NarcoCalc/img/qa.29cc2833.svg"
-  },
-  {
     "revision": "4f997308380e5dd75fff5a89723a3172",
     "url": "/NarcoCalc/img/qa.4f997308.svg"
-  },
-  {
-    "revision": "795e6d0e6797cfb82c1d039a39ef1387",
-    "url": "/NarcoCalc/img/py.795e6d0e.svg"
   },
   {
     "revision": "069ec370e716891db264087afdcf6182",
     "url": "/NarcoCalc/img/pw.069ec370.svg"
   },
   {
-    "revision": "f1fa6887d16e8626a2ece3b50b551718",
-    "url": "/NarcoCalc/img/py.f1fa6887.svg"
+    "revision": "795e6d0e6797cfb82c1d039a39ef1387",
+    "url": "/NarcoCalc/img/py.795e6d0e.svg"
   },
   {
     "revision": "6143c8e6835f2dba4080dd2214db7b3f",
     "url": "/NarcoCalc/img/pt.6143c8e6.svg"
+  },
+  {
+    "revision": "f1fa6887d16e8626a2ece3b50b551718",
+    "url": "/NarcoCalc/img/py.f1fa6887.svg"
   },
   {
     "revision": "5445894875274b8709f1d6f3fd6af976",
@@ -1008,10 +1008,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/pr.563200c5.svg"
   },
   {
-    "revision": "eb94153e3111b0694e49ac4066bbf9a8",
-    "url": "/NarcoCalc/img/pn.eb94153e.svg"
-  },
-  {
     "revision": "6949cd9f76c1e488de1074d5d04dc189",
     "url": "/NarcoCalc/img/pr.6949cd9f.svg"
   },
@@ -1020,20 +1016,24 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/pm.68469c3f.svg"
   },
   {
-    "revision": "97f773cab9a46804e0d4d49d3269b3d1",
-    "url": "/NarcoCalc/img/pn.97f773ca.svg"
+    "revision": "eb94153e3111b0694e49ac4066bbf9a8",
+    "url": "/NarcoCalc/img/pn.eb94153e.svg"
   },
   {
     "revision": "6359f9eea5d35f2cc4d89366c20e0a26",
     "url": "/NarcoCalc/img/pm.6359f9ee.svg"
   },
   {
-    "revision": "6607e08cafd66147db56631c31d66cec",
-    "url": "/NarcoCalc/img/pl.6607e08c.svg"
-  },
-  {
     "revision": "1f4f8ec32bba1e4e2ec3f4c5fc14efc6",
     "url": "/NarcoCalc/img/pl.1f4f8ec3.svg"
+  },
+  {
+    "revision": "97f773cab9a46804e0d4d49d3269b3d1",
+    "url": "/NarcoCalc/img/pn.97f773ca.svg"
+  },
+  {
+    "revision": "6607e08cafd66147db56631c31d66cec",
+    "url": "/NarcoCalc/img/pl.6607e08c.svg"
   },
   {
     "revision": "f76952932734f7ef0d655691158a4371",
@@ -1044,24 +1044,24 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/pk.fbfb5582.svg"
   },
   {
-    "revision": "605f52201b02fa5bb8a2b99ab1389ed7",
-    "url": "/NarcoCalc/img/ph.605f5220.svg"
+    "revision": "4359608e6d3f7f7b4c471f4fe1576b6f",
+    "url": "/NarcoCalc/img/pg.4359608e.svg"
   },
   {
     "revision": "807a7e5ded435f887dbebed8a7d8d81f",
     "url": "/NarcoCalc/img/ph.807a7e5d.svg"
   },
   {
-    "revision": "4359608e6d3f7f7b4c471f4fe1576b6f",
-    "url": "/NarcoCalc/img/pg.4359608e.svg"
-  },
-  {
-    "revision": "3ac8d5bdfe5d78013f568a73dd5b4d61",
-    "url": "/NarcoCalc/img/pf.3ac8d5bd.svg"
+    "revision": "605f52201b02fa5bb8a2b99ab1389ed7",
+    "url": "/NarcoCalc/img/ph.605f5220.svg"
   },
   {
     "revision": "5c17391e78b57ac623cff8401a4e303a",
     "url": "/NarcoCalc/img/pg.5c17391e.svg"
+  },
+  {
+    "revision": "3ac8d5bdfe5d78013f568a73dd5b4d61",
+    "url": "/NarcoCalc/img/pf.3ac8d5bd.svg"
   },
   {
     "revision": "b6f47989b5c69e0ab2ed87e26869a342",
@@ -1072,8 +1072,8 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/pa.943e160a.svg"
   },
   {
-    "revision": "017a482a8e2647dc96dea5d770dab327",
-    "url": "/NarcoCalc/img/pe.017a482a.svg"
+    "revision": "7171b1e2bb68f23117e15cb01ea2e90a",
+    "url": "/NarcoCalc/img/om.7171b1e2.svg"
   },
   {
     "revision": "3b4d5528e24d6aa61e049df51eb8c89f",
@@ -1084,14 +1084,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/om.9170bae1.svg"
   },
   {
-    "revision": "7171b1e2bb68f23117e15cb01ea2e90a",
-    "url": "/NarcoCalc/img/om.7171b1e2.svg"
-  },
-  {
-    "revision": "fda667297974310505272d2c7ebaf723",
-    "url": "/NarcoCalc/img/pe.fda66729.svg"
-  },
-  {
     "revision": "d29645cfd55673bf87bf02f95bf79668",
     "url": "/NarcoCalc/img/nz.d29645cf.svg"
   },
@@ -1100,20 +1092,28 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/nz.07d3ae50.svg"
   },
   {
-    "revision": "482618606f493a8f71e79003956049a0",
-    "url": "/NarcoCalc/img/nu.48261860.svg"
+    "revision": "017a482a8e2647dc96dea5d770dab327",
+    "url": "/NarcoCalc/img/pe.017a482a.svg"
   },
   {
-    "revision": "39cb2412fae122cbbb2ae8fc9011fed6",
-    "url": "/NarcoCalc/img/nu.39cb2412.svg"
+    "revision": "482618606f493a8f71e79003956049a0",
+    "url": "/NarcoCalc/img/nu.48261860.svg"
   },
   {
     "revision": "61a42463d2f4031baee80bfbb4976079",
     "url": "/NarcoCalc/img/nr.61a42463.svg"
   },
   {
+    "revision": "39cb2412fae122cbbb2ae8fc9011fed6",
+    "url": "/NarcoCalc/img/nu.39cb2412.svg"
+  },
+  {
     "revision": "66dd15736f1d79053d46cb60eea52e8a",
     "url": "/NarcoCalc/img/nr.66dd1573.svg"
+  },
+  {
+    "revision": "fda667297974310505272d2c7ebaf723",
+    "url": "/NarcoCalc/img/pe.fda66729.svg"
   },
   {
     "revision": "c28b6869e7499315df56b73fd2c42a65",
@@ -1124,32 +1124,28 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/np.4211aa60.svg"
   },
   {
-    "revision": "fc029595f52e23b8f04102e4e3c802c2",
-    "url": "/NarcoCalc/img/no.fc029595.svg"
-  },
-  {
     "revision": "51a7ba8c6295a52f4b253b33694eecf1",
     "url": "/NarcoCalc/img/no.51a7ba8c.svg"
   },
   {
-    "revision": "db2b8b183dba8ab799213ee07763a43e",
-    "url": "/NarcoCalc/img/nl.db2b8b18.svg"
-  },
-  {
-    "revision": "f6a23478e72fa37e3b9f3869524e0dfa",
-    "url": "/NarcoCalc/img/ng.f6a23478.svg"
-  },
-  {
-    "revision": "3f7681e7629b2dfdcb7f7c59c1e1b3e0",
-    "url": "/NarcoCalc/img/ni.3f7681e7.svg"
+    "revision": "fc029595f52e23b8f04102e4e3c802c2",
+    "url": "/NarcoCalc/img/no.fc029595.svg"
   },
   {
     "revision": "feb9eea9ce02f8633ea8c37354a7e1cb",
     "url": "/NarcoCalc/img/nl.feb9eea9.svg"
   },
   {
-    "revision": "7affd52e71f565734b35c729fd9a69c6",
-    "url": "/NarcoCalc/img/ni.7affd52e.svg"
+    "revision": "db2b8b183dba8ab799213ee07763a43e",
+    "url": "/NarcoCalc/img/nl.db2b8b18.svg"
+  },
+  {
+    "revision": "3f7681e7629b2dfdcb7f7c59c1e1b3e0",
+    "url": "/NarcoCalc/img/ni.3f7681e7.svg"
+  },
+  {
+    "revision": "f6a23478e72fa37e3b9f3869524e0dfa",
+    "url": "/NarcoCalc/img/ng.f6a23478.svg"
   },
   {
     "revision": "ba3bb51aca71f876f6d55d8ea53f7a73",
@@ -1160,8 +1156,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/nf.44fe5947.svg"
   },
   {
+    "revision": "7affd52e71f565734b35c729fd9a69c6",
+    "url": "/NarcoCalc/img/ni.7affd52e.svg"
+  },
+  {
     "revision": "5e07162fc6710cfed614804deb6d57f2",
     "url": "/NarcoCalc/img/nf.5e07162f.svg"
+  },
+  {
+    "revision": "a7f07f0ce07ab31c89770dddbf56d0c4",
+    "url": "/NarcoCalc/img/ne.a7f07f0c.svg"
   },
   {
     "revision": "9a5589731c141e7c38d8ec613a5f0304",
@@ -1170,10 +1174,6 @@ self.__precacheManifest = [
   {
     "revision": "b72ab6b2a834a41cb6cfec2908bf4a78",
     "url": "/NarcoCalc/img/nc.b72ab6b2.svg"
-  },
-  {
-    "revision": "a7f07f0ce07ab31c89770dddbf56d0c4",
-    "url": "/NarcoCalc/img/ne.a7f07f0c.svg"
   },
   {
     "revision": "846211decb4c6a7eaf50944147654cbd",
@@ -1196,12 +1196,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mz.c8308283.svg"
   },
   {
+    "revision": "591d1e38714cc55a73f3b556f00afb11",
+    "url": "/NarcoCalc/img/my.591d1e38.svg"
+  },
+  {
+    "revision": "f075545eec970dd6bea4083002f29084",
+    "url": "/NarcoCalc/img/mw.f075545e.svg"
+  },
+  {
     "revision": "789a6ddf349312be499c1b20096b0240",
     "url": "/NarcoCalc/img/my.789a6ddf.svg"
   },
   {
-    "revision": "591d1e38714cc55a73f3b556f00afb11",
-    "url": "/NarcoCalc/img/my.591d1e38.svg"
+    "revision": "8627c92dc660e33b047a1ae2efe17cf9",
+    "url": "/NarcoCalc/img/mw.8627c92d.svg"
   },
   {
     "revision": "4e358e43beb776d5c90cca5ffec8a2bd",
@@ -1212,20 +1220,8 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mx.1fcc3cf0.svg"
   },
   {
-    "revision": "8627c92dc660e33b047a1ae2efe17cf9",
-    "url": "/NarcoCalc/img/mw.8627c92d.svg"
-  },
-  {
-    "revision": "f075545eec970dd6bea4083002f29084",
-    "url": "/NarcoCalc/img/mw.f075545e.svg"
-  },
-  {
     "revision": "f1beedaaf3f70d20d2e962a02d98c559",
     "url": "/NarcoCalc/img/mv.f1beedaa.svg"
-  },
-  {
-    "revision": "fcbb9709a43b6b1f0b94cb5ae9db08be",
-    "url": "/NarcoCalc/img/mu.fcbb9709.svg"
   },
   {
     "revision": "c11e6efecc84326132b226b7cf84bea5",
@@ -1244,16 +1240,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mt.07ddb919.svg"
   },
   {
+    "revision": "fcbb9709a43b6b1f0b94cb5ae9db08be",
+    "url": "/NarcoCalc/img/mu.fcbb9709.svg"
+  },
+  {
     "revision": "ec75da93364b2dd68705a2718c551a8f",
     "url": "/NarcoCalc/img/ms.ec75da93.svg"
   },
   {
-    "revision": "830476bcbc2114c0edc9a88954f0816e",
-    "url": "/NarcoCalc/img/ms.830476bc.svg"
-  },
-  {
     "revision": "38d81da0d49d46e4227690edf3c52976",
     "url": "/NarcoCalc/img/mr.38d81da0.svg"
+  },
+  {
+    "revision": "830476bcbc2114c0edc9a88954f0816e",
+    "url": "/NarcoCalc/img/ms.830476bc.svg"
   },
   {
     "revision": "55d8f233036c23373ecf6eade8d735a1",
@@ -1272,16 +1272,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mp.fec806e5.svg"
   },
   {
-    "revision": "bccdcb5ecffe13079a8077d6cd57263a",
-    "url": "/NarcoCalc/img/mp.bccdcb5e.svg"
-  },
-  {
     "revision": "94c09d5818bb170ef91f26db40712e94",
     "url": "/NarcoCalc/img/mo.94c09d58.svg"
   },
   {
+    "revision": "bccdcb5ecffe13079a8077d6cd57263a",
+    "url": "/NarcoCalc/img/mp.bccdcb5e.svg"
+  },
+  {
     "revision": "7ff5bebad5607af5a3a0fbedc02f4d37",
     "url": "/NarcoCalc/img/mn.7ff5beba.svg"
+  },
+  {
+    "revision": "012b278d37953c5a2e3e8ae12422e31e",
+    "url": "/NarcoCalc/img/mo.012b278d.svg"
   },
   {
     "revision": "5f43e0c610de2e75736483bbbd06da28",
@@ -1296,16 +1300,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mm.a646bac3.svg"
   },
   {
-    "revision": "012b278d37953c5a2e3e8ae12422e31e",
-    "url": "/NarcoCalc/img/mo.012b278d.svg"
+    "revision": "02a95bc10fc1791b510be1ecbf972359",
+    "url": "/NarcoCalc/img/ml.02a95bc1.svg"
   },
   {
     "revision": "64aa836720124c581eea7ae0d5b60443",
     "url": "/NarcoCalc/img/ml.64aa8367.svg"
-  },
-  {
-    "revision": "02a95bc10fc1791b510be1ecbf972359",
-    "url": "/NarcoCalc/img/ml.02a95bc1.svg"
   },
   {
     "revision": "12c1fffa458d1051841446e12b5f6ae8",
@@ -1332,18 +1332,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/mg.14910774.svg"
   },
   {
-    "revision": "647123880ea3877d53947e8c33ecabe4",
-    "url": "/NarcoCalc/img/mf.64712388.svg"
-  },
-  {
-    "revision": "879bb31c43329e54330fdf47b5faced9",
-    "url": "/NarcoCalc/img/md.879bb31c.svg"
-  },
-  {
-    "revision": "37b693f64c100e0b9a2d6be418dd4fdb",
-    "url": "/NarcoCalc/img/me.37b693f6.svg"
-  },
-  {
     "revision": "d3fbe0d987afbd8149e84ca101791d16",
     "url": "/NarcoCalc/img/mf.d3fbe0d9.svg"
   },
@@ -1352,12 +1340,24 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/me.be3b17db.svg"
   },
   {
-    "revision": "04a4a202a022ccc10add49ca6cf706fd",
-    "url": "/NarcoCalc/img/mc.04a4a202.svg"
+    "revision": "37b693f64c100e0b9a2d6be418dd4fdb",
+    "url": "/NarcoCalc/img/me.37b693f6.svg"
+  },
+  {
+    "revision": "879bb31c43329e54330fdf47b5faced9",
+    "url": "/NarcoCalc/img/md.879bb31c.svg"
+  },
+  {
+    "revision": "647123880ea3877d53947e8c33ecabe4",
+    "url": "/NarcoCalc/img/mf.64712388.svg"
   },
   {
     "revision": "824e3e16727c39d5ad3be1d767e50584",
     "url": "/NarcoCalc/img/md.824e3e16.svg"
+  },
+  {
+    "revision": "04a4a202a022ccc10add49ca6cf706fd",
+    "url": "/NarcoCalc/img/mc.04a4a202.svg"
   },
   {
     "revision": "37be4651b8d058120dd8cb47983e9c99",
@@ -1368,6 +1368,10 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ma.c91b7404.svg"
   },
   {
+    "revision": "821b32398c1b5dbe1834770ef5f6ba61",
+    "url": "/NarcoCalc/img/ma.821b3239.svg"
+  },
+  {
     "revision": "27ae749c0846f8a5c2e256ed49faf819",
     "url": "/NarcoCalc/img/ly.27ae749c.svg"
   },
@@ -1376,28 +1380,32 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ly.41489295.svg"
   },
   {
-    "revision": "821b32398c1b5dbe1834770ef5f6ba61",
-    "url": "/NarcoCalc/img/ma.821b3239.svg"
+    "revision": "35ddb2f334c25ef94cafb8373be1bcae",
+    "url": "/NarcoCalc/img/lv.35ddb2f3.svg"
   },
   {
     "revision": "4838077bfe980fe615358fdc5ce4af8b",
     "url": "/NarcoCalc/img/lv.4838077b.svg"
   },
   {
-    "revision": "35ddb2f334c25ef94cafb8373be1bcae",
-    "url": "/NarcoCalc/img/lv.35ddb2f3.svg"
-  },
-  {
     "revision": "57b9eece69ceaf18a2caa31327fa205d",
     "url": "/NarcoCalc/img/lu.57b9eece.svg"
+  },
+  {
+    "revision": "cad8b8baa96492b8507359b0dfaaad66",
+    "url": "/NarcoCalc/img/lu.cad8b8ba.svg"
+  },
+  {
+    "revision": "76ec6661382ebca94b7f03e61e76e72d",
+    "url": "/NarcoCalc/img/lt.76ec6661.svg"
   },
   {
     "revision": "c2b153a464289ca2eda1e4c289b65c17",
     "url": "/NarcoCalc/img/lt.c2b153a4.svg"
   },
   {
-    "revision": "76ec6661382ebca94b7f03e61e76e72d",
-    "url": "/NarcoCalc/img/lt.76ec6661.svg"
+    "revision": "fd0cc2e17bcb57d703a83d0079c316bd",
+    "url": "/NarcoCalc/img/ls.fd0cc2e1.svg"
   },
   {
     "revision": "6497b847f86af3b088814ff131f87ff2",
@@ -1406,14 +1414,6 @@ self.__precacheManifest = [
   {
     "revision": "e3059e9827267ac9bf36de53a29cb0a8",
     "url": "/NarcoCalc/img/lr.e3059e98.svg"
-  },
-  {
-    "revision": "cad8b8baa96492b8507359b0dfaaad66",
-    "url": "/NarcoCalc/img/lu.cad8b8ba.svg"
-  },
-  {
-    "revision": "fd0cc2e17bcb57d703a83d0079c316bd",
-    "url": "/NarcoCalc/img/ls.fd0cc2e1.svg"
   },
   {
     "revision": "e026e0f7f0697fe0dd3cf3f86443b851",
@@ -1448,28 +1448,32 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/lb.c43e467f.svg"
   },
   {
-    "revision": "635b3d0bd4b2f2854bff71670f72d22f",
-    "url": "/NarcoCalc/img/la.635b3d0b.svg"
+    "revision": "bdba8149d35cfa3642a7fddb7d204e19",
+    "url": "/NarcoCalc/img/lb.bdba8149.svg"
   },
   {
     "revision": "d4742a0bc73e9af721f7b7e6c08c4720",
     "url": "/NarcoCalc/img/la.d4742a0b.svg"
   },
   {
-    "revision": "765abf25f0c5a3107513c0d71b66ea98",
-    "url": "/NarcoCalc/img/kz.765abf25.svg"
-  },
-  {
-    "revision": "bdba8149d35cfa3642a7fddb7d204e19",
-    "url": "/NarcoCalc/img/lb.bdba8149.svg"
+    "revision": "635b3d0bd4b2f2854bff71670f72d22f",
+    "url": "/NarcoCalc/img/la.635b3d0b.svg"
   },
   {
     "revision": "0855baa1155ef2663125457d2f27fb81",
     "url": "/NarcoCalc/img/kz.0855baa1.svg"
   },
   {
+    "revision": "765abf25f0c5a3107513c0d71b66ea98",
+    "url": "/NarcoCalc/img/kz.765abf25.svg"
+  },
+  {
     "revision": "58b6db257c2227ed4023905121077fa6",
     "url": "/NarcoCalc/img/ky.58b6db25.svg"
+  },
+  {
+    "revision": "bc2f4070b8aede23d93492f15b23af52",
+    "url": "/NarcoCalc/img/ky.bc2f4070.svg"
   },
   {
     "revision": "0a1e78f001df0d3a9a4657ad20df9d20",
@@ -1480,16 +1484,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/kr.7ce5a140.svg"
   },
   {
-    "revision": "472436a2cd7adcfb81854d5e9d45267b",
-    "url": "/NarcoCalc/img/kr.472436a2.svg"
-  },
-  {
-    "revision": "bc2f4070b8aede23d93492f15b23af52",
-    "url": "/NarcoCalc/img/ky.bc2f4070.svg"
-  },
-  {
     "revision": "8758e4ab9960cbd0372b2bdbb5a97db4",
     "url": "/NarcoCalc/img/kw.8758e4ab.svg"
+  },
+  {
+    "revision": "472436a2cd7adcfb81854d5e9d45267b",
+    "url": "/NarcoCalc/img/kr.472436a2.svg"
   },
   {
     "revision": "bab86a2769bae956735f43562d7a0a6e",
@@ -1508,20 +1508,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/kn.8d2a2bac.svg"
   },
   {
-    "revision": "86ad579fab8211512f200facfb700eaf",
-    "url": "/NarcoCalc/img/km.86ad579f.svg"
-  },
-  {
     "revision": "05c0e1c1d234ec535e809a8711e6f779",
     "url": "/NarcoCalc/img/km.05c0e1c1.svg"
   },
   {
-    "revision": "84841933e626d7194ab99001eaffcca7",
-    "url": "/NarcoCalc/img/ki.84841933.svg"
+    "revision": "86ad579fab8211512f200facfb700eaf",
+    "url": "/NarcoCalc/img/km.86ad579f.svg"
   },
   {
     "revision": "db9ce4a8eedd3429844cb999147e4e05",
     "url": "/NarcoCalc/img/ki.db9ce4a8.svg"
+  },
+  {
+    "revision": "84841933e626d7194ab99001eaffcca7",
+    "url": "/NarcoCalc/img/ki.84841933.svg"
   },
   {
     "revision": "2be5f19d71be932f32fbfe74572384b5",
@@ -1536,14 +1536,6 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/kg.20cdf615.svg"
   },
   {
-    "revision": "0e8c2a1deb7a97d5d6fae34edf6fffe0",
-    "url": "/NarcoCalc/img/kg.0e8c2a1d.svg"
-  },
-  {
-    "revision": "b5b509c87244a9ff54e87d54f97d64bd",
-    "url": "/NarcoCalc/img/jp.b5b509c8.svg"
-  },
-  {
     "revision": "8db0f5f99c8a152df9a5386e54302cab",
     "url": "/NarcoCalc/img/ke.8db0f5f9.svg"
   },
@@ -1552,36 +1544,44 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ke.ac8b7d81.svg"
   },
   {
-    "revision": "28157b5298df82905d87061bfe56788c",
-    "url": "/NarcoCalc/img/jp.28157b52.svg"
+    "revision": "0e8c2a1deb7a97d5d6fae34edf6fffe0",
+    "url": "/NarcoCalc/img/kg.0e8c2a1d.svg"
+  },
+  {
+    "revision": "b5b509c87244a9ff54e87d54f97d64bd",
+    "url": "/NarcoCalc/img/jp.b5b509c8.svg"
   },
   {
     "revision": "e0c3d125e44478b3c9fc62c9c7b07951",
     "url": "/NarcoCalc/img/jo.e0c3d125.svg"
   },
   {
-    "revision": "1b388cb263bd368e45888104001165b2",
-    "url": "/NarcoCalc/img/jm.1b388cb2.svg"
-  },
-  {
     "revision": "5806167645b758207aeb910e04e25ecf",
     "url": "/NarcoCalc/img/jo.58061676.svg"
   },
   {
-    "revision": "a2bead8f5c6abd826fe5b5e8c52901b4",
-    "url": "/NarcoCalc/img/je.a2bead8f.svg"
+    "revision": "28157b5298df82905d87061bfe56788c",
+    "url": "/NarcoCalc/img/jp.28157b52.svg"
+  },
+  {
+    "revision": "1b388cb263bd368e45888104001165b2",
+    "url": "/NarcoCalc/img/jm.1b388cb2.svg"
   },
   {
     "revision": "c5279e8583934fd4fcc2b95faab316c9",
     "url": "/NarcoCalc/img/jm.c5279e85.svg"
   },
   {
-    "revision": "15a1f288182170a580964fb8a64248d7",
-    "url": "/NarcoCalc/img/it.15a1f288.svg"
-  },
-  {
     "revision": "12bf2a5fe22bbdbcf5b5187920ed633e",
     "url": "/NarcoCalc/img/je.12bf2a5f.svg"
+  },
+  {
+    "revision": "a2bead8f5c6abd826fe5b5e8c52901b4",
+    "url": "/NarcoCalc/img/je.a2bead8f.svg"
+  },
+  {
+    "revision": "15a1f288182170a580964fb8a64248d7",
+    "url": "/NarcoCalc/img/it.15a1f288.svg"
   },
   {
     "revision": "5a3412cbe8f690dc5dfc92c3b8b68001",
@@ -1600,20 +1600,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ir.1a62e10d.svg"
   },
   {
-    "revision": "a632108725e2eb4eebf2bc82161185d3",
-    "url": "/NarcoCalc/img/iq.a6321087.svg"
-  },
-  {
     "revision": "28b0fb3b3d83de326b81a1668e21beb6",
     "url": "/NarcoCalc/img/ir.28b0fb3b.svg"
   },
   {
-    "revision": "1734998df85efc34d79d0fb154fffd7d",
-    "url": "/NarcoCalc/img/io.1734998d.svg"
-  },
-  {
     "revision": "77fca3a16e9b7d1b1de65cd1ae6c4973",
     "url": "/NarcoCalc/img/iq.77fca3a1.svg"
+  },
+  {
+    "revision": "a632108725e2eb4eebf2bc82161185d3",
+    "url": "/NarcoCalc/img/iq.a6321087.svg"
+  },
+  {
+    "revision": "1734998df85efc34d79d0fb154fffd7d",
+    "url": "/NarcoCalc/img/io.1734998d.svg"
   },
   {
     "revision": "7fc155e7fac8126870876572461fe95b",
@@ -1636,12 +1636,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/im.07fac2af.svg"
   },
   {
+    "revision": "ad7a2d12e6947b430bc763470066d10a",
+    "url": "/NarcoCalc/img/il.ad7a2d12.svg"
+  },
+  {
     "revision": "5a12c248e7badb386042c6f20160aef6",
     "url": "/NarcoCalc/img/il.5a12c248.svg"
   },
   {
-    "revision": "ad7a2d12e6947b430bc763470066d10a",
-    "url": "/NarcoCalc/img/il.ad7a2d12.svg"
+    "revision": "ce6c7d810f03854cd7517de4dad68c5d",
+    "url": "/NarcoCalc/img/ie.ce6c7d81.svg"
   },
   {
     "revision": "deca9e10a3bd63cbb1cc783d2fc85625",
@@ -1656,28 +1660,16 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/id.e8f1c879.svg"
   },
   {
-    "revision": "ce6c7d810f03854cd7517de4dad68c5d",
-    "url": "/NarcoCalc/img/ie.ce6c7d81.svg"
+    "revision": "d1065faa141b030f4d6317927525ec32",
+    "url": "/NarcoCalc/img/hu.d1065faa.svg"
   },
   {
     "revision": "a38286595b4408dcfabeea890b327320",
     "url": "/NarcoCalc/img/hu.a3828659.svg"
   },
   {
-    "revision": "d1065faa141b030f4d6317927525ec32",
-    "url": "/NarcoCalc/img/hu.d1065faa.svg"
-  },
-  {
     "revision": "06eefed919d3723c507764ee01357a2e",
     "url": "/NarcoCalc/img/ht.06eefed9.svg"
-  },
-  {
-    "revision": "635a60933b2268045706360f55b7b477",
-    "url": "/NarcoCalc/img/hr.635a6093.svg"
-  },
-  {
-    "revision": "db7e3de4435a912737ae15ff8c1b8130",
-    "url": "/NarcoCalc/img/hn.db7e3de4.svg"
   },
   {
     "revision": "5f6a49d0ed1c19657da2392ce95dc7fe",
@@ -1688,12 +1680,28 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/hn.4938f675.svg"
   },
   {
+    "revision": "176d2d57842eb1084e5363276bcaa988",
+    "url": "/NarcoCalc/img/hr.176d2d57.svg"
+  },
+  {
+    "revision": "db7e3de4435a912737ae15ff8c1b8130",
+    "url": "/NarcoCalc/img/hn.db7e3de4.svg"
+  },
+  {
+    "revision": "635a60933b2268045706360f55b7b477",
+    "url": "/NarcoCalc/img/hr.635a6093.svg"
+  },
+  {
+    "revision": "8bbb5756e34452e030d2ccb14d7bf622",
+    "url": "/NarcoCalc/img/hm.8bbb5756.svg"
+  },
+  {
     "revision": "45e61c98191d6b1210b748066ce97549",
     "url": "/NarcoCalc/img/hm.45e61c98.svg"
   },
   {
-    "revision": "176d2d57842eb1084e5363276bcaa988",
-    "url": "/NarcoCalc/img/hr.176d2d57.svg"
+    "revision": "50fa2f99e1b35759629a6399ea58a5c6",
+    "url": "/NarcoCalc/img/hk.50fa2f99.svg"
   },
   {
     "revision": "333d94bf559357540545c39f94cb12ef",
@@ -1704,44 +1712,40 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/hk.029a6bef.svg"
   },
   {
-    "revision": "50fa2f99e1b35759629a6399ea58a5c6",
-    "url": "/NarcoCalc/img/hk.50fa2f99.svg"
-  },
-  {
     "revision": "cbacc8b88ee72a8dcf56632a2b2b947d",
     "url": "/NarcoCalc/img/gy.cbacc8b8.svg"
-  },
-  {
-    "revision": "d4375e9d037d29bc430f6b8f2591514e",
-    "url": "/NarcoCalc/img/gu.d4375e9d.svg"
-  },
-  {
-    "revision": "1ea244637aa5bc1fb63541b77e6a54c0",
-    "url": "/NarcoCalc/img/gw.1ea24463.svg"
-  },
-  {
-    "revision": "beb28cdd728df39cc5016605a594cc99",
-    "url": "/NarcoCalc/img/gu.beb28cdd.svg"
-  },
-  {
-    "revision": "8bbb5756e34452e030d2ccb14d7bf622",
-    "url": "/NarcoCalc/img/hm.8bbb5756.svg"
   },
   {
     "revision": "f0742332f72950dc2c88c2793ffe423f",
     "url": "/NarcoCalc/img/gw.f0742332.svg"
   },
   {
-    "revision": "1067356806f9346264da936cc4c9e120",
-    "url": "/NarcoCalc/img/gs.10673568.svg"
+    "revision": "1ea244637aa5bc1fb63541b77e6a54c0",
+    "url": "/NarcoCalc/img/gw.1ea24463.svg"
+  },
+  {
+    "revision": "d4375e9d037d29bc430f6b8f2591514e",
+    "url": "/NarcoCalc/img/gu.d4375e9d.svg"
+  },
+  {
+    "revision": "beb28cdd728df39cc5016605a594cc99",
+    "url": "/NarcoCalc/img/gu.beb28cdd.svg"
   },
   {
     "revision": "4eea9e03835a6042e803aae0c5103137",
     "url": "/NarcoCalc/img/gt.4eea9e03.svg"
   },
   {
-    "revision": "dcc2c8657fa2795dda11f625a3fd5d67",
-    "url": "/NarcoCalc/img/gr.dcc2c865.svg"
+    "revision": "01ce618dccdf1c3af88fc6cab6c375e9",
+    "url": "/NarcoCalc/img/gt.01ce618d.svg"
+  },
+  {
+    "revision": "1067356806f9346264da936cc4c9e120",
+    "url": "/NarcoCalc/img/gs.10673568.svg"
+  },
+  {
+    "revision": "21f7c99f17bb19ebe4b9921b7fa01afc",
+    "url": "/NarcoCalc/img/gs.21f7c99f.svg"
   },
   {
     "revision": "334890b69eef86b49a9083dcc2f33d31",
@@ -1752,8 +1756,8 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/gq.88946f8a.svg"
   },
   {
-    "revision": "01ce618dccdf1c3af88fc6cab6c375e9",
-    "url": "/NarcoCalc/img/gt.01ce618d.svg"
+    "revision": "dcc2c8657fa2795dda11f625a3fd5d67",
+    "url": "/NarcoCalc/img/gr.dcc2c865.svg"
   },
   {
     "revision": "c095a0d44d955f381d95bc1223c5a74f",
@@ -1776,16 +1780,12 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/gn.e2dcda47.svg"
   },
   {
-    "revision": "6b4107900a93999092ef63fb4b99b171",
-    "url": "/NarcoCalc/img/gm.6b410790.svg"
-  },
-  {
-    "revision": "21f7c99f17bb19ebe4b9921b7fa01afc",
-    "url": "/NarcoCalc/img/gs.21f7c99f.svg"
-  },
-  {
     "revision": "39937d8fd860274df069f97aefc58e15",
     "url": "/NarcoCalc/img/gm.39937d8f.svg"
+  },
+  {
+    "revision": "6b4107900a93999092ef63fb4b99b171",
+    "url": "/NarcoCalc/img/gm.6b410790.svg"
   },
   {
     "revision": "59e1835690dfbbb0414e59a72686b054",
@@ -1800,24 +1800,24 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/gi.1afed1e4.svg"
   },
   {
-    "revision": "71cfe39b19a8cf801dac52745837879d",
-    "url": "/NarcoCalc/img/gi.71cfe39b.svg"
-  },
-  {
     "revision": "e0ca5267471f6b47564b10068f37e874",
     "url": "/NarcoCalc/img/gh.e0ca5267.svg"
+  },
+  {
+    "revision": "71cfe39b19a8cf801dac52745837879d",
+    "url": "/NarcoCalc/img/gi.71cfe39b.svg"
   },
   {
     "revision": "bb3bb60464f9de0885206ae68d817026",
     "url": "/NarcoCalc/img/gh.bb3bb604.svg"
   },
   {
-    "revision": "c447047f465ae1303de6e46c43eb0a6a",
-    "url": "/NarcoCalc/img/gg.c447047f.svg"
-  },
-  {
     "revision": "02df8a5dc2a174160c2ff4febae8c1f6",
     "url": "/NarcoCalc/img/gg.02df8a5d.svg"
+  },
+  {
+    "revision": "c447047f465ae1303de6e46c43eb0a6a",
+    "url": "/NarcoCalc/img/gg.c447047f.svg"
   },
   {
     "revision": "d0185c1175c7d0fa26b1a282440d7677",
@@ -1836,6 +1836,18 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ge.a1295792.svg"
   },
   {
+    "revision": "7c62ce7d1f45914b82768e971aa41745",
+    "url": "/NarcoCalc/img/gd.7c62ce7d.svg"
+  },
+  {
+    "revision": "0e3d254c0cf13bf900b1eed7022fd68f",
+    "url": "/NarcoCalc/img/gd.0e3d254c.svg"
+  },
+  {
+    "revision": "fe60f8318501f211b9583bc6d666c874",
+    "url": "/NarcoCalc/img/gb.fe60f831.svg"
+  },
+  {
     "revision": "85a97dab5b090c1a8110d27fcd570939",
     "url": "/NarcoCalc/img/gb.85a97dab.svg"
   },
@@ -1844,32 +1856,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/ga.886a7348.svg"
   },
   {
-    "revision": "fe60f8318501f211b9583bc6d666c874",
-    "url": "/NarcoCalc/img/gb.fe60f831.svg"
-  },
-  {
-    "revision": "0e3d254c0cf13bf900b1eed7022fd68f",
-    "url": "/NarcoCalc/img/gd.0e3d254c.svg"
-  },
-  {
     "revision": "8629ddf547aa8d81b25fba0579963c21",
     "url": "/NarcoCalc/img/ga.8629ddf5.svg"
-  },
-  {
-    "revision": "f4529ed89ccd5521b6895e298346e71d",
-    "url": "/NarcoCalc/img/fr.f4529ed8.svg"
   },
   {
     "revision": "4e3ec048e64c77815332dbb34f9b6305",
     "url": "/NarcoCalc/img/fr.4e3ec048.svg"
   },
   {
-    "revision": "32019da00e4ad54d1cda9ff412d32ca1",
-    "url": "/NarcoCalc/img/fo.32019da0.svg"
+    "revision": "f4529ed89ccd5521b6895e298346e71d",
+    "url": "/NarcoCalc/img/fr.f4529ed8.svg"
   },
   {
-    "revision": "7c62ce7d1f45914b82768e971aa41745",
-    "url": "/NarcoCalc/img/gd.7c62ce7d.svg"
+    "revision": "32019da00e4ad54d1cda9ff412d32ca1",
+    "url": "/NarcoCalc/img/fo.32019da0.svg"
   },
   {
     "revision": "c2f634751d1be4f5bb02637a2648823f",
@@ -1880,12 +1880,20 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/fm.41b339f3.svg"
   },
   {
-    "revision": "2c13a5d4f618959c50fcca1b498dd393",
-    "url": "/NarcoCalc/img/fm.2c13a5d4.svg"
+    "revision": "453532c2daca1423d88f079a82cfcfc5",
+    "url": "/NarcoCalc/img/fj.453532c2.svg"
   },
   {
     "revision": "1bffbf9fdbc7e06d1e4ea685247c72f5",
     "url": "/NarcoCalc/img/fk.1bffbf9f.svg"
+  },
+  {
+    "revision": "caf72f69ced8ffea30cc3a38bcc6011e",
+    "url": "/NarcoCalc/img/fj.caf72f69.svg"
+  },
+  {
+    "revision": "2c13a5d4f618959c50fcca1b498dd393",
+    "url": "/NarcoCalc/img/fm.2c13a5d4.svg"
   },
   {
     "revision": "1e53dc26d87dc2ff8cdec524787eb102",
@@ -1900,6 +1908,10 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/et.a61da8e2.svg"
   },
   {
+    "revision": "55109a408f95186b773e8e89b5a67dcc",
+    "url": "/NarcoCalc/img/fi.55109a40.svg"
+  },
+  {
     "revision": "512bde19026857a0be17fa2271224762",
     "url": "/NarcoCalc/img/et.512bde19.svg"
   },
@@ -1908,164 +1920,152 @@ self.__precacheManifest = [
     "url": "/NarcoCalc/img/es.361eda2a.svg"
   },
   {
-    "revision": "55109a408f95186b773e8e89b5a67dcc",
-    "url": "/NarcoCalc/img/fi.55109a40.svg"
-  },
-  {
     "revision": "8d5171c77e388034f48931bb77b65014",
     "url": "/NarcoCalc/img/er.8d5171c7.svg"
-  },
-  {
-    "revision": "caf72f69ced8ffea30cc3a38bcc6011e",
-    "url": "/NarcoCalc/img/fj.caf72f69.svg"
   },
   {
     "revision": "b4ea80f7a2a8848ad55e31b9bf3afc90",
     "url": "/NarcoCalc/img/er.b4ea80f7.svg"
   },
   {
-    "revision": "44d979031e6ecf702d00c9d07bbfcc0c",
-    "url": "/NarcoCalc/img/eh.44d97903.svg"
-  },
-  {
-    "revision": "b0aa9a4e893d49715b780350324cb985",
-    "url": "/NarcoCalc/img/eg.b0aa9a4e.svg"
-  },
-  {
-    "revision": "4137f1081dc73f5450aa1732b27a73eb",
-    "url": "/NarcoCalc/img/eg.4137f108.svg"
-  },
-  {
     "revision": "780a0a9e2e95e4971fdca31fbf97091e",
     "url": "/NarcoCalc/img/eh.780a0a9e.svg"
-  },
-  {
-    "revision": "9b43910c06e045dae08a96b7e185ca30",
-    "url": "/NarcoCalc/img/ee.9b43910c.svg"
-  },
-  {
-    "revision": "03c3d564daa8527441e943dab22a6e24",
-    "url": "/NarcoCalc/img/ee.03c3d564.svg"
-  },
-  {
-    "revision": "3bafd0714678cf63330f182d9ec4cc41",
-    "url": "/NarcoCalc/img/ec.3bafd071.svg"
-  },
-  {
-    "revision": "ff15f060b5abba792024a5b144e5a31d",
-    "url": "/NarcoCalc/img/dz.ff15f060.svg"
-  },
-  {
-    "revision": "453532c2daca1423d88f079a82cfcfc5",
-    "url": "/NarcoCalc/img/fj.453532c2.svg"
-  },
-  {
-    "revision": "0477e542720bf395ac09392db78e17a7",
-    "url": "/NarcoCalc/img/dz.0477e542.svg"
-  },
-  {
-    "revision": "8fb69b7933c6f712e20572580736f7c4",
-    "url": "/NarcoCalc/img/ec.8fb69b79.svg"
-  },
-  {
-    "revision": "fda8fe7071e4410604350b7ca25aeb4b",
-    "url": "/NarcoCalc/img/dm.fda8fe70.svg"
   },
   {
     "revision": "bcf1ab9854fa7d81fedb1115032ab465",
     "url": "/NarcoCalc/img/es.bcf1ab98.svg"
   },
   {
-    "revision": "b1635699ae7bb121d9efce1f2a881320",
-    "url": "/NarcoCalc/img/dm.b1635699.svg"
+    "revision": "44d979031e6ecf702d00c9d07bbfcc0c",
+    "url": "/NarcoCalc/img/eh.44d97903.svg"
   },
   {
-    "revision": "302b4687163f20c1e43779d2a3f671a0",
-    "url": "/NarcoCalc/img/dk.302b4687.svg"
+    "revision": "4137f1081dc73f5450aa1732b27a73eb",
+    "url": "/NarcoCalc/img/eg.4137f108.svg"
+  },
+  {
+    "revision": "9b43910c06e045dae08a96b7e185ca30",
+    "url": "/NarcoCalc/img/ee.9b43910c.svg"
+  },
+  {
+    "revision": "b0aa9a4e893d49715b780350324cb985",
+    "url": "/NarcoCalc/img/eg.b0aa9a4e.svg"
+  },
+  {
+    "revision": "03c3d564daa8527441e943dab22a6e24",
+    "url": "/NarcoCalc/img/ee.03c3d564.svg"
+  },
+  {
+    "revision": "8fb69b7933c6f712e20572580736f7c4",
+    "url": "/NarcoCalc/img/ec.8fb69b79.svg"
+  },
+  {
+    "revision": "ff15f060b5abba792024a5b144e5a31d",
+    "url": "/NarcoCalc/img/dz.ff15f060.svg"
+  },
+  {
+    "revision": "0477e542720bf395ac09392db78e17a7",
+    "url": "/NarcoCalc/img/dz.0477e542.svg"
+  },
+  {
+    "revision": "3bafd0714678cf63330f182d9ec4cc41",
+    "url": "/NarcoCalc/img/ec.3bafd071.svg"
+  },
+  {
+    "revision": "fda8fe7071e4410604350b7ca25aeb4b",
+    "url": "/NarcoCalc/img/dm.fda8fe70.svg"
+  },
+  {
+    "revision": "b1635699ae7bb121d9efce1f2a881320",
+    "url": "/NarcoCalc/img/dm.b1635699.svg"
   },
   {
     "revision": "59a9d25f6d57f572f48c2c1eeecb0724",
     "url": "/NarcoCalc/img/dk.59a9d25f.svg"
   },
   {
-    "revision": "63e20123441e1fe6998df866aceb2a4c",
-    "url": "/NarcoCalc/img/dj.63e20123.svg"
+    "revision": "302b4687163f20c1e43779d2a3f671a0",
+    "url": "/NarcoCalc/img/dk.302b4687.svg"
   },
   {
-    "revision": "74018f0abdef885f425c141cc3244afb",
-    "url": "/NarcoCalc/img/de.74018f0a.svg"
+    "revision": "63e20123441e1fe6998df866aceb2a4c",
+    "url": "/NarcoCalc/img/dj.63e20123.svg"
   },
   {
     "revision": "694ca31b23013c8f1127e23741dd54a0",
     "url": "/NarcoCalc/img/dj.694ca31b.svg"
   },
   {
-    "revision": "246a5fcba5ed21747c2a108e5e635ec7",
-    "url": "/NarcoCalc/img/de.246a5fcb.svg"
+    "revision": "74018f0abdef885f425c141cc3244afb",
+    "url": "/NarcoCalc/img/de.74018f0a.svg"
   },
   {
     "revision": "b325cced526f0d4cb42b655eca7f40e4",
     "url": "/NarcoCalc/img/cz.b325cced.svg"
   },
   {
-    "revision": "09a9b116642e821937ffc1d777a99022",
-    "url": "/NarcoCalc/img/cz.09a9b116.svg"
+    "revision": "246a5fcba5ed21747c2a108e5e635ec7",
+    "url": "/NarcoCalc/img/de.246a5fcb.svg"
   },
   {
-    "revision": "704fd2a9ed132ee8e42c5fc4dbea31a1",
-    "url": "/NarcoCalc/img/do.704fd2a9.svg"
+    "revision": "09a9b116642e821937ffc1d777a99022",
+    "url": "/NarcoCalc/img/cz.09a9b116.svg"
   },
   {
     "revision": "88a82fcc61969d9c897ca685f5020b5e",
     "url": "/NarcoCalc/img/do.88a82fcc.svg"
   },
   {
-    "revision": "8142eab77f7fe4cfb349a14b4f94ce1d",
-    "url": "/NarcoCalc/img/cx.8142eab7.svg"
+    "revision": "704fd2a9ed132ee8e42c5fc4dbea31a1",
+    "url": "/NarcoCalc/img/do.704fd2a9.svg"
   },
   {
     "revision": "dbf92cb89053f06b273f767cc7dd3a8e",
     "url": "/NarcoCalc/img/cy.dbf92cb8.svg"
   },
   {
-    "revision": "5e40be33df611e7bdecee279ccf3889e",
-    "url": "/NarcoCalc/img/cy.5e40be33.svg"
+    "revision": "8142eab77f7fe4cfb349a14b4f94ce1d",
+    "url": "/NarcoCalc/img/cx.8142eab7.svg"
   },
   {
-    "revision": "ae75cba57510891147b59f88c71d3584",
-    "url": "/NarcoCalc/img/cw.ae75cba5.svg"
+    "revision": "5e40be33df611e7bdecee279ccf3889e",
+    "url": "/NarcoCalc/img/cy.5e40be33.svg"
   },
   {
     "revision": "b2a59c5ce370cabebdcbd19672933e7e",
     "url": "/NarcoCalc/img/cx.b2a59c5c.svg"
   },
   {
-    "revision": "9c06626ee2188bfd83b63be4b009cc30",
-    "url": "/NarcoCalc/img/cw.9c06626e.svg"
-  },
-  {
-    "revision": "e4f897dc1790e9f3d1adafb62d0f7fd1",
-    "url": "/NarcoCalc/img/cu.e4f897dc.svg"
-  },
-  {
-    "revision": "624a2d4d919439bbd76b1431de002c18",
-    "url": "/NarcoCalc/img/cv.624a2d4d.svg"
-  },
-  {
-    "revision": "1c7cc4da857495d8b44eb88d22a51e33",
-    "url": "/NarcoCalc/img/cu.1c7cc4da.svg"
+    "revision": "ae75cba57510891147b59f88c71d3584",
+    "url": "/NarcoCalc/img/cw.ae75cba5.svg"
   },
   {
     "revision": "accdfa0ea8efad323ef4711339765a4b",
     "url": "/NarcoCalc/img/cv.accdfa0e.svg"
   },
   {
-    "revision": "0d349fd2526b99ef265d29d840611ce6",
-    "url": "/NarcoCalc/img/cr.0d349fd2.svg"
+    "revision": "9c06626ee2188bfd83b63be4b009cc30",
+    "url": "/NarcoCalc/img/cw.9c06626e.svg"
+  },
+  {
+    "revision": "624a2d4d919439bbd76b1431de002c18",
+    "url": "/NarcoCalc/img/cv.624a2d4d.svg"
+  },
+  {
+    "revision": "e4f897dc1790e9f3d1adafb62d0f7fd1",
+    "url": "/NarcoCalc/img/cu.e4f897dc.svg"
+  },
+  {
+    "revision": "1c7cc4da857495d8b44eb88d22a51e33",
+    "url": "/NarcoCalc/img/cu.1c7cc4da.svg"
   },
   {
     "revision": "13c483a397095a9d8703d1eb46328c77",
     "url": "/NarcoCalc/img/cr.13c483a3.svg"
+  },
+  {
+    "revision": "0d349fd2526b99ef265d29d840611ce6",
+    "url": "/NarcoCalc/img/cr.0d349fd2.svg"
   },
   {
     "revision": "e0e644380af3fe61594949af552faa2f",
