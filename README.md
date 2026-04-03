@@ -96,3 +96,11 @@ The logo was modified from a picture ( https://pixabay.com/de/illustrations/puls
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Peuqui/NarcoCalc&type=Date)](https://star-history.com/#Peuqui/NarcoCalc&Date)
+
+---
+
+## ☕ Support
+
+If you find this project useful, consider supporting me:
+
+<a href="https://ko-fi.com/peuqui" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Support me on Ko-fi" height="50"></a>
