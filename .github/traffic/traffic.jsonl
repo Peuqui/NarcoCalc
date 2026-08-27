@@ -31161,3 +31161,229 @@
   "stars": 1,
   "forks": 0
 }
+{
+  "date": "2026-08-27",
+  "views": {
+    "count": 23,
+    "uniques": 2,
+    "views": [
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-14T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-15T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-16T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-17T00:00:00Z",
+        "count": 13,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-18T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-20T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 10,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ]
+  },
+  "clones": {
+    "count": 207,
+    "uniques": 148,
+    "clones": [
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-08-14T00:00:00Z",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-08-15T00:00:00Z",
+        "count": 139,
+        "uniques": 127
+      },
+      {
+        "timestamp": "2026-08-16T00:00:00Z",
+        "count": 15,
+        "uniques": 9
+      },
+      {
+        "timestamp": "2026-08-17T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-08-18T00:00:00Z",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-08-19T00:00:00Z",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-08-20T00:00:00Z",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 10,
+        "uniques": 6
+      },
+      {
+        "timestamp": "2026-08-22T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-08-24T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 8,
+        "uniques": 4
+      }
+    ]
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 23,
+      "uniques": 2
+    }
+  ],
+  "paths": [
+    {
+      "path": "/Peuqui/NarcoCalc",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/package.json",
+      "title": "/blob/main/package.json",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/postcss.config.js",
+      "title": "/blob/main/postcss.config.js",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/vue.config.js",
+      "title": "/blob/main/vue.config.js",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/tree/main/src/assets",
+      "title": "/tree/main/src/assets",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/tree/main/src/components",
+      "title": "/tree/main/src/components",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/tree/main/src/views",
+      "title": "/tree/main/src/views",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/.browserslistrc",
+      "title": "/blob/main/.browserslistrc",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/babel.config.js",
+      "title": "/blob/main/babel.config.js",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/blob/main/package-lock.json",
+      "title": "/blob/main/package-lock.json",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "stars": 1,
+  "forks": 0
+}
