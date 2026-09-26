@@ -37073,3 +37073,210 @@
   "stars": 1,
   "forks": 0
 }
+{
+  "date": "2026-09-26",
+  "views": {
+    "count": 19,
+    "uniques": 10,
+    "views": [
+      {
+        "timestamp": "2026-09-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-12T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-13T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-14T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-15T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-16T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-17T00:00:00Z",
+        "count": 6,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-09-18T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-20T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-21T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-22T00:00:00Z",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-23T00:00:00Z",
+        "count": 2,
+        "uniques": 1
+      }
+    ]
+  },
+  "clones": {
+    "count": 110,
+    "uniques": 48,
+    "clones": [
+      {
+        "timestamp": "2026-09-10T00:00:00Z",
+        "count": 18,
+        "uniques": 11
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-09-12T00:00:00Z",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-09-13T00:00:00Z",
+        "count": 23,
+        "uniques": 16
+      },
+      {
+        "timestamp": "2026-09-14T00:00:00Z",
+        "count": 5,
+        "uniques": 5
+      },
+      {
+        "timestamp": "2026-09-15T00:00:00Z",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-09-16T00:00:00Z",
+        "count": 11,
+        "uniques": 7
+      },
+      {
+        "timestamp": "2026-09-17T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-09-18T00:00:00Z",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-09-19T00:00:00Z",
+        "count": 5,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-09-20T00:00:00Z",
+        "count": 9,
+        "uniques": 7
+      },
+      {
+        "timestamp": "2026-09-21T00:00:00Z",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "timestamp": "2026-09-22T00:00:00Z",
+        "count": 6,
+        "uniques": 4
+      },
+      {
+        "timestamp": "2026-09-23T00:00:00Z",
+        "count": 11,
+        "uniques": 7
+      }
+    ]
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 4,
+      "uniques": 3
+    },
+    {
+      "referrer": "peuqui.github.io",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/Peuqui/NarcoCalc",
+      "title": "Overview",
+      "count": 11,
+      "uniques": 7
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/issues",
+      "title": "/issues",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/commit/9cff1c67d7717b5504d57dcaebbcc77c1ecbcdd8",
+      "title": "/commit/9cff1c67d7717b5504d57dcaebbcc77c1ecbcdd8",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/pulse",
+      "title": "/pulse",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/graphs/commit-activity",
+      "title": "/graphs/commit-activity",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/Peuqui/NarcoCalc/pulls",
+      "title": "/pulls",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "stars": 1,
+  "forks": 0
+}
