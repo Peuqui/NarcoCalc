@@ -95,7 +95,9 @@ The logo was modified from a picture ( https://pixabay.com/de/illustrations/puls
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Peuqui/NarcoCalc&type=Date)](https://star-history.com/#Peuqui/NarcoCalc&Date)
+![Star History](.github/traffic/star-history.svg)
+
+<sub>Collected by the repo itself: a daily workflow records the star count and renders the chart. GitHub restricted the stargazer API to repo admins on 2026-06-30, so external chart services now need a token with write access.</sub>
 
 ---
 
